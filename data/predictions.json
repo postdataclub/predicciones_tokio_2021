@@ -13960,13 +13960,13 @@
                     "date": "2021/08/04",
                     "prediction": {
                         "oro": {
-                            "country": null
+                            "country": "CHN"
                         },
                         "plata": {
-                            "country": null
+                            "country": "USA"
                         },
                         "bronce": {
-                            "country": null
+                            "country": "DOM"
                         }
                     },
                     "positions": {
@@ -13991,13 +13991,13 @@
                     "date": "2021/08/07",
                     "prediction": {
                         "oro": {
-                            "country": null
+                            "country": "BRA"
                         },
                         "plata": {
-                            "country": null
+                            "country": "POL"
                         },
                         "bronce": {
-                            "country": null
+                            "country": "USA"
                         }
                     },
                     "positions": {
