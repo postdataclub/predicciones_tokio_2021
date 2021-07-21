@@ -2411,14 +2411,13 @@
                     "date": "2021/08/07",
                     "prediction": {
                         "oro": {
-                            "country": null
+                            "country": "KOR"
                         },
                         "plata": {
-                            "country": null
+                            "country": "JPN"
                         },
                         "bronce": {
-                            "name": null,
-                            "country": null
+                            "country": "USA"
                         }
                     },
                     "positions": {
@@ -2449,16 +2448,13 @@
                     "date": "2021/07/27",
                     "prediction": {
                         "oro": {
-                            "name": null,
-                            "country": null
+                            "country": "AUS"
                         },
                         "plata": {
-                            "name": null,
-                            "country": null
+                            "country": "JPN"
                         },
                         "bronce": {
-                            "name": null,
-                            "country": null
+                            "country": "USA"
                         }
                     },
                     "positions": {
@@ -4557,13 +4553,13 @@
                     "date": "2021/08/06",
                     "prediction": {
                         "oro": {
-                            "country": null
+                            "country": "JPN"
                         },
                         "plata": {
-                            "country": null
+                            "country": "CAN"
                         },
                         "bronce": {
-                            "country": null
+                            "country": "GBR"
                         }
                     },
                     "positions": {
@@ -4588,13 +4584,13 @@
                     "date": "2021/08/07",
                     "prediction": {
                         "oro": {
-                            "country": null
+                            "country": "BRA"
                         },
                         "plata": {
-                            "country": null
+                            "country": "DEU"
                         },
                         "bronce": {
-                            "country": null
+                            "country": "KOR"
                         }
                     },
                     "positions": {
@@ -13960,13 +13956,13 @@
                     "date": "2021/08/04",
                     "prediction": {
                         "oro": {
-                            "country": null
+                            "country": "CHN"
                         },
                         "plata": {
-                            "country": null
+                            "country": "USA"
                         },
                         "bronce": {
-                            "country": null
+                            "country": "DOM"
                         }
                     },
                     "positions": {
@@ -13991,13 +13987,13 @@
                     "date": "2021/08/07",
                     "prediction": {
                         "oro": {
-                            "country": null
+                            "country": "BRA"
                         },
                         "plata": {
-                            "country": null
+                            "country": "POL"
                         },
                         "bronce": {
-                            "country": null
+                            "country": "USA"
                         }
                     },
                     "positions": {
