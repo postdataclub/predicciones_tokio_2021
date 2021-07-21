@@ -12315,16 +12315,16 @@
                     "date": "2021/07/31",
                     "prediction": {
                         "oro": {
-                            "name": null,
-                            "country": null
+                            "name": "Serena Williams",
+                            "country": "USA"
                         },
                         "plata": {
-                            "name": null,
-                            "country": null
+                            "name": "Agnieszka Radwanska",
+                            "country": "POL"
                         },
                         "bronce": {
-                            "name": null,
-                            "country": null
+                            "name": "Garbine Muguruza",
+                            "country": "ESP"
                         }
                     },
                     "positions": {
