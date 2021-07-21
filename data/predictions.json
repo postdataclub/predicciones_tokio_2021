@@ -2448,16 +2448,13 @@
                     "date": "2021/07/27",
                     "prediction": {
                         "oro": {
-                            "name": null,
-                            "country": null
+                            "country": "AUS"
                         },
                         "plata": {
-                            "name": null,
-                            "country": null
+                            "country": "JPN"
                         },
                         "bronce": {
-                            "name": null,
-                            "country": null
+                            "country": "USA"
                         }
                     },
                     "positions": {
