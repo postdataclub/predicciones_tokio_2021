@@ -2411,14 +2411,13 @@
                     "date": "2021/08/07",
                     "prediction": {
                         "oro": {
-                            "country": null
+                            "country": "KOR"
                         },
                         "plata": {
-                            "country": null
+                            "country": "JPN"
                         },
                         "bronce": {
-                            "name": null,
-                            "country": null
+                            "country": "USA"
                         }
                     },
                     "positions": {
