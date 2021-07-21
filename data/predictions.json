@@ -10063,16 +10063,16 @@
                     "date": "2021/08/06",
                     "prediction": {
                         "oro": {
-                            "name": null,
-                            "country": null
+                            "name": "Marie Oteiza",
+                            "country": "FRA"
                         },
                         "plata": {
-                            "name": null,
-                            "country": null
+                            "name": "Volha Silkina",
+                            "country": "BLR"
                         },
                         "bronce": {
-                            "name": null,
-                            "country": null
+                            "name": "Sarolta Kovacs",
+                            "country": "HUN"
                         }
                     },
                     "positions": {
