@@ -12352,16 +12352,16 @@
                     "date": "2021/08/01",
                     "prediction": {
                         "oro": {
-                            "name": null,
-                            "country": null
+                            "name": "Novak Djokovic",
+                            "country": "SRB"
                         },
                         "plata": {
-                            "name": null,
-                            "country": null
+                            "name": "Andy Murray",
+                            "country": "GBR"
                         },
                         "bronce": {
-                            "name": null,
-                            "country": null
+                            "name": "Rafael Nadal",
+                            "country": "ESP"
                         }
                     },
                     "positions": {
