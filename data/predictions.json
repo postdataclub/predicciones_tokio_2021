@@ -10100,16 +10100,16 @@
                     "date": "2021/08/07",
                     "prediction": {
                         "oro": {
-                            "name": null,
-                            "country": null
+                            "name": "Ilya Palazkov",
+                            "country": "BLR"
                         },
                         "plata": {
-                            "name": null,
-                            "country": null
+                            "name": "Shuai Luo",
+                            "country": "CHN"
                         },
                         "bronce": {
-                            "name": null,
-                            "country": null
+                            "name": "Joseph Choong",
+                            "country": "GBR"
                         }
                     },
                     "positions": {
