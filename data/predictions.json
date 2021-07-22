@@ -212,8 +212,8 @@
                             "country": "GBR"
                         },
                         "bronce": {
-                            "name": "marie-josée ta lou",
-                            "country": "CIV"
+                            "name": "allyson felix",
+                            "country": "USA"
                         }
                     },
                     "positions": {
@@ -281,19 +281,19 @@
             "sport": "atl",
             "sex": {
                 "female": {
-                    "date": "2021/08/06",
+                    "date": "2021/07/20",
                     "prediction": {
                         "oro": {
-                            "name": null,
-                            "country": null
+                            "name": "shakima wimbley",
+                            "country": "USA"
                         },
                         "plata": {
-                            "name": null,
-                            "country": null
+                            "name": "shaunae miller-uibo",
+                            "country": "BAH"
                         },
                         "bronce": {
-                            "name": null,
-                            "country": null
+                            "name": "quanera hayes",
+                            "country": "USA"
                         }
                     },
                     "positions": {
@@ -767,19 +767,19 @@
             "sport": "atl",
             "sex": {
                 "female": {
-                    "date": "2021/08/04",
+                    "date": "2021/07/20",
                     "prediction": {
                         "oro": {
-                            "name": null,
-                            "country": null
+                            "name": "sydney mclaughlin",
+                            "country": "USA"
                         },
                         "plata": {
-                            "name": null,
-                            "country": null
+                            "name": "shamier little",
+                            "country": "USA"
                         },
                         "bronce": {
-                            "name": null,
-                            "country": null
+                            "name": "dalilah muhammad",
+                            "country": "USA"
                         }
                     },
                     "positions": {
@@ -1133,19 +1133,19 @@
                     "update_date": null
                 },
                 "male": {
-                    "date": "2021/08/01",
+                    "date": "2021/07/20",
                     "prediction": {
                         "oro": {
-                            "name": null,
-                            "country": null
+                            "name": "mutaz essa barshim",
+                            "country": "QAT"
                         },
                         "plata": {
-                            "name": null,
-                            "country": null
+                            "name": "juvaughn harrison",
+                            "country": "USA"
                         },
                         "bronce": {
-                            "name": null,
-                            "country": null
+                            "name": "mikhail akimenko",
+                            "country": "ANA"
                         }
                     },
                     "positions": {
@@ -1293,19 +1293,19 @@
                     "update_date": null
                 },
                 "male": {
-                    "date": "2021/08/02",
+                    "date": "2021/07/20",
                     "prediction": {
                         "oro": {
-                            "name": null,
-                            "country": null
+                            "name": "juan miguel echevarría",
+                            "country": "CUB"
                         },
                         "plata": {
-                            "name": null,
-                            "country": null
+                            "name": "luvo manyonga",
+                            "country": "RSA"
                         },
                         "bronce": {
-                            "name": null,
-                            "country": null
+                            "name": "tajay gayle",
+                            "country": "JAM"
                         }
                     },
                     "positions": {
@@ -1373,19 +1373,19 @@
                     "update_date": null
                 },
                 "male": {
-                    "date": "2021/08/05",
+                    "date": "2021/07/20",
                     "prediction": {
                         "oro": {
-                            "name": null,
-                            "country": null
+                            "name": "chris carter",
+                            "country": "USA"
                         },
                         "plata": {
-                            "name": null,
-                            "country": null
+                            "name": "will claye",
+                            "country": "USA"
                         },
                         "bronce": {
-                            "name": null,
-                            "country": null
+                            "name": "christian taylor",
+                            "country": "USA"
                         }
                     },
                     "positions": {
@@ -1427,8 +1427,8 @@
                             "country": "USA"
                         },
                         "bronce": {
-                            "name": "maggie ewen",
-                            "country": "USA"
+                            "name": "christina schwanitz",
+                            "country": "GER"
                         }
                     },
                     "positions": {
@@ -1499,16 +1499,16 @@
                     "date": "2021/07/20",
                     "prediction": {
                         "oro": {
-                            "name": "valarie allman",
-                            "country": "USA"
-                        },
-                        "plata": {
                             "name": "sandra perković",
                             "country": "CRO"
                         },
-                        "bronce": {
+                        "plata": {
                             "name": "yaimé pérez",
                             "country": "CUB"
+                        },
+                        "bronce": {
+                            "name": "kamalpreet kaur",
+                            "country": "IND"
                         }
                     },
                     "positions": {
@@ -1576,19 +1576,19 @@
             "sport": "atl",
             "sex": {
                 "female": {
-                    "date": "2021/08/03",
+                    "date": "2021/07/20",
                     "prediction": {
                         "oro": {
-                            "name": null,
-                            "country": null
+                            "name": "katrine koch jacobsen",
+                            "country": "DEN"
                         },
                         "plata": {
-                            "name": null,
-                            "country": null
+                            "name": "autavia fluker",
+                            "country": "USA"
                         },
                         "bronce": {
-                            "name": null,
-                            "country": null
+                            "name": "lauren bruce",
+                            "country": "NZL"
                         }
                     },
                     "positions": {
