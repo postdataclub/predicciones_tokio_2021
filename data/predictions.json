@@ -12494,16 +12494,16 @@
                     "date": "2021/07/29",
                     "prediction": {
                         "oro": {
-                            "name": null,
-                            "country": null
+                            "name": "NI Xia Lian",
+                            "country": "LUX"
                         },
                         "plata": {
-                            "name": null,
-                            "country": null
+                            "name": "BALAZOVA Barbora",
+                            "country": "SVK"
                         },
                         "bronce": {
-                            "name": null,
-                            "country": null
+                            "name": "EDEM Offiong",
+                            "country": "NGR"
                         }
                     },
                     "positions": {
