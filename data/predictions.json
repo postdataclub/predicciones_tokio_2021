@@ -212,8 +212,8 @@
                             "country": "GBR"
                         },
                         "bronce": {
-                            "name": "marie-josée ta lou",
-                            "country": "CIV"
+                            "name": "allyson felix",
+                            "country": "USA"
                         }
                     },
                     "positions": {
@@ -281,19 +281,19 @@
             "sport": "atl",
             "sex": {
                 "female": {
-                    "date": "2021/08/06",
+                    "date": "2021/07/20",
                     "prediction": {
                         "oro": {
-                            "name": null,
-                            "country": null
+                            "name": "shakima wimbley",
+                            "country": "USA"
                         },
                         "plata": {
-                            "name": null,
-                            "country": null
+                            "name": "shaunae miller-uibo",
+                            "country": "BAH"
                         },
                         "bronce": {
-                            "name": null,
-                            "country": null
+                            "name": "quanera hayes",
+                            "country": "USA"
                         }
                     },
                     "positions": {
@@ -767,19 +767,19 @@
             "sport": "atl",
             "sex": {
                 "female": {
-                    "date": "2021/08/04",
+                    "date": "2021/07/20",
                     "prediction": {
                         "oro": {
-                            "name": null,
-                            "country": null
+                            "name": "sydney mclaughlin",
+                            "country": "USA"
                         },
                         "plata": {
-                            "name": null,
-                            "country": null
+                            "name": "shamier little",
+                            "country": "USA"
                         },
                         "bronce": {
-                            "name": null,
-                            "country": null
+                            "name": "dalilah muhammad",
+                            "country": "USA"
                         }
                     },
                     "positions": {
@@ -1133,19 +1133,19 @@
                     "update_date": null
                 },
                 "male": {
-                    "date": "2021/08/01",
+                    "date": "2021/07/20",
                     "prediction": {
                         "oro": {
-                            "name": null,
-                            "country": null
+                            "name": "mutaz essa barshim",
+                            "country": "QAT"
                         },
                         "plata": {
-                            "name": null,
-                            "country": null
+                            "name": "juvaughn harrison",
+                            "country": "USA"
                         },
                         "bronce": {
-                            "name": null,
-                            "country": null
+                            "name": "mikhail akimenko",
+                            "country": "ANA"
                         }
                     },
                     "positions": {
@@ -1293,19 +1293,19 @@
                     "update_date": null
                 },
                 "male": {
-                    "date": "2021/08/02",
+                    "date": "2021/07/20",
                     "prediction": {
                         "oro": {
-                            "name": null,
-                            "country": null
+                            "name": "juan miguel echevarría",
+                            "country": "CUB"
                         },
                         "plata": {
-                            "name": null,
-                            "country": null
+                            "name": "luvo manyonga",
+                            "country": "RSA"
                         },
                         "bronce": {
-                            "name": null,
-                            "country": null
+                            "name": "tajay gayle",
+                            "country": "JAM"
                         }
                     },
                     "positions": {
@@ -1373,19 +1373,19 @@
                     "update_date": null
                 },
                 "male": {
-                    "date": "2021/08/05",
+                    "date": "2021/07/20",
                     "prediction": {
                         "oro": {
-                            "name": null,
-                            "country": null
+                            "name": "chris carter",
+                            "country": "USA"
                         },
                         "plata": {
-                            "name": null,
-                            "country": null
+                            "name": "will claye",
+                            "country": "USA"
                         },
                         "bronce": {
-                            "name": null,
-                            "country": null
+                            "name": "christian taylor",
+                            "country": "USA"
                         }
                     },
                     "positions": {
@@ -1427,8 +1427,8 @@
                             "country": "USA"
                         },
                         "bronce": {
-                            "name": "maggie ewen",
-                            "country": "USA"
+                            "name": "christina schwanitz",
+                            "country": "GER"
                         }
                     },
                     "positions": {
@@ -1499,16 +1499,16 @@
                     "date": "2021/07/20",
                     "prediction": {
                         "oro": {
-                            "name": "valarie allman",
-                            "country": "USA"
-                        },
-                        "plata": {
                             "name": "sandra perković",
                             "country": "CRO"
                         },
-                        "bronce": {
+                        "plata": {
                             "name": "yaimé pérez",
                             "country": "CUB"
+                        },
+                        "bronce": {
+                            "name": "kamalpreet kaur",
+                            "country": "IND"
                         }
                     },
                     "positions": {
@@ -1576,19 +1576,19 @@
             "sport": "atl",
             "sex": {
                 "female": {
-                    "date": "2021/08/03",
+                    "date": "2021/07/20",
                     "prediction": {
                         "oro": {
-                            "name": null,
-                            "country": null
+                            "name": "katrine koch jacobsen",
+                            "country": "DEN"
                         },
                         "plata": {
-                            "name": null,
-                            "country": null
+                            "name": "autavia fluker",
+                            "country": "USA"
                         },
                         "bronce": {
-                            "name": null,
-                            "country": null
+                            "name": "lauren bruce",
+                            "country": "NZL"
                         }
                     },
                     "positions": {
@@ -2411,13 +2411,14 @@
                     "date": "2021/08/07",
                     "prediction": {
                         "oro": {
-                            "country": "KOR"
+                            "country": null
                         },
                         "plata": {
-                            "country": "JPN"
+                            "country": null
                         },
                         "bronce": {
-                            "country": "USA"
+                            "name": null,
+                            "country": null
                         }
                     },
                     "positions": {
@@ -2448,13 +2449,16 @@
                     "date": "2021/07/27",
                     "prediction": {
                         "oro": {
-                            "country": "AUS"
+                            "name": null,
+                            "country": null
                         },
                         "plata": {
-                            "country": "JPN"
+                            "name": null,
+                            "country": null
                         },
                         "bronce": {
-                            "country": "USA"
+                            "name": null,
+                            "country": null
                         }
                     },
                     "positions": {
@@ -2488,21 +2492,21 @@
                     "date": "2021/08/07",
                     "prediction": {
                         "oro": {
-                            "name": "DRABIK Sandra",
-                            "country": "POL"
+                            "name": null,
+                            "country": null
                         },
                         "plata": {
-                            "name": "CHEDDAR Rabab",
-                            "country": "MAR"
+                            "name": null,
+                            "country": null
                         },
                         "bronce": [
                             {
-                                "name": "NGUYEN Thi Tam",
-                                "country": "VIE"
+                                "name": null,
+                                "country": null
                             },
                             {
-                                "name": "NAMIKI Tsukimi",
-                                "country": "JPN"
+                                "name": null,
+                                "country": null
                             }
                         ]
                     },
@@ -2537,21 +2541,21 @@
                     "date": "2021/08/07",
                     "prediction": {
                         "oro": {
-                            "name": "ZOIROV Shakhobidin",
-                            "country": "UZB"
+                            "name": null,
+                            "country": null
                         },
                         "plata": {
-                            "name": "BIBOSSINOV Saken",
-                            "country": "KAZ"
+                            "name": null,
+                            "country": null
                         },
                         "bronce": [
                             {
-                                "name": "BENNAMA BILLAL",
-                                "country": "FRA"
+                                "name": null,
+                                "country": null
                             },
                             {
-                                "name": "Amit",
-                                "country": "IND"
+                                "name": null,
+                                "country": null
                             }
                         ]
                     },
@@ -2592,21 +2596,21 @@
                     "date": "2021/08/03",
                     "prediction": {
                         "oro": {
-                            "name": "PETECIO Nesthy",
-                            "country": "PHI"
+                            "name": null,
+                            "country": null
                         },
                         "plata": {
-                            "name": "VORONTSOVA Liudmila",
-                            "country": "RUS"
+                            "name": null,
+                            "country": null
                         },
                         "bronce": [
                             {
-                                "name": "LIN Yu-Ting",
-                                "country": "TPE"
+                                "name": null,
+                                "country": null
                             },
                             {
-                                "name": "ARTINGSTALL Karriss",
-                                "country": "GBR"
+                                "name": null,
+                                "country": null
                             }
                         ]
                     },
@@ -2641,21 +2645,21 @@
                     "date": "2021/08/05",
                     "prediction": {
                         "oro": {
-                            "name": "MIRZAKHALILOV Mirazizbek",
-                            "country": "UZB"
+                            "name": null,
+                            "country": null
                         },
                         "plata": {
-                            "name": "ALVAREZ ESTRADA Lazaro Jorge",
-                            "country": "CUB"
+                            "name": null,
+                            "country": null
                         },
                         "bronce": [
                             {
-                                "name": "RAGAN Duke",
-                                "country": "USA"
+                                "name": null,
+                                "country": null
                             },
                             {
-                                "name": "McGRAIL Peter",
-                                "country": "GBR"
+                                "name": null,
+                                "country": null
                             }
                         ]
                     },
@@ -2696,21 +2700,21 @@
                     "date": "2021/08/08",
                     "prediction": {
                         "oro": {
-                            "name": "FERREIRA Beatriz Iasmin",
-                            "country": "BRA"
+                            "name": null,
+                            "country": null
                         },
                         "plata": {
-                            "name": "HARRINGTON Kellie",
-                            "country": "IRL"
+                            "name": null,
+                            "country": null
                         },
                         "bronce": [
                             {
-                                "name": "POTKONEN Mira",
-                                "country": "FIN"
+                                "name": null,
+                                "country": null
                             },
                             {
-                                "name": "ELLIS Rashida S. Q.",
-                                "country": "USA"
+                                "name": null,
+                                "country": null
                             }
                         ]
                     },
@@ -2745,21 +2749,21 @@
                     "date": "2021/08/08",
                     "prediction": {
                         "oro": {
-                            "name": "CRUZ GOMEZ Andy",
-                            "country": "Cuba"
+                            "name": null,
+                            "country": null
                         },
                         "plata": {
-                            "name": "DAVIS Keyshawn",
-                            "country": "USA"
+                            "name": null,
+                            "country": null
                         },
                         "bronce": [
                             {
-                                "name": "KAUSHIK Manish",
-                                "country": "IND"
+                                "name": null,
+                                "country": null
                             },
                             {
-                                "name": "ASANAU Dzmitry",
-                                "country": "BLR"
+                                "name": null,
+                                "country": null
                             }
                         ]
                     },
@@ -2800,21 +2804,21 @@
                     "date": "2021/08/07",
                     "prediction": {
                         "oro": {
-                            "name": "SURMENELI Busenaz",
-                            "country": "TUR"
+                            "name": null,
+                            "country": null
                         },
                         "plata": {
-                            "name": "BORGOHAIN Lovlina",
-                            "country": "IND"
+                            "name": null,
+                            "country": null
                         },
                         "bronce": [
                             {
-                                "name": "GU Hong",
-                                "country": "China"
+                                "name": null,
+                                "country": null
                             },
                             {
-                                "name": "CARINI Angela",
-                                "country": "ITA"
+                                "name": null,
+                                "country": null
                             }
                         ]
                     },
@@ -2849,21 +2853,21 @@
                     "date": "2021/08/03",
                     "prediction": {
                         "oro": {
-                            "name": "ZAMKOVOI Andrei",
-                            "country": "RUS"
+                            "name": null,
+                            "country": null
                         },
                         "plata": {
-                            "name": "MENGUE AYISSI ALBERT",
-                            "country": "CMR"
+                            "name": null,
+                            "country": null
                         },
                         "bronce": [
                             {
-                                "name": "BATUROV Bobo-Usmon",
-                                "country": "UZB"
+                                "name": null,
+                                "country": null
                             },
                             {
-                                "name": "McCORMACK Pat",
-                                "country": "Great Britain"
+                                "name": null,
+                                "country": null
                             }
                         ]
                     },
@@ -2904,21 +2908,21 @@
                     "date": "2021/08/08",
                     "prediction": {
                         "oro": {
-                            "name": "PRICE Lauren Louise",
-                            "country": "GBR"
+                            "name": null,
+                            "country": null
                         },
                         "plata": {
-                            "name": "FONTIJN Nouchka Mireille",
-                            "country": "NED"
+                            "name": null,
+                            "country": null
                         },
                         "bronce": [
                             {
-                                "name": "THIBEAULT Tammara",
-                                "country": "CAN"
+                                "name": null,
+                                "country": null
                             },
                             {
-                                "name": "MAGOMEDALIEVA Zenfira",
-                                "country": "RUS"
+                                "name": null,
+                                "country": null
                             }
                         ]
                     },
@@ -2953,21 +2957,21 @@
                     "date": "2021/08/07",
                     "prediction": {
                         "oro": {
-                            "name": "BAKSHI GLEB",
-                            "country": "RUS"
+                            "name": null,
+                            "country": null
                         },
                         "plata": {
-                            "name": "KHYZHNIAK Oleksandr",
-                            "country": "UKR"
+                            "name": null,
+                            "country": null
                         },
                         "bronce": [
                             {
-                                "name": "ISLEY Troy",
-                                "country": "USA"
+                                "name": null,
+                                "country": null
                             },
                             {
-                                "name": "MARCIAL Eumir F D S",
-                                "country": "PHI"
+                                "name": null,
+                                "country": null
                             }
                         ]
                     },
@@ -3008,21 +3012,21 @@
                     "date": "2021/08/04",
                     "prediction": {
                         "oro": {
-                            "name": "NURDAULETOV Bekzad",
-                            "country": "KAZ"
+                            "name": null,
+                            "country": null
                         },
                         "plata": {
-                            "name": "RUZMETOV Dilshodbek",
-                            "country": "UZB"
+                            "name": null,
+                            "country": null
                         },
                         "bronce": [
                             {
-                                "name": "WHITTAKER Benjamin",
-                                "country": "GBR"
+                                "name": null,
+                                "country": null
                             },
                             {
-                                "name": "LOPEZ CARDONA Arlen",
-                                "country": "CUB"
+                                "name": null,
+                                "country": null
                             }
                         ]
                     },
@@ -3063,21 +3067,21 @@
                     "date": "2021/08/06",
                     "prediction": {
                         "oro": {
-                            "name": "LA CRUZ Julio Cesar",
-                            "country": "CUB"
+                            "name": null,
+                            "country": null
                         },
                         "plata": {
-                            "name": "LEVIT Vassiliy",
-                            "country": "KAZ"
+                            "name": null,
+                            "country": null
                         },
                         "bronce": [
                             {
-                                "name": "GADZHIMAGOMEDOV Muslim",
-                                "country": "RUS"
+                                "name": null,
+                                "country": null
                             },
                             {
-                                "name": "CASTILLO TORRES Julio Cesar",
-                                "country": "ECU"
+                                "name": null,
+                                "country": null
                             }
                         ]
                     },
@@ -3118,21 +3122,21 @@
                     "date": "2021/08/08",
                     "prediction": {
                         "oro": {
-                            "name": "JALOLOV Bakhodir",
-                            "country": "UZB"
+                            "name": null,
+                            "country": null
                         },
                         "plata": {
-                            "name": "KUNKABAYEV Kamshybek",
-                            "country": "KAZ"
+                            "name": null,
+                            "country": null
                         },
                         "bronce": [
                             {
-                                "name": "YEGNONG NJIEYO MAXIME",
-                                "country": "CMR"
+                                "name": null,
+                                "country": null
                             },
                             {
-                                "name": "CLARKE Frazer Edward",
-                                "country": "GBR"
+                                "name": null,
+                                "country": null
                             }
                         ]
                     },
@@ -4553,13 +4557,13 @@
                     "date": "2021/08/06",
                     "prediction": {
                         "oro": {
-                            "country": "JPN"
+                            "country": null
                         },
                         "plata": {
-                            "country": "CAN"
+                            "country": null
                         },
                         "bronce": {
-                            "country": "GBR"
+                            "country": null
                         }
                     },
                     "positions": {
@@ -4584,13 +4588,13 @@
                     "date": "2021/08/07",
                     "prediction": {
                         "oro": {
-                            "country": "BRA"
+                            "country": null
                         },
                         "plata": {
-                            "country": "DEU"
+                            "country": null
                         },
                         "bronce": {
-                            "country": "KOR"
+                            "country": null
                         }
                     },
                     "positions": {
@@ -7554,21 +7558,21 @@
                     "date": "2021/08/05",
                     "prediction": {
                         "oro": {
-                            "name": "Kawai, Risako",
-                            "country": "JPN"
+                            "name": null,
+                            "country": null
                         },
                         "plata": {
-                            "name": "Adekuoroye, Odunayo Folasade",
-                            "country": "NGR"
+                            "name": null,
+                            "country": null
                         },
                         "bronce": [
                             {
-                                "name": "Rong, Ningning",
-                                "country": "CHN"
+                                "name": null,
+                                "country": null
                             },
                             {
-                                "name": "Nichita, Anastasia",
-                                "country": "MDA"
+                                "name": null,
+                                "country": null
                             }
                         ]
                     },
@@ -7603,21 +7607,21 @@
                     "date": "2021/08/05",
                     "prediction": {
                         "oro": {
-                            "name": "Uguev, Zavur",
-                            "country": "RUS"
+                            "name": null,
+                            "country": null
                         },
                         "plata": {
-                            "name": "Takahashi, Yuki",
-                            "country": "JPN"
+                            "name": null,
+                            "country": null
                         },
                         "bronce": [
                             {
-                                "name": "Harutyunyan, Arsen",
-                                "country": "ARM"
+                                "name": null,
+                                "country": null
                             },
                             {
-                                "name": "Sanayev, Nurislam",
-                                "country": "KAZ"
+                                "name": null,
+                                "country": null
                             }
                         ]
                     },
@@ -7658,21 +7662,21 @@
                     "date": "2021/08/05",
                     "prediction": {
                         "oro": {
-                            "name": "Otoguro, Takuto",
-                            "country": "JPN"
+                            "name": null,
+                            "country": null
                         },
                         "plata": {
-                            "name": "Aliev, Haji",
-                            "country": "AZE"
+                            "name": null,
+                            "country": null
                         },
                         "bronce": [
                             {
-                                "name": "Tumur-Ochir, Tulga",
-                                "country": "MGL"
+                                "name": null,
+                                "country": null
                             },
                             {
-                                "name": "Rashidov, Gadshimurad",
-                                "country": "RUS"
+                                "name": null,
+                                "country": null
                             }
                         ]
                     },
@@ -7713,21 +7717,21 @@
                     "date": "2021/08/05",
                     "prediction": {
                         "oro": {
-                            "name": "Sidakov, Zaurbek",
-                            "country": "RUS"
+                            "name": null,
+                            "country": null
                         },
                         "plata": {
-                            "name": "Dake, Kyle Douglas",
-                            "country": "USA"
+                            "name": null,
+                            "country": null
                         },
                         "bronce": [
                             {
-                                "name": "Chamizo Marquez, Frank",
-                                "country": "ITA"
+                                "name": null,
+                                "country": null
                             },
                             {
-                                "name": "Garzon Caballero, Geandry",
-                                "country": "CUB"
+                                "name": null,
+                                "country": null
                             }
                         ]
                     },
@@ -7768,21 +7772,21 @@
                     "date": "2021/08/05",
                     "prediction": {
                         "oro": {
-                            "name": "Naifonov, Artur",
-                            "country": "RUS"
+                            "name": null,
+                            "country": null
                         },
                         "plata": {
-                            "name": "Taylor, David Morris",
-                            "country": "USA"
+                            "name": null,
+                            "country": null
                         },
                         "bronce": [
                             {
-                                "name": "Yazdani Charati, Hassan Aliazam",
-                                "country": "IRI"
+                                "name": null,
+                                "country": null
                             },
                             {
-                                "name": "Punia, Deepak",
-                                "country": "IND"
+                                "name": null,
+                                "country": null
                             }
                         ]
                     },
@@ -7823,21 +7827,21 @@
                     "date": "2021/08/05",
                     "prediction": {
                         "oro": {
-                            "name": "Sadulaev, Abdulrashid",
-                            "country": "RUS"
+                            "name": null,
+                            "country": null
                         },
                         "plata": {
-                            "name": "Snyder, Kyle Frederick",
-                            "country": "USA"
+                            "name": null,
+                            "country": null
                         },
                         "bronce": [
                             {
-                                "name": "Yergali, Alisher",
-                                "country": "KAZ"
+                                "name": null,
+                                "country": null
                             },
                             {
-                                "name": "Mohammadian, Mohammad Hossei Askari",
-                                "country": "IRI"
+                                "name": null,
+                                "country": null
                             }
                         ]
                     },
@@ -7878,21 +7882,21 @@
                     "date": "2021/08/05",
                     "prediction": {
                         "oro": {
-                            "name": "Petriashvili, Geno",
-                            "country": "GEO"
+                            "name": null,
+                            "country": null
                         },
                         "plata": {
-                            "name": "Steveson, Gable Dan",
-                            "country": "USA"
+                            "name": null,
+                            "country": null
                         },
                         "bronce": [
                             {
-                                "name": "Akgul, Taha",
-                                "country": "TUR"
+                                "name": null,
+                                "country": null
                             },
                             {
-                                "name": "Kozyrev, Sergey",
-                                "country": "RUS"
+                                "name": null,
+                                "country": null
                             }
                         ]
                     },
@@ -7933,21 +7937,21 @@
                     "date": "2021/08/05",
                     "prediction": {
                         "oro": {
-                            "name": "Emelin, Sergey",
-                            "country": "RUS"
+                            "name": null,
+                            "country": null
                         },
                         "plata": {
-                            "name": "Fumita, Kenchiro",
-                            "country": "JPN"
+                            "name": null,
+                            "country": null
                         },
                         "bronce": [
                             {
-                                "name": "Nejati, Alireza Ayat Ollah",
-                                "country": "IRI"
+                                "name": null,
+                                "country": null
                             },
                             {
-                                "name": "Sharshenbekov, Zholaman",
-                                "country": "KGZ"
+                                "name": null,
+                                "country": null
                             }
                         ]
                     },
@@ -7988,21 +7992,21 @@
                     "date": "2021/08/05",
                     "prediction": {
                         "oro": {
-                            "name": "Surkov, Artem",
-                            "country": "RUS"
+                            "name": null,
+                            "country": null
                         },
                         "plata": {
-                            "name": "Staebler, Frank",
-                            "country": "GER"
+                            "name": null,
+                            "country": null
                         },
                         "bronce": [
                             {
-                                "name": "Elsayed, Mohamed Ibrahim Elsayed",
-                                "country": "EGY"
+                                "name": null,
+                                "country": null
                             },
                             {
-                                "name": "Borrero Molina, Ismael",
-                                "country": "CUB"
+                                "name": null,
+                                "country": null
                             }
                         ]
                     },
@@ -8043,21 +8047,21 @@
                     "date": "2021/08/05",
                     "prediction": {
                         "oro": {
-                            "name": "Chekhirkin, Aleksander",
-                            "country": "RUS"
+                            "name": null,
+                            "country": null
                         },
                         "plata": {
-                            "name": "Geraei, Mohammadali Abdolhamid",
-                            "country": "IRI"
+                            "name": null,
+                            "country": null
                         },
                         "bronce": [
                             {
-                                "name": "Loerincz, Tamas",
-                                "country": "HUN"
+                                "name": null,
+                                "country": null
                             },
                             {
-                                "name": "Makhmudov, Akzhol",
-                                "country": "KGZ"
+                                "name": null,
+                                "country": null
                             }
                         ]
                     },
@@ -8098,21 +8102,21 @@
                     "date": "2021/08/05",
                     "prediction": {
                         "oro": {
-                            "name": "Belenyuk, Zhan",
-                            "country": "UKR"
+                            "name": null,
+                            "country": null
                         },
                         "plata": {
-                            "name": "Tursynov, Nursultan",
-                            "country": "KAZ"
+                            "name": null,
+                            "country": null
                         },
                         "bronce": [
                             {
-                                "name": "Kudla, Denis Maksymilian",
-                                "country": "GER"
+                                "name": null,
+                                "country": null
                             },
                             {
-                                "name": "Abbasov, Islam",
-                                "country": "AZE"
+                                "name": null,
+                                "country": null
                             }
                         ]
                     },
@@ -8153,21 +8157,21 @@
                     "date": "2021/08/05",
                     "prediction": {
                         "oro": {
-                            "name": "Aleksanyan, Artur",
-                            "country": "ARM"
+                            "name": null,
+                            "country": null
                         },
                         "plata": {
-                            "name": "Evloev, Musa",
-                            "country": "RUS"
+                            "name": null,
+                            "country": null
                         },
                         "bronce": [
                             {
-                                "name": "Saravi, Mohammadhadi Abdollah",
-                                "country": "IRI"
+                                "name": null,
+                                "country": null
                             },
                             {
-                                "name": "Rosillo Kindelan, Gabriel Alejandro",
-                                "country": "CUB"
+                                "name": null,
+                                "country": null
                             }
                         ]
                     },
@@ -8208,21 +8212,21 @@
                     "date": "2021/08/05",
                     "prediction": {
                         "oro": {
-                            "name": "Lopez Nunez, Mijain",
-                            "country": "CUB"
+                            "name": null,
+                            "country": null
                         },
                         "plata": {
-                            "name": "Kayaalp, Riza",
-                            "country": "TUR"
+                            "name": null,
+                            "country": null
                         },
                         "bronce": [
                             {
-                                "name": "Semenov, Sergey",
-                                "country": "RUS"
+                                "name": null,
+                                "country": null
                             },
                             {
-                                "name": "Kajaia, Iakobi",
-                                "country": "GEO"
+                                "name": null,
+                                "country": null
                             }
                         ]
                     },
@@ -8263,21 +8267,21 @@
                     "date": "2021/08/05",
                     "prediction": {
                         "oro": {
-                            "name": "Susaki, Yui",
-                            "country": "JPN"
+                            "name": null,
+                            "country": null
                         },
                         "plata": {
-                            "name": "Stadnik, Mariya",
-                            "country": "AZE"
+                            "name": null,
+                            "country": null
                         },
                         "bronce": [
                             {
-                                "name": "Sun, Yanan",
-                                "country": "CHN"
+                                "name": null,
+                                "country": null
                             },
                             {
-                                "name": "Yepez Guzman, Lucia Yamileth",
-                                "country": "ECU"
+                                "name": null,
+                                "country": null
                             }
                         ]
                     },
@@ -8318,21 +8322,21 @@
                     "date": "2021/08/05",
                     "prediction": {
                         "oro": {
-                            "name": "Mukaida, Mayu",
-                            "country": "JPN"
+                            "name": null,
+                            "country": null
                         },
                         "plata": {
-                            "name": "Pang, Qianyu",
-                            "country": "CHN"
+                            "name": null,
+                            "country": null
                         },
                         "bronce": [
                             {
-                                "name": "Winchester, Jaccara Gwenisha",
-                                "country": "USA"
+                                "name": null,
+                                "country": null
                             },
                             {
-                                "name": "Khoroshavtseva, Olga",
-                                "country": "RUS"
+                                "name": null,
+                                "country": null
                             }
                         ]
                     },
@@ -8373,21 +8377,21 @@
                     "date": "2021/08/05",
                     "prediction": {
                         "oro": {
-                            "name": "Yusein, Taybe Mustafa",
-                            "country": "BUL"
+                            "name": null,
+                            "country": null
                         },
                         "plata": {
-                            "name": "Kawai, Yukako",
-                            "country": "JPN"
+                            "name": null,
+                            "country": null
                         },
                         "bronce": [
                             {
-                                "name": "Rim, Jong-Sim",
-                                "country": "PRK"
+                                "name": null,
+                                "country": null
                             },
                             {
-                                "name": "Koliadenko, Irina",
-                                "country": "UKR"
+                                "name": null,
+                                "country": null
                             }
                         ]
                     },
@@ -8428,21 +8432,21 @@
                     "date": "2021/08/05",
                     "prediction": {
                         "oro": {
-                            "name": "Dosho, Sara",
-                            "country": "JPN"
+                            "name": null,
+                            "country": null
                         },
                         "plata": {
-                            "name": "Stock, Tamyra Mariama Mensah",
-                            "country": "USA"
+                            "name": null,
+                            "country": null
                         },
                         "bronce": [
                             {
-                                "name": "Cherkasova, Alla",
-                                "country": "UKR"
+                                "name": null,
+                                "country": null
                             },
                             {
-                                "name": "Zhou, Feng",
-                                "country": "CHN"
+                                "name": null,
+                                "country": null
                             }
                         ]
                     },
@@ -8483,21 +8487,21 @@
                     "date": "2021/08/05",
                     "prediction": {
                         "oro": {
-                            "name": "Gray, Adeline Maria",
-                            "country": "USA"
+                            "name": null,
+                            "country": null
                         },
                         "plata": {
-                            "name": "Vorobieva, Natalya",
-                            "country": "RUS"
+                            "name": null,
+                            "country": null
                         },
                         "bronce": [
                             {
-                                "name": "Zhou, Qian",
-                                "country": "CHN"
+                                "name": null,
+                                "country": null
                             },
                             {
-                                "name": "Adar, Yasemin",
-                                "country": "TUR"
+                                "name": null,
+                                "country": null
                             }
                         ]
                     },
@@ -10059,16 +10063,16 @@
                     "date": "2021/08/06",
                     "prediction": {
                         "oro": {
-                            "name": "Marie Oteiza",
-                            "country": "FRA"
+                            "name": null,
+                            "country": null
                         },
                         "plata": {
-                            "name": "Volha Silkina",
-                            "country": "BLR"
+                            "name": null,
+                            "country": null
                         },
                         "bronce": {
-                            "name": "Sarolta Kovacs",
-                            "country": "HUN"
+                            "name": null,
+                            "country": null
                         }
                     },
                     "positions": {
@@ -10096,16 +10100,16 @@
                     "date": "2021/08/07",
                     "prediction": {
                         "oro": {
-                            "name": "Ilya Palazkov",
-                            "country": "BLR"
+                            "name": null,
+                            "country": null
                         },
                         "plata": {
-                            "name": "Shuai Luo",
-                            "country": "CHN"
+                            "name": null,
+                            "country": null
                         },
                         "bronce": {
-                            "name": "Joseph Choong",
-                            "country": "GBR"
+                            "name": null,
+                            "country": null
                         }
                     },
                     "positions": {
@@ -12311,16 +12315,16 @@
                     "date": "2021/07/31",
                     "prediction": {
                         "oro": {
-                            "name": "Elena Rybakina",
-                            "country": "KAZ"
+                            "name": null,
+                            "country": null
                         },
                         "plata": {
-                            "name": "Ashleigh Barty",
-                            "country": "AUS"
+                            "name": null,
+                            "country": null
                         },
                         "bronce": {
-                            "name": "Aryna Sabalenka",
-                            "country": "BLR"
+                            "name": null,
+                            "country": null
                         }
                     },
                     "positions": {
@@ -12348,16 +12352,16 @@
                     "date": "2021/08/01",
                     "prediction": {
                         "oro": {
-                            "name": "Novak Djokovic",
-                            "country": "SRB"
+                            "name": null,
+                            "country": null
                         },
                         "plata": {
-                            "name": "Lorenzo Musetti",
-                            "country": "ITA"
+                            "name": null,
+                            "country": null
                         },
                         "bronce": {
-                            "name": "Alexander Zverev",
-                            "country": "GER"
+                            "name": null,
+                            "country": null
                         }
                     },
                     "positions": {
@@ -13956,13 +13960,13 @@
                     "date": "2021/08/04",
                     "prediction": {
                         "oro": {
-                            "country": "CHN"
+                            "country": null
                         },
                         "plata": {
-                            "country": "USA"
+                            "country": null
                         },
                         "bronce": {
-                            "country": "DOM"
+                            "country": null
                         }
                     },
                     "positions": {
@@ -13987,13 +13991,13 @@
                     "date": "2021/08/07",
                     "prediction": {
                         "oro": {
-                            "country": "BRA"
+                            "country": null
                         },
                         "plata": {
-                            "country": "POL"
+                            "country": null
                         },
                         "bronce": {
-                            "country": "USA"
+                            "country": null
                         }
                     },
                     "positions": {
