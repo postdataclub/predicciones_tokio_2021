@@ -12490,16 +12490,16 @@
                     "date": "2021/07/29",
                     "prediction": {
                         "oro": {
-                            "name": null,
-                            "country": null
+                            "name": "CHEN Meng",
+                            "country": "CHN"
                         },
                         "plata": {
-                            "name": null,
-                            "country": null
+                            "name": "LAY Jian Fang",
+                            "country": "AUS"
                         },
                         "bronce": {
-                            "name": null,
-                            "country": null
+                            "name": "NI Xia Lian",
+                            "country": "LUX"
                         }
                     },
                     "positions": {
@@ -12527,16 +12527,16 @@
                     "date": "2021/07/30",
                     "prediction": {
                         "oro": {
-                            "name": null,
-                            "country": null
+                            "name": "MA Long",
+                            "country": "CHN"
                         },
                         "plata": {
-                            "name": null,
-                            "country": null
+                            "name": "LIN Yun-Ju",
+                            "country": "TPE"
                         },
                         "bronce": {
-                            "name": null,
-                            "country": null
+                            "name": "FAN Zhendong",
+                            "country": "CHN"
                         }
                     },
                     "positions": {
