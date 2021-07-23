@@ -12311,16 +12311,16 @@
                     "date": "2021/07/31",
                     "prediction": {
                         "oro": {
-                            "name": "Elena Rybakina",
-                            "country": "KAZ"
-                        },
-                        "plata": {
                             "name": "Ashleigh Barty",
                             "country": "AUS"
                         },
+                        "plata": {
+                            "name": "Elena Rybakina",
+                            "country": "KAZ"
+                        },
                         "bronce": {
-                            "name": "Aryna Sabalenka",
-                            "country": "BLR"
+                            "name": "Elina Svitolina",
+                            "country": "UKR"
                         }
                     },
                     "positions": {
