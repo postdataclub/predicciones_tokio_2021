@@ -12638,13 +12638,13 @@
                     "date": "2021/07/26",
                     "prediction": {
                         "oro": {
-                            "country": null
+                            "country": "CHN"
                         },
                         "plata": {
-                            "country": null
+                            "country": "JPN"
                         },
                         "bronce": {
-                            "country": null
+                            "country": "GER"
                         }
                     },
                     "positions": {
