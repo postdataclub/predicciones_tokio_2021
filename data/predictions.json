@@ -6714,7 +6714,7 @@
                 }
             }
         },
-        "jug_48kg": {
+        "jud_48kg": {
             "name": "48 kg",
             "sport": "jud",
             "sex": {
@@ -6769,7 +6769,7 @@
                 }
             }
         },
-        "jug_52kg": {
+        "jud_52kg": {
             "name": "52 kg",
             "sport": "jud",
             "sex": {
@@ -6824,7 +6824,7 @@
                 }
             }
         },
-        "jug_57kg": {
+        "jud_57kg": {
             "name": "57 kg",
             "sport": "jud",
             "sex": {
@@ -6879,7 +6879,7 @@
                 }
             }
         },
-        "jug_63kg": {
+        "jud_63kg": {
             "name": "63 kg",
             "sport": "jud",
             "sex": {
@@ -6934,7 +6934,7 @@
                 }
             }
         },
-        "jug_70kg": {
+        "jud_70kg": {
             "name": "70 kg",
             "sport": "jud",
             "sex": {
@@ -6989,7 +6989,7 @@
                 }
             }
         },
-        "jug_78kg": {
+        "jud_78kg": {
             "name": "78 kg",
             "sport": "jud",
             "sex": {
@@ -7044,7 +7044,7 @@
                 }
             }
         },
-        "jug_m78kg": {
+        "jud_m78kg": {
             "name": "78 kg",
             "sport": "jud",
             "sex": {
