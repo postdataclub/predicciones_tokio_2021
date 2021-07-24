@@ -6341,17 +6341,17 @@
                             "country": "JPN"
                         },
                         "plata": {
-                            "name": "KIM Won Jin",
-                            "country": "KOR"
+                            "name": "YANG Yung Wei",
+                            "country": "TPE"
                         },
                         "bronce": [
                             {
-                                "name": "YANG Yung Wei",
-                                "country": "TPE"
+                                "name": "DASHDAVAA Amartuvshin",
+                                "country": "MGL"
                             },
                             {
-                                "name": "GARRIGOS Francisco",
-                                "country": "ESP"
+                                "name": "KIM Won Jin",
+                                "country": "KOR"
                             }
                         ]
                     },
@@ -6396,17 +6396,17 @@
                             "country": "JPN"
                         },
                         "plata": {
-                            "name": "AN Baul",
-                            "country": "KOR"
+                            "name": "MARGVELASHVILI Vazha",
+                            "country": "GEO"
                         },
                         "bronce": [
                             {
-                                "name": "MARGVELASHVILI Vazha",
-                                "country": "GEO"
+                                "name": "AN Baul",
+                                "country": "KOR"
                             },
                             {
-                                "name": "YONDONPERENLEI Baskhuu",
-                                "country": "MGL"
+                                "name": "VIERU Denis",
+                                "country": "MDA"
                             }
                         ]
                     },
@@ -6451,13 +6451,13 @@
                             "country": "JPN"
                         },
                         "plata": {
-                            "name": "TSEND-OCHIR Tsogtbaatar",
-                            "country": "MGL"
+                            "name": "AN Changrim",
+                            "country": "KOR"
                         },
                         "bronce": [
                             {
-                                "name": "AN Changrim",
-                                "country": "KOR"
+                                "name": "MOGUSHKOV Musa",
+                                "country": "RUS"
                             },
                             {
                                 "name": "SHAVDATUASHVILI Lasha",
@@ -6502,21 +6502,21 @@
                     "date": "2021/07/27",
                     "prediction": {
                         "oro": {
-                            "name": "GRIGALASHVILI Tato",
-                            "country": "GEO"
-                        },
-                        "plata": {
                             "name": "KHUBETSOV Alan",
                             "country": "RUS"
                         },
+                        "plata": {
+                            "name": "EGUTIDZE Anri",
+                            "country": "POR"
+                        },
                         "bronce": [
                             {
-                                "name": "NAGASE Takanori",
-                                "country": "JPN"
+                                "name": "RESSEL Dominic",
+                                "country": "GER"
                             },
                             {
-                                "name": "MUKI Sagi",
-                                "country": "Israel"
+                                "name": "GRIGALASHVILI Tato",
+                                "country": "GEO"
                             }
                         ]
                     },
@@ -6561,13 +6561,13 @@
                             "country": "GEO"
                         },
                         "plata": {
-                            "name": "MUKAI Shoichiro",
-                            "country": "JPN"
+                            "name": "GWAK Donghan",
+                            "country": "KOR"
                         },
                         "bronce": [
                             {
-                                "name": "IGOLNIKOV Mikhail",
-                                "country": "RUS"
+                                "name": "VAN T END Noel",
+                                "country": "NED"
                             },
                             {
                                 "name": "SHERAZADISHVILI Nikoloz",
@@ -6616,8 +6616,8 @@
                             "country": "GEO"
                         },
                         "plata": {
-                            "name": "WOLF Aaron",
-                            "country": "JPN"
+                            "name": "KORREL Michael",
+                            "country": "NED"
                         },
                         "bronce": [
                             {
@@ -6625,8 +6625,8 @@
                                 "country": "RUS"
                             },
                             {
-                                "name": "CHO Guham",
-                                "country": "KOR"
+                                "name": "WOLF Aaron",
+                                "country": "JPN"
                             }
                         ]
                     },
@@ -6671,17 +6671,17 @@
                             "country": "FRA"
                         },
                         "plata": {
-                            "name": "TUSHISHVILI Guram",
-                            "country": "GEO"
+                            "name": "GROL Henk",
+                            "country": "NED"
                         },
                         "bronce": [
                             {
-                                "name": "KHAMMO Yakiv",
-                                "country": "UKR"
+                                "name": "BASHAEV Tamerlan",
+                                "country": "RUS"
                             },
                             {
-                                "name": "GROL Henk",
-                                "country": "NED"
+                                "name": "KHAMMO Yakiv",
+                                "country": "UKR"
                             }
                         ]
                     },
@@ -6722,8 +6722,8 @@
                     "date": "2021/07/24",
                     "prediction": {
                         "oro": {
-                            "name": "KRASNIQI Distria",
-                            "country": "KOS"
+                            "name": "BILODID Daria",
+                            "country": "UKR"
                         },
                         "plata": {
                             "name": "MUNKHBAT Urantsetseg",
@@ -6731,12 +6731,12 @@
                         },
                         "bronce": [
                             {
-                                "name": "TONAKI Funa",
-                                "country": "JPN"
+                                "name": "KRASNIQI Distria",
+                                "country": "KOS"
                             },
                             {
-                                "name": "BILODID Daria",
-                                "country": "UKR"
+                                "name": "TONAKI Funa",
+                                "country": "JPN"
                             }
                         ]
                     },
@@ -6786,8 +6786,8 @@
                         },
                         "bronce": [
                             {
-                                "name": "KELMENDI Majlinda",
-                                "country": "KOS"
+                                "name": "PEREZ BOX Ana",
+                                "country": "ESP"
                             },
                             {
                                 "name": "VAN SNICK Charline",
@@ -6832,12 +6832,12 @@
                     "date": "2021/07/26",
                     "prediction": {
                         "oro": {
-                            "name": "YOSHIDA Tsukasa",
-                            "country": "JPN"
-                        },
-                        "plata": {
                             "name": "KLIMKAIT Jessica",
                             "country": "CAN"
+                        },
+                        "plata": {
+                            "name": "YOSHIDA Tsukasa",
+                            "country": "JPN"
                         },
                         "bronce": [
                             {
@@ -6896,12 +6896,12 @@
                         },
                         "bronce": [
                             {
-                                "name": "TRSTENJAK Tina",
-                                "country": "SLO"
-                            },
-                            {
                                 "name": "BEAUCHEMIN-PINARD Catherine",
                                 "country": "CAN"
+                            },
+                            {
+                                "name": "TRSTENJAK Tina",
+                                "country": "SLO"
                             }
                         ]
                     },
@@ -6946,17 +6946,17 @@
                             "country": "JPN"
                         },
                         "plata": {
-                            "name": "MATIC Barbara",
-                            "country": "CRO"
+                            "name": "VAN DIJKE Sanne",
+                            "country": "NED"
                         },
                         "bronce": [
                             {
-                                "name": "VAN DIJKE Sanne",
-                                "country": "NED"
+                                "name": "MATIC Barbara",
+                                "country": "CRO"
                             },
                             {
-                                "name": "PINOT Margaux",
-                                "country": "FRA"
+                                "name": "TELTSIDOU Elisavet",
+                                "country": "GRE"
                             }
                         ]
                     },
@@ -7001,17 +7001,17 @@
                             "country": "JPN"
                         },
                         "plata": {
-                            "name": "ANTOMARCHI Kaliema",
-                            "country": "CUB"
+                            "name": "STEENHUIS Guusje",
+                            "country": "NED"
                         },
                         "bronce": [
                             {
-                                "name": "STEENHUIS Guusje",
-                                "country": "NED"
+                                "name": "ANTOMARCHI Kaliema",
+                                "country": "CUB"
                             },
                             {
-                                "name": "POWELL Natalie",
-                                "country": "GBR"
+                                "name": "WAGNER Anna-Maria",
+                                "country": "GER"
                             }
                         ]
                     },
