@@ -8622,12 +8622,12 @@
                             "country": "AUS"
                         },
                         "plata": {
-                            "name": "MANUEL Simone",
-                            "country": "USA"
+                            "name": "MCKEON Emma",
+                            "country": "AUS"
                         },
                         "bronce": {
-                            "name": "SJOESTROEM Sarah",
-                            "country": "SWE"
+                            "name": "MANUEL Simone",
+                            "country": "USA"
                         }
                     },
                     "positions": {
@@ -8743,8 +8743,8 @@
                             "country": "GBR"
                         },
                         "bronce": {
-                            "name": "SCOTT Duncan",
-                            "country": "GBR"
+                            "name": "LE CLOS Chad",
+                            "country": "RSA"
                         }
                     },
                     "positions": {
@@ -8782,7 +8782,7 @@
                             "country": "AUS"
                         },
                         "plata": {
-                            "name": "LEDECKY Kathleen",
+                            "name": "LEDECKY Katie",
                             "country": "USA"
                         },
                         "bronce": {
@@ -8858,12 +8858,12 @@
                     "date": "2021/07/31",
                     "prediction": {
                         "oro": {
-                            "name": "TITMUS Ariarne",
-                            "country": "AUS"
+                            "name": "LEDECKY Katie",
+                            "country": "USA"
                         },
                         "plata": {
-                            "name": "LI Bingjie",
-                            "country": "CHN"
+                            "name": "TITMUS Ariarne",
+                            "country": "AUS"
                         },
                         "bronce": {
                             "name": "WANG Jianjiahe",
@@ -8938,12 +8938,12 @@
                     "date": "2021/07/28",
                     "prediction": {
                         "oro": {
-                            "name": "KAPAS Boglarka",
-                            "country": "HUN"
+                            "name": "LEDECKY Katie",
+                            "country": "USA"
                         },
                         "plata": {
-                            "name": "WANG Jianjiahe",
-                            "country": "CHN"
+                            "name": "KAPAS Boglarka",
+                            "country": "HUN"
                         },
                         "bronce": {
                             "name": "QUADARELLA Simona",
@@ -9022,8 +9022,8 @@
                             "country": "GBR"
                         },
                         "plata": {
-                            "name": "MASSE Kylie",
-                            "country": "CAN"
+                            "name": "MCKEOWN Kaylee",
+                            "country": "AUS"
                         },
                         "bronce": {
                             "name": "SMITH Regan",
@@ -9098,16 +9098,16 @@
                     "date": "2021/07/31",
                     "prediction": {
                         "oro": {
+                            "name": "MCKEOWN Kaylee",
+                            "country": "AUS"
+                        },
+                        "plata": {
                             "name": "SMITH Regan",
                             "country": "USA"
                         },
-                        "plata": {
+                        "bronce": {
                             "name": "PANZIERA Margherita",
                             "country": "ITA"
-                        },
-                        "bronce": {
-                            "name": "WHITE Rhyan Elizabeth",
-                            "country": "USA"
                         }
                     },
                     "positions": {
@@ -9262,12 +9262,12 @@
                             "country": "RUS"
                         },
                         "plata": {
-                            "name": "LAZOR Annie",
-                            "country": "USA"
-                        },
-                        "bronce": {
                             "name": "RENSHAW Molly",
                             "country": "GBR"
+                        },
+                        "bronce": {
+                            "name": "LAZOR Annie",
+                            "country": "USA"
                         }
                     },
                     "positions": {
@@ -9506,8 +9506,8 @@
                             "country": "HUN"
                         },
                         "bronce": {
-                            "name": "PICKREM Sydney",
-                            "country": "CAN"
+                            "name": "MCKEOWN Kaylee",
+                            "country": "AUS"
                         }
                     },
                     "positions": {
@@ -9543,8 +9543,8 @@
                             "country": "JPN"
                         },
                         "bronce": {
-                            "name": "GONZALEZ Hugo",
-                            "country": "ESP"
+                            "name": "KALISZ Chase",
+                            "country": "USA"
                         }
                     },
                     "positions": {
@@ -9726,10 +9726,10 @@
                     "date": "2021/07/29",
                     "prediction": {
                         "oro": {
-                            "country": "USA"
+                            "country": "AUS"
                         },
                         "plata": {
-                            "country": "AUS"
+                            "country": "USA"
                         },
                         "bronce": {
                             "country": "CAN"
