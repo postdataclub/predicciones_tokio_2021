@@ -8866,8 +8866,8 @@
                             "country": "CHN"
                         },
                         "bronce": {
-                            "name": "BELMONTE Mireia",
-                            "country": "ESP"
+                            "name": "WANG Jianjiahe",
+                            "country": "CHN"
                         }
                     },
                     "positions": {
@@ -8938,16 +8938,16 @@
                     "date": "2021/07/28",
                     "prediction": {
                         "oro": {
-                            "name": "WANG Jianjiahe",
-                            "country": "CHN"
-                        },
-                        "plata": {
                             "name": "KAPAS Boglarka",
                             "country": "HUN"
                         },
+                        "plata": {
+                            "name": "WANG Jianjiahe",
+                            "country": "CHN"
+                        },
                         "bronce": {
-                            "name": "PIGNATIELLO Delfina",
-                            "country": "ARG"
+                            "name": "QUADARELLA Simona",
+                            "country": "ITA"
                         }
                     },
                     "positions": {
@@ -9139,12 +9139,12 @@
                             "country": "GBR"
                         },
                         "plata": {
-                            "name": "MURPHY Ryan",
-                            "country": "USA"
-                        },
-                        "bronce": {
                             "name": "RYLOV Evgeny",
                             "country": "RUS"
+                        },
+                        "bronce": {
+                            "name": "MURPHY Ryan",
+                            "country": "USA"
                         }
                     },
                     "positions": {
@@ -9262,12 +9262,12 @@
                             "country": "RUS"
                         },
                         "plata": {
-                            "name": "RENSHAW Molly",
-                            "country": "GBR"
-                        },
-                        "bronce": {
                             "name": "LAZOR Annie",
                             "country": "USA"
+                        },
+                        "bronce": {
+                            "name": "RENSHAW Molly",
+                            "country": "GBR"
                         }
                     },
                     "positions": {
@@ -9375,12 +9375,12 @@
                     "date": "2021/07/31",
                     "prediction": {
                         "oro": {
-                            "name": "DRESSEL Caeleb",
-                            "country": "USA"
-                        },
-                        "plata": {
                             "name": "TEMPLE Matthew",
                             "country": "AUS"
+                        },
+                        "plata": {
+                            "name": "DRESSEL Caeleb",
+                            "country": "USA"
                         },
                         "bronce": {
                             "name": "SCHOOLING Joseph",
@@ -9539,12 +9539,12 @@
                             "country": "USA"
                         },
                         "plata": {
-                            "name": "GONZALEZ Hugo",
-                            "country": "ESP"
-                        },
-                        "bronce": {
                             "name": "HAGINO Kosuke",
                             "country": "JPN"
+                        },
+                        "bronce": {
+                            "name": "GONZALEZ Hugo",
+                            "country": "ESP"
                         }
                     },
                     "positions": {
