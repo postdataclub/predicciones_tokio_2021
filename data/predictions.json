@@ -8538,12 +8538,12 @@
                     "date": "2021/08/01",
                     "prediction": {
                         "oro": {
-                            "name": "CAMPBELL Cate",
-                            "country": "AUS"
-                        },
-                        "plata": {
                             "name": "SJOESTROEM Sarah",
                             "country": "SWE"
+                        },
+                        "plata": {
+                            "name": "CAMPBELL Cate",
+                            "country": "AUS"
                         },
                         "bronce": {
                             "name": "BLUME Pernille",
@@ -8782,12 +8782,12 @@
                             "country": "AUS"
                         },
                         "plata": {
-                            "name": "LI Bingjie",
-                            "country": "CHN"
+                            "name": "LEDECKY Kathleen",
+                            "country": "USA"
                         },
                         "bronce": {
-                            "name": "KESELY Ajna",
-                            "country": "HUN"
+                            "name": "LI Bingjie",
+                            "country": "CHN"
                         }
                     },
                     "positions": {
@@ -9375,12 +9375,12 @@
                     "date": "2021/07/31",
                     "prediction": {
                         "oro": {
-                            "name": "TEMPLE Matthew",
-                            "country": "AUS"
-                        },
-                        "plata": {
                             "name": "DRESSEL Caeleb",
                             "country": "USA"
+                        },
+                        "plata": {
+                            "name": "TEMPLE Matthew",
+                            "country": "AUS"
                         },
                         "bronce": {
                             "name": "SCHOOLING Joseph",
