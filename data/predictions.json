@@ -8618,11 +8618,11 @@
                     "date": "2021/07/30",
                     "prediction": {
                         "oro": {
-                            "name": "CAMPBELL Cate",
+                            "name": "MCKEON Emma",
                             "country": "AUS"
                         },
                         "plata": {
-                            "name": "MCKEON Emma",
+                            "name": "CAMPBELL Cate",
                             "country": "AUS"
                         },
                         "bronce": {
@@ -8659,12 +8659,12 @@
                             "country": "RUS"
                         },
                         "plata": {
-                            "name": "CHALMERS Kyle",
-                            "country": "AUS"
-                        },
-                        "bronce": {
                             "name": "DRESSEL Caeleb",
                             "country": "USA"
+                        },
+                        "bronce": {
+                            "name": "CHALMERS Kyle",
+                            "country": "AUS"
                         }
                     },
                     "positions": {
@@ -8862,12 +8862,12 @@
                             "country": "USA"
                         },
                         "plata": {
-                            "name": "TITMUS Ariarne",
-                            "country": "AUS"
+                            "name": "LI Bingjie",
+                            "country": "CHN"
                         },
                         "bronce": {
-                            "name": "WANG Jianjiahe",
-                            "country": "CHN"
+                            "name": "TITMUS Ariarne",
+                            "country": "AUS"
                         }
                     },
                     "positions": {
@@ -9262,12 +9262,12 @@
                             "country": "RUS"
                         },
                         "plata": {
-                            "name": "RENSHAW Molly",
-                            "country": "GBR"
-                        },
-                        "bronce": {
                             "name": "LAZOR Annie",
                             "country": "USA"
+                        },
+                        "bronce": {
+                            "name": "RENSHAW Molly",
+                            "country": "GBR"
                         }
                     },
                     "positions": {
@@ -9726,10 +9726,10 @@
                     "date": "2021/07/29",
                     "prediction": {
                         "oro": {
-                            "country": "AUS"
+                            "country": "USA"
                         },
                         "plata": {
-                            "country": "USA"
+                            "country": "AUS"
                         },
                         "bronce": {
                             "country": "CAN"
