@@ -8766,18 +8766,18 @@
                     "date": "2021/07/28",
                     "prediction": {
                         "oro": {
-                            "name": "IKEE Rikako",
-                            "country": "JPN",
-                            "status": 0
-                        },
-                        "plata": {
                             "name": "TITMUS Ariarne",
                             "country": "AUS",
                             "status": 0
                         },
+                        "plata": {
+                            "name": "RUCK Taylor",
+                            "country": "CAN",
+                            "status": 0
+                        },
                         "bronce": {
-                            "name": "SJOESTROEM Sarah",
-                            "country": "SWE",
+                            "name": "YANG Junxuan",
+                            "country": "CHN",
                             "status": 0
                         }
                     },
@@ -9029,13 +9029,13 @@
                             "status": 0
                         },
                         "plata": {
-                            "name": "KAPAS Boglarka",
-                            "country": "HUN",
+                            "name": "QUADARELLA Simona",
+                            "country": "ITA",
                             "status": 0
                         },
                         "bronce": {
-                            "name": "QUADARELLA Simona",
-                            "country": "ITA",
+                            "name": "WANG Jianjiahe",
+                            "country": "CHN",
                             "status": 0
                         }
                     },
@@ -9585,13 +9585,13 @@
                             "status": 0
                         },
                         "plata": {
-                            "name": "CSEH Laszlo",
-                            "country": "HUN",
+                            "name": "SETO Daiya",
+                            "country": "JPN",
                             "status": 0
                         },
                         "bronce": {
-                            "name": "SETO Daiya",
-                            "country": "JPN",
+                            "name": "LE CLOS Chad",
+                            "country": "RSA",
                             "status": 0
                         }
                     },
