@@ -8725,13 +8725,13 @@
                             "status": 0
                         },
                         "plata": {
-                            "name": "DRESSEL Caeleb",
-                            "country": "USA",
+                            "name": "CHALMERS Kyle",
+                            "country": "AUS",
                             "status": 0
                         },
                         "bronce": {
-                            "name": "CHALMERS Kyle",
-                            "country": "AUS",
+                            "name": "DRESSEL Caeleb",
+                            "country": "USA",
                             "status": 0
                         }
                     },
@@ -8771,13 +8771,13 @@
                             "status": 0
                         },
                         "plata": {
-                            "name": "RUCK Taylor",
-                            "country": "CAN",
+                            "name": "YANG Junxuan",
+                            "country": "CHN",
                             "status": 0
                         },
                         "bronce": {
-                            "name": "YANG Junxuan",
-                            "country": "CHN",
+                            "name": "LEDECKY Katie",
+                            "country": "USA",
                             "status": 0
                         }
                     },
@@ -9069,13 +9069,13 @@
                             "status": 0
                         },
                         "plata": {
-                            "name": "PALTRINIERI Gregorio",
-                            "country": "ITA",
+                            "name": "ROMANCHUK Mykhailo",
+                            "country": "UKR",
                             "status": 0
                         },
                         "bronce": {
-                            "name": "ROMANCHUK Mykhailo",
-                            "country": "UKR",
+                            "name": "PALTRINIERI Gregorio",
+                            "country": "ITA",
                             "status": 0
                         }
                     },
@@ -9206,8 +9206,8 @@
                             "status": 0
                         },
                         "bronce": {
-                            "name": "PANZIERA Margherita",
-                            "country": "ITA",
+                            "name": "WHITE Rhyan Elizabeth",
+                            "country": "USA",
                             "status": 0
                         }
                     },
@@ -9550,8 +9550,8 @@
                             "status": 0
                         },
                         "bronce": {
-                            "name": "BELMONTE Mireia",
-                            "country": "ESP",
+                            "name": "ZHANG Yufei",
+                            "country": "CHN",
                             "status": 0
                         }
                     },
