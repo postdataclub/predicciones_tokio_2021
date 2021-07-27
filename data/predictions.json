@@ -8680,12 +8680,12 @@
                     "date": "2021/07/30",
                     "prediction": {
                         "oro": {
-                            "name": "CAMPBELL Cate",
+                            "name": "MCKEON Emma",
                             "country": "AUS",
                             "status": 0
                         },
                         "plata": {
-                            "name": "MCKEON Emma",
+                            "name": "CAMPBELL Cate",
                             "country": "AUS",
                             "status": 0
                         },
@@ -8948,7 +8948,7 @@
                             "status": 0
                         },
                         "bronce": {
-                            "name": "WANG Jianjiahe",
+                            "name": "LI Bingjie",
                             "country": "CHN",
                             "status": 0
                         }
@@ -8983,13 +8983,13 @@
                             "status": 0
                         },
                         "plata": {
-                            "name": "PALTRINIERI Gregorio",
-                            "country": "ITA",
+                            "name": "AUBRY David",
+                            "country": "FRA",
                             "status": 0
                         },
                         "bronce": {
-                            "name": "AUBRY David",
-                            "country": "FRA",
+                            "name": "PALTRINIERI Gregorio",
+                            "country": "ITA",
                             "status": 0
                         }
                     },
@@ -9064,13 +9064,13 @@
                     "date": "2021/08/01",
                     "prediction": {
                         "oro": {
-                            "name": "PALTRINIERI Gregorio",
-                            "country": "ITA",
+                            "name": "WELLBROCK Florian",
+                            "country": "GER",
                             "status": 0
                         },
                         "plata": {
-                            "name": "WELLBROCK Florian",
-                            "country": "GER",
+                            "name": "PALTRINIERI Gregorio",
+                            "country": "ITA",
                             "status": 0
                         },
                         "bronce": {
@@ -9418,8 +9418,8 @@
                             "status": 0
                         },
                         "bronce": {
-                            "name": "CHUPKOV Anton",
-                            "country": "RUS",
+                            "name": "KAMMINGA Arno",
+                            "country": "NED",
                             "status": 0
                         }
                     },
