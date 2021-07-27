@@ -927,16 +927,16 @@
             "sport": "atl",
             "sex": {
                 "female": {
-                    "date": "2021/08/06",
+                    "date": "2021/07/26",
                     "prediction": {
                         "oro": {
-                            "country": null
+                            "country": "USA"
                         },
                         "plata": {
-                            "country": null
+                            "country": "GER"
                         },
                         "bronce": {
-                            "country": null
+                            "country": "JAM"
                         }
                     },
                     "positions": {
@@ -958,16 +958,16 @@
                     "update_date": null
                 },
                 "male": {
-                    "date": "2021/08/06",
+                    "date": "2021/07/26",
                     "prediction": {
                         "oro": {
-                            "country": null
+                            "country": "USA"
                         },
                         "plata": {
-                            "country": null
+                            "country": "JAM"
                         },
                         "bronce": {
-                            "country": null
+                            "country": "JPN"
                         }
                     },
                     "positions": {
@@ -995,16 +995,16 @@
             "sport": "atl",
             "sex": {
                 "female": {
-                    "date": "2021/08/03",
+                    "date": "2021/07/26",
                     "prediction": {
                         "oro": {
-                            "country": null
+                            "country": "USA"
                         },
                         "plata": {
-                            "country": null
+                            "country": "JAM"
                         },
                         "bronce": {
-                            "country": null
+                            "country": "ITA"
                         }
                     },
                     "positions": {
@@ -1026,16 +1026,16 @@
                     "update_date": null
                 },
                 "male": {
-                    "date": "2021/08/04",
+                    "date": "2021/07/26",
                     "prediction": {
                         "oro": {
-                            "country": null
+                            "country": "USA"
                         },
                         "plata": {
-                            "country": null
+                            "country": "JAM"
                         },
                         "bronce": {
-                            "country": null
+                            "country": "CHN"
                         }
                     },
                     "positions": {
@@ -1058,16 +1058,16 @@
                     "update_date": null
                 },
                 "mixed": {
-                    "date": "2021/08/07",
+                    "date": "2021/07/26",
                     "prediction": {
                         "oro": {
-                            "country": null
+                            "country": "CHN"
                         },
                         "plata": {
-                            "country": null
+                            "country": "ESP"
                         },
                         "bronce": {
-                            "country": null
+                            "country": "BLR"
                         }
                     },
                     "positions": {
@@ -1384,8 +1384,8 @@
                             "country": "POR"
                         },
                         "bronce": {
-                            "name": "christian taylor",
-                            "country": "USA"
+                            "name": "yasser_mohamed_triki",
+                            "country": "ALG"
                         }
                     },
                     "positions": {
@@ -1544,8 +1544,8 @@
                             "country": "LTU"
                         },
                         "bronce": {
-                            "name": "fedrick dacres",
-                            "country": "JAM"
+                            "name": "lukas_weißhaidinger",
+                            "country": "AUT"
                         }
                     },
                     "positions": {
@@ -1579,16 +1579,16 @@
                     "date": "2021/07/24",
                     "prediction": {
                         "oro": {
-                            "name": "katrine koch jacobsen",
-                            "country": "DEN"
+                            "name": "deanna price",
+                            "country": "USA"
                         },
                         "plata": {
-                            "name": "tara simpson-sullivan",
-                            "country": "GBR"
+                            "name": "brooke andersen",
+                            "country": "USA"
                         },
                         "bronce": {
-                            "name": "zouina bouzebra",
-                            "country": "ALG"
+                            "name": "anita włodarczyk",
+                            "country": "POL"
                         }
                     },
                     "positions": {
@@ -1616,16 +1616,16 @@
                     "date": "2021/07/24",
                     "prediction": {
                         "oro": {
-                            "name": "alberto gonzález",
-                            "country": "ESP"
+                            "name": "paweł fajdek",
+                            "country": "POL"
                         },
                         "plata": {
-                            "name": "patrik hájek",
-                            "country": "CZE"
+                            "name": "wojciech nowicki",
+                            "country": "POL"
                         },
                         "bronce": {
-                            "name": "antónio vital e silva",
-                            "country": "POR"
+                            "name": "rudy winkler",
+                            "country": "USA"
                         }
                     },
                     "positions": {
@@ -1704,8 +1704,8 @@
                             "country": "EST"
                         },
                         "bronce": {
-                            "name": "andreas hofmann",
-                            "country": "GER"
+                            "name": "arshad nadeem",
+                            "country": "PAK"
                         }
                     },
                     "positions": {
