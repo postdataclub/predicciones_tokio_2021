@@ -8680,12 +8680,12 @@
                     "date": "2021/07/30",
                     "prediction": {
                         "oro": {
-                            "name": "MCKEON Emma",
+                            "name": "CAMPBELL Cate",
                             "country": "AUS",
                             "status": 0
                         },
                         "plata": {
-                            "name": "CAMPBELL Cate",
+                            "name": "MCKEON Emma",
                             "country": "AUS",
                             "status": 0
                         },
@@ -8725,13 +8725,13 @@
                             "status": 0
                         },
                         "plata": {
-                            "name": "CHALMERS Kyle",
-                            "country": "AUS",
+                            "name": "DRESSEL Caeleb",
+                            "country": "USA",
                             "status": 0
                         },
                         "bronce": {
-                            "name": "DRESSEL Caeleb",
-                            "country": "USA",
+                            "name": "CHALMERS Kyle",
+                            "country": "AUS",
                             "status": 0
                         }
                     },
@@ -9206,8 +9206,8 @@
                             "status": 0
                         },
                         "bronce": {
-                            "name": "WHITE Rhyan Elizabeth",
-                            "country": "USA",
+                            "name": "PANZIERA Margherita",
+                            "country": "ITA",
                             "status": 0
                         }
                     },
@@ -9494,13 +9494,13 @@
                     "date": "2021/07/31",
                     "prediction": {
                         "oro": {
-                            "name": "DRESSEL Caeleb",
-                            "country": "USA",
+                            "name": "TEMPLE Matthew",
+                            "country": "AUS",
                             "status": 0
                         },
                         "plata": {
-                            "name": "TEMPLE Matthew",
-                            "country": "AUS",
+                            "name": "DRESSEL Caeleb",
+                            "country": "USA",
                             "status": 0
                         },
                         "bronce": {
@@ -9636,8 +9636,8 @@
                             "status": 0
                         },
                         "bronce": {
-                            "name": "MCKEOWN Kaylee",
-                            "country": "AUS",
+                            "name": "PICKREM Sydney",
+                            "country": "CAN",
                             "status": 0
                         }
                     },
@@ -9920,7 +9920,7 @@
                             "status": 0
                         },
                         "bronce": {
-                            "country": "AUS",
+                            "country": "RUS",
                             "status": 0
                         }
                     },
