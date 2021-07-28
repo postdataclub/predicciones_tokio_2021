@@ -6581,43 +6581,43 @@
                         "oro": {
                             "name": "Lasha Bekauri",
                             "country": "GEO",
-                            "status": 0
+                            "status": 2
                         },
                         "plata": {
                             "name": "Donghan Gwak",
                             "country": "KOR",
-                            "status": 0
+                            "status": -1
                         },
                         "bronce": [
                             {
                                 "name": "Noel Van T End",
                                 "country": "NED",
-                                "status": 0
+                                "status": -1
                             },
                             {
                                 "name": "Nikoloz Sherazadishvili",
                                 "country": "ESP",
-                                "status": 0
+                                "status": -1
                             }
                         ]
                     },
                     "positions": {
                         "oro": {
-                            "name": null,
-                            "country": null
+                            "name": "Lasha Bekauri",
+                            "country": "GEO"
                         },
                         "plata": {
-                            "name": null,
-                            "country": null
+                            "name": "Eduard Trippel",
+                            "country": "GER"
                         },
                         "bronce": [
                             {
-                                "name": null,
-                                "country": null
+                                "name": "Krisztian Toth",
+                                "country": "HUN"
                             },
                             {
-                                "name": null,
-                                "country": null
+                                "name": "Davlat Bovonov",
+                                "country": "UZB"
                             }
                         ]
                     },
@@ -6625,7 +6625,7 @@
                     "after_comments": null,
                     "methodology": null,
                     "predicted": true,
-                    "updated": false,
+                    "updated": true,
                     "update_date": "2021/07/23"
                 }
             }
@@ -6994,43 +6994,43 @@
                         "oro": {
                             "name": "Chizuru Arai",
                             "country": "JPN",
-                            "status": 0
+                            "status": 2
                         },
                         "plata": {
                             "name": "Sanne Van Dijke",
                             "country": "NED",
-                            "status": 0
+                            "status": 1
                         },
                         "bronce": [
                             {
                                 "name": "Barbara Matic",
                                 "country": "CRO",
-                                "status": 0
+                                "status": 2
                             },
                             {
                                 "name": "Elisavet Teltsidou",
                                 "country": "GRE",
-                                "status": 0
+                                "status": -1
                             }
                         ]
                     },
                     "positions": {
                         "oro": {
-                            "name": null,
-                            "country": null
+                            "name": "Chizuru Arai",
+                            "country": "JPN"
                         },
                         "plata": {
-                            "name": null,
-                            "country": null
+                            "name": "Micaela Polleres",
+                            "country": "AUT"
                         },
                         "bronce": [
                             {
-                                "name": null,
-                                "country": null
+                                "name": "Barbara Matic",
+                                "country": "CRO"
                             },
                             {
-                                "name": null,
-                                "country": null
+                                "name": "Sanne Van Dijke",
+                                "country": "NED"
                             }
                         ]
                     },
@@ -7038,7 +7038,7 @@
                     "after_comments": null,
                     "methodology": null,
                     "predicted": true,
-                    "updated": false,
+                    "updated": true,
                     "update_date": "2021/07/23"
                 }
             }
@@ -7103,7 +7103,7 @@
             }
         },
         "jud_m78kg": {
-            "name": "78 kg",
+            "name": "+78 kg",
             "sport": "jud",
             "sex": {
                 "female": {
