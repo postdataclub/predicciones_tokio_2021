@@ -7167,7 +7167,7 @@
                             {
                                 "name": "Barbara Matic",
                                 "country": "CRO",
-                                "status": 2
+                                "status": -1
                             },
                             {
                                 "name": "Elisavet Teltsidou",
@@ -7187,8 +7187,8 @@
                         },
                         "bronce": [
                             {
-                                "name": "Barbara Matic",
-                                "country": "CRO"
+                                "name": "Tamina Taimazova",
+                                "country": "ROC"
                             },
                             {
                                 "name": "Sanne Van Dijke",
