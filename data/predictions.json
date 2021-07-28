@@ -2411,13 +2411,19 @@
                     "date": "2021/08/07",
                     "prediction": {
                         "oro": {
-                            "country": "JPN"
+                            "name": "Japón",
+                            "country": "JPN",
+                            "status": 0
                         },
                         "plata": {
-                            "country": "USA"
+                            "name": "Estados Unidos",
+                            "country": "USA",
+                            "status": 0
                         },
                         "bronce": {
-                            "country": "MEX"
+                            "name": "México",
+                            "country": "MEX",
+                            "status": 0
                         }
                     },
                     "positions": {
@@ -2434,9 +2440,9 @@
                     "pre_comments": null,
                     "after_comments": null,
                     "methodology": null,
-                    "predicted": false,
+                    "predicted": true,
                     "updated": false,
-                    "update_date": null
+                    "update_date": "2021/07/28"
                 }
             }
         },
@@ -4559,13 +4565,19 @@
                     "date": "2021/08/06",
                     "prediction": {
                         "oro": {
-                            "country": "USA"
+                            "name": "Estados Unidos",
+                            "country": "USA",
+                            "status": 0
                         },
                         "plata": {
-                            "country": "AUS"
+                            "name": "Estados Unidos",
+                            "country": "AUS",
+                            "status": 0
                         },
                         "bronce": {
-                            "country": "CHN"
+                            "name": "China",
+                            "country": "CHN",
+                            "status": 0
                         }
                     },
                     "positions": {
@@ -4582,21 +4594,27 @@
                     "pre_comments": null,
                     "after_comments": null,
                     "methodology": null,
-                    "predicted": false,
+                    "predicted": true,
                     "updated": false,
-                    "update_date": null
+                    "update_date": "20201/07/28"
                 },
                 "male": {
                     "date": "2021/08/07",
                     "prediction": {
                         "oro": {
-                            "country": "KOR"
+                            "name": "Corea del Sur",
+                            "country": "KOR",
+                            "status": 0
                         },
                         "plata": {
-                            "country": "BRA"
+                            "name": "Brasil",
+                            "country": "BRA",
+                            "status": 0
                         },
                         "bronce": {
-                            "country": "MEX"
+                            "name": "México",
+                            "country": "MEX",
+                            "status": 0
                         }
                     },
                     "positions": {
@@ -4613,9 +4631,9 @@
                     "pre_comments": null,
                     "after_comments": null,
                     "methodology": null,
-                    "predicted": false,
+                    "predicted": true,
                     "updated": false,
-                    "update_date": null
+                    "update_date": "2021/07/28"
                 }
             }
         },
@@ -12462,7 +12480,7 @@
                     "after_comments": null,
                     "methodology": null,
                     "predicted": true,
-                    "updated": false,
+                    "updated": true,
                     "update_date": "2021/07/23"
                 }
             }
@@ -14182,13 +14200,19 @@
                     "date": "2021/08/04",
                     "prediction": {
                         "oro": {
-                            "country": "BRA"
+                            "name": "Brasil",
+                            "country": "BRA",
+                            "status": 0
                         },
                         "plata": {
-                            "country": "CHN"
+                            "name": "China",
+                            "country": "CHN",
+                            "status": 0
                         },
                         "bronce": {
-                            "country": "DOM"
+                            "name": "República Dominicana",
+                            "country": "DOM",
+                            "status": 0
                         }
                     },
                     "positions": {
@@ -14205,21 +14229,27 @@
                     "pre_comments": null,
                     "after_comments": null,
                     "methodology": null,
-                    "predicted": false,
+                    "predicted": true,
                     "updated": false,
-                    "update_date": null
+                    "update_date": "2021/07/28"
                 },
                 "male": {
                     "date": "2021/08/07",
                     "prediction": {
                         "oro": {
-                            "country": "BRA"
+                            "name": "Brasil",
+                            "country": "BRA",
+                            "status": 0
                         },
                         "plata": {
-                            "country": "ITA"
+                            "name": "Italia",
+                            "country": "ITA",
+                            "status": 0
                         },
                         "bronce": {
-                            "country": "POL"
+                            "name": "Polonia",
+                            "country": "POL",
+                            "status": 0
                         }
                     },
                     "positions": {
@@ -14236,9 +14266,9 @@
                     "pre_comments": null,
                     "after_comments": null,
                     "methodology": null,
-                    "predicted": false,
+                    "predicted": true,
                     "updated": false,
-                    "update_date": null
+                    "update_date": "2021/07/28"
                 }
             }
         },
