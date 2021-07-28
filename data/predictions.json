@@ -158,18 +158,18 @@
                     "update_date": null
                 },
                 "male": {
-                    "date": "2021/07/24",
+                    "date": "2021/07/28",
                     "prediction": {
                         "oro": {
-                            "name": "akani simbine",
-                            "country": "RSA"
+                            "name": "trayvon bromell",
+                            "country": "USA"
                         },
                         "plata": {
-                            "name": "yohan blake",
-                            "country": "JAM"
+                            "name": "ronnie baker",
+                            "country": "USA"
                         },
                         "bronce": {
-                            "name": "ronnie baker",
+                            "name": "noah lyles",
                             "country": "USA"
                         }
                     },
@@ -284,15 +284,15 @@
                     "date": "2021/07/24",
                     "prediction": {
                         "oro": {
-                            "name": "salwa eid naser",
-                            "country": "BRN"
+                            "name": "shaunae miller uibo",
+                            "country": "BAH"
                         },
                         "plata": {
-                            "name": "stephenie ann mcpherson",
-                            "country": "JAM"
+                            "name": "athing mu",
+                            "country": "USA"
                         },
                         "bronce": {
-                            "name": "wadeline jonathas",
+                            "name": "quanera hayes",
                             "country": "USA"
                         }
                     },
@@ -1982,19 +1982,19 @@
             "sport": "atl",
             "sex": {
                 "male": {
-                    "date": "2021/07/24",
+                    "date": "2021/07/28",
                     "prediction": {
                         "oro": {
-                            "name": "lindon victor",
-                            "country": "GRN"
+                            "name": "damian warner",
+                            "country": "CAN"
                         },
                         "plata": {
-                            "name": "scott filip",
-                            "country": "USA"
+                            "name": "kevin mayer",
+                            "country": "FRA"
                         },
                         "bronce": {
-                            "name": "jose fernando ferreira santana",
-                            "country": "BRA"
+                            "name": "garrett scantling",
+                            "country": "USA"
                         }
                     },
                     "positions": {
