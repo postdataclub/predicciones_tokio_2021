@@ -74,7 +74,11 @@ $.getJSON("data/domains.json", function (domains) {
             $('#info').html(text);
         }
         function renderPrediction(sp, id, name, sex, pred) {
-            let text = "<div id='" + sp + "-" + id + "-" + sex + "' class='event-title'>" + name + " <span id='" + sp + "-" + id + "-" + sex + "-more' class='event-more'>+</span><span id='" + sp + "-" + id + "-" + sex + "-less' class='event-less'  style='display:none;'>-</span></div>";
+            let finished = "no";
+            if (pred.updated) {
+                finished = "si";
+            }
+            let text = "<div id='" + sp + "-" + id + "-" + sex + "' class='event-title'><span id='" + finished + "'>&nbsp;&nbsp;&nbsp;</span>" + name + " <span id='" + sp + "-" + id + "-" + sex + "-more' class='event-more'>+</span><span id='" + sp + "-" + id + "-" + sex + "-less' class='event-less'  style='display:none;'>-</span></div>";
             text += "<div id='" + sp + "-" + id + "-" + sex + "-block' class='event-block' style='display:none;'>";
             text += "<div class='pred'>Pronóstico</div>";
             text += "<div class='pred-block'>";
