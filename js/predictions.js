@@ -1,6 +1,10 @@
 $.getJSON("data/domains.json", function (domains) {
     $.getJSON("data/predictions.json", function (data) {
 
+        function getStats(sport){
+
+        }
+
         function render(pdata) {
             let sports = new Set();
             let sdict = {};
