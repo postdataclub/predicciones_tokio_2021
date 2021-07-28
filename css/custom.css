@@ -1,0 +1,111 @@
+
+body {
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+@media screen and (max-width:992px){
+body {
+    margin-left: 5%;
+    margin-right: 5%;
+}
+}
+
+.wrong {
+    text-decoration: line-through;
+} 
+
+.good {
+    background-color: rgba(0, 255, 255, 0.25);
+}
+
+.excellent {
+    background-color: rgba(170, 0, 255, 0.25);
+}
+
+.sport-title {
+    color: #461a57;
+    font-weight: bold;
+    font-size: 26px;
+}
+
+.sport-icon {
+    width: 40px;
+    height: 40px;
+}
+
+hr {
+    color: #461a57;
+    background-color: #461a57;
+    margin-top: -15px;
+    height: 3px;
+}
+
+.flag {
+    width: 28px;
+    height: 21px;
+    padding-left: 5px;
+    padding-right: 2px;
+}
+
+.country {
+    padding-left: 2px;
+    padding-right: 5px;
+    font-weight: bold;
+}
+
+.sport-block {
+    margin-left: 30px;
+    font-size: 18px;
+    font-weight: normal;
+}
+
+.sex-title {
+    font-size: 24px;
+    font-weight: bold;
+    color: #461a57;
+}
+
+.event-title {
+    margin-left: 15px;
+    font-size: 20px;
+    font-weight: bold;
+    color: #461a57;
+    margin-top: 5px;
+}
+
+.event-block {
+    margin-top: 5px;
+    margin-left: 30px;
+}
+
+.pred, .podium {
+    font-size: 18px;
+    font-weight: bold;
+    color: #461a57;
+}
+
+.pred-block, .podium-block {
+    background-color: #f7f7f7;
+    padding-left: 2px;
+    padding-right: 2px;
+    padding-top: 2px;
+    padding-bottom: 1px;
+}
+
+.pred-item {
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: -10px;
+    margin-bottom: -10px;
+}
+
+.sport-more, .sport-less {
+    cursor: pointer;
+    font-size: 40px;
+}
+
+.event-more, .event-less {
+    cursor: pointer;
+    font-size: 24px;
+}

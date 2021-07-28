@@ -94,10 +94,10 @@
             "name": "Surf"
         },
         "ten": {
-            "name": "Tennis"
+            "name": "Tenis"
         },
         "tem": {
-            "name": "Tennis de Mesa"
+            "name": "Tenis de Mesa"
         },
         "tri": {
             "name": "Triatlón"
@@ -2448,26 +2448,32 @@
                     "date": "2021/07/27",
                     "prediction": {
                         "oro": {
+                            "name": "Astralia",
                             "country": "AUS",
                             "status": -1
                         },
                         "plata": {
+                            "name": "Japón",
                             "country": "JPN",
                             "status": 1
                         },
                         "bronce": {
+                            "name": "Estados Unidos",
                             "country": "USA",
                             "status": 1
                         }
                     },
                     "positions": {
                         "oro": {
+                            "name": "Japón",
                             "country": "JPN"
                         },
                         "plata": {
+                            "name": "Estados Unidos",
                             "country": "USA"
                         },
                         "bronce": {
+                            "name": "Canadá",
                             "country": "CAN"
                         }
                     },
@@ -2529,9 +2535,9 @@
                     "pre_comments": null,
                     "after_comments": null,
                     "methodology": null,
-                    "predicted": false,
+                    "predicted": true,
                     "updated": false,
-                    "update_date": null
+                    "update_date": "2021/07/23"
                 },
                 "male": {
                     "date": "2021/08/07",
@@ -2578,9 +2584,9 @@
                     "pre_comments": null,
                     "after_comments": null,
                     "methodology": null,
-                    "predicted": false,
+                    "predicted": true,
                     "updated": false,
-                    "update_date": null
+                    "update_date": "2021/07/23"
                 }
             }
         },
@@ -2597,7 +2603,7 @@
                         },
                         "plata": {
                             "name": "VORONTSOVA Liudmila",
-                            "country": "RUS"
+                            "country": "ROC"
                         },
                         "bronce": [
                             {
@@ -2633,9 +2639,9 @@
                     "pre_comments": null,
                     "after_comments": null,
                     "methodology": null,
-                    "predicted": false,
+                    "predicted": true,
                     "updated": false,
-                    "update_date": null
+                    "update_date": "2021/07/23"
                 },
                 "male": {
                     "date": "2021/08/05",
@@ -2682,9 +2688,9 @@
                     "pre_comments": null,
                     "after_comments": null,
                     "methodology": null,
-                    "predicted": false,
+                    "predicted": true,
                     "updated": false,
-                    "update_date": null
+                    "update_date": "2021/07/23"
                 }
             }
         },
@@ -2737,16 +2743,16 @@
                     "pre_comments": null,
                     "after_comments": null,
                     "methodology": null,
-                    "predicted": false,
+                    "predicted": true,
                     "updated": false,
-                    "update_date": null
+                    "update_date": "2021/07/23"
                 },
                 "male": {
                     "date": "2021/08/08",
                     "prediction": {
                         "oro": {
                             "name": "CRUZ GOMEZ Andy",
-                            "country": "Cuba"
+                            "country": "CUB"
                         },
                         "plata": {
                             "name": "DAVIS Keyshawn",
@@ -2786,9 +2792,9 @@
                     "pre_comments": null,
                     "after_comments": null,
                     "methodology": null,
-                    "predicted": false,
+                    "predicted": true,
                     "updated": false,
-                    "update_date": null
+                    "update_date": "2021/07/23"
                 }
             }
         },
@@ -2841,16 +2847,16 @@
                     "pre_comments": null,
                     "after_comments": null,
                     "methodology": null,
-                    "predicted": false,
+                    "predicted": true,
                     "updated": false,
-                    "update_date": null
+                    "update_date": "2021/07/23"
                 },
                 "male": {
                     "date": "2021/08/03",
                     "prediction": {
                         "oro": {
                             "name": "ZAMKOVOI Andrei",
-                            "country": "RUS"
+                            "country": "ROC"
                         },
                         "plata": {
                             "name": "MENGUE AYISSI ALBERT",
@@ -2863,7 +2869,7 @@
                             },
                             {
                                 "name": "McCORMACK Pat",
-                                "country": "Great Britain"
+                                "country": "GBR"
                             }
                         ]
                     },
@@ -2890,14 +2896,14 @@
                     "pre_comments": null,
                     "after_comments": null,
                     "methodology": null,
-                    "predicted": false,
+                    "predicted": true,
                     "updated": false,
-                    "update_date": null
+                    "update_date": "2021/07/23"
                 }
             }
         },
         "box_med": {
-            "name": "División mediana",
+            "name": "División Mediana",
             "sport": "box",
             "sex": {
                 "female": {
@@ -2918,7 +2924,7 @@
                             },
                             {
                                 "name": "MAGOMEDALIEVA Zenfira",
-                                "country": "RUS"
+                                "country": "ROC"
                             }
                         ]
                     },
@@ -2945,16 +2951,16 @@
                     "pre_comments": null,
                     "after_comments": null,
                     "methodology": null,
-                    "predicted": false,
+                    "predicted": true,
                     "updated": false,
-                    "update_date": null
+                    "update_date": "2021/07/23"
                 },
                 "male": {
                     "date": "2021/08/07",
                     "prediction": {
                         "oro": {
                             "name": "BAKSHI GLEB",
-                            "country": "RUS"
+                            "country": "ROC"
                         },
                         "plata": {
                             "name": "KHYZHNIAK Oleksandr",
@@ -2994,14 +3000,14 @@
                     "pre_comments": null,
                     "after_comments": null,
                     "methodology": null,
-                    "predicted": false,
+                    "predicted": true,
                     "updated": false,
-                    "update_date": null
+                    "update_date": "2021/07/23"
                 }
             }
         },
         "box_sem": {
-            "name": "División semipesada",
+            "name": "División Semipesada",
             "sport": "box",
             "sex": {
                 "male": {
@@ -3049,14 +3055,14 @@
                     "pre_comments": null,
                     "after_comments": null,
                     "methodology": null,
-                    "predicted": false,
+                    "predicted": true,
                     "updated": false,
-                    "update_date": null
+                    "update_date": "2021/07/23"
                 }
             }
         },
         "box_pes": {
-            "name": "División pesada",
+            "name": "División Pesada",
             "sport": "box",
             "sex": {
                 "male": {
@@ -3073,7 +3079,7 @@
                         "bronce": [
                             {
                                 "name": "GADZHIMAGOMEDOV Muslim",
-                                "country": "RUS"
+                                "country": "ROC"
                             },
                             {
                                 "name": "CASTILLO TORRES Julio Cesar",
@@ -3104,14 +3110,14 @@
                     "pre_comments": null,
                     "after_comments": null,
                     "methodology": null,
-                    "predicted": false,
+                    "predicted": true,
                     "updated": false,
-                    "update_date": null
+                    "update_date": "2021/07/23"
                 }
             }
         },
         "box_sup": {
-            "name": "División superpesada",
+            "name": "División Superpesada",
             "sport": "box",
             "sex": {
                 "male": {
@@ -3159,9 +3165,9 @@
                     "pre_comments": null,
                     "after_comments": null,
                     "methodology": null,
-                    "predicted": false,
+                    "predicted": true,
                     "updated": false,
-                    "update_date": null
+                    "update_date": "2021/07/23"
                 }
             }
         },
@@ -6430,7 +6436,7 @@
                         "bronce": [
                             {
                                 "name": "Baul An",
-                                "country": "KOR "
+                                "country": "KOR"
                             },
                             {
                                 "name": "Daniel Cargnin",
@@ -6467,7 +6473,7 @@
                         "bronce": [
                             {
                                 "name": "Musa Mogushvov",
-                                "country": "RUS",
+                                "country": "ROC",
                                 "status": -1
                             },
                             {
@@ -6515,7 +6521,7 @@
                     "prediction": {
                         "oro": {
                             "name": "Alan Khubetsov",
-                            "country": "RUS",
+                            "country": "ROC",
                             "status": -1
                         },
                         "plata": {
@@ -6644,7 +6650,7 @@
                         "bronce": [
                             {
                                 "name": "Niiaz Iliasov",
-                                "country": "RUS",
+                                "country": "ROC",
                                 "status": 0
                             },
                             {
@@ -6703,7 +6709,7 @@
                         "bronce": [
                             {
                                 "name": "Tamerlan Bashaev",
-                                "country": "RUS",
+                                "country": "ROC",
                                 "status": 0
                             },
                             {
@@ -6815,7 +6821,7 @@
                         },
                         "plata": {
                             "name": "Natalia Kiuzitina",
-                            "country": "RUS",
+                            "country": "ROC",
                             "status": -1
                         },
                         "bronce": [
@@ -7602,715 +7608,6 @@
                 }
             }
         },
-        "luc_l57kg": {
-            "name": "57 kilogramos, libre",
-            "sport": "luc",
-            "sex": {
-                "female": {
-                    "date": "2021/08/05",
-                    "prediction": {
-                        "oro": {
-                            "name": "Kawai, Risako",
-                            "country": "JPN"
-                        },
-                        "plata": {
-                            "name": "Adekuoroye, Odunayo Folasade",
-                            "country": "NGR"
-                        },
-                        "bronce": [
-                            {
-                                "name": "Rong, Ningning",
-                                "country": "CHN"
-                            },
-                            {
-                                "name": "Nichita, Anastasia",
-                                "country": "MDA"
-                            }
-                        ]
-                    },
-                    "positions": {
-                        "oro": {
-                            "name": null,
-                            "country": null
-                        },
-                        "plata": {
-                            "name": null,
-                            "country": null
-                        },
-                        "bronce": [
-                            {
-                                "name": null,
-                                "country": null
-                            },
-                            {
-                                "name": null,
-                                "country": null
-                            }
-                        ]
-                    },
-                    "pre_comments": null,
-                    "after_comments": null,
-                    "methodology": null,
-                    "predicted": false,
-                    "updated": false,
-                    "update_date": null
-                },
-                "male": {
-                    "date": "2021/08/05",
-                    "prediction": {
-                        "oro": {
-                            "name": "Uguev, Zavur",
-                            "country": "RUS"
-                        },
-                        "plata": {
-                            "name": "Takahashi, Yuki",
-                            "country": "JPN"
-                        },
-                        "bronce": [
-                            {
-                                "name": "Harutyunyan, Arsen",
-                                "country": "ARM"
-                            },
-                            {
-                                "name": "Sanayev, Nurislam",
-                                "country": "KAZ"
-                            }
-                        ]
-                    },
-                    "positions": {
-                        "oro": {
-                            "name": null,
-                            "country": null
-                        },
-                        "plata": {
-                            "name": null,
-                            "country": null
-                        },
-                        "bronce": [
-                            {
-                                "name": null,
-                                "country": null
-                            },
-                            {
-                                "name": null,
-                                "country": null
-                            }
-                        ]
-                    },
-                    "pre_comments": null,
-                    "after_comments": null,
-                    "methodology": null,
-                    "predicted": false,
-                    "updated": false,
-                    "update_date": null
-                }
-            }
-        },
-        "luc_l65kg": {
-            "name": "65 kilogramos, libre",
-            "sport": "luc",
-            "sex": {
-                "male": {
-                    "date": "2021/08/05",
-                    "prediction": {
-                        "oro": {
-                            "name": "Otoguro, Takuto",
-                            "country": "JPN"
-                        },
-                        "plata": {
-                            "name": "Aliev, Haji",
-                            "country": "AZE"
-                        },
-                        "bronce": [
-                            {
-                                "name": "Tumur-Ochir, Tulga",
-                                "country": "MGL"
-                            },
-                            {
-                                "name": "Rashidov, Gadshimurad",
-                                "country": "RUS"
-                            }
-                        ]
-                    },
-                    "positions": {
-                        "oro": {
-                            "name": null,
-                            "country": null
-                        },
-                        "plata": {
-                            "name": null,
-                            "country": null
-                        },
-                        "bronce": [
-                            {
-                                "name": null,
-                                "country": null
-                            },
-                            {
-                                "name": null,
-                                "country": null
-                            }
-                        ]
-                    },
-                    "pre_comments": null,
-                    "after_comments": null,
-                    "methodology": null,
-                    "predicted": false,
-                    "updated": false,
-                    "update_date": null
-                }
-            }
-        },
-        "luc_l74kg": {
-            "name": "74 kilogramos, libre",
-            "sport": "luc",
-            "sex": {
-                "male": {
-                    "date": "2021/08/05",
-                    "prediction": {
-                        "oro": {
-                            "name": "Sidakov, Zaurbek",
-                            "country": "RUS"
-                        },
-                        "plata": {
-                            "name": "Dake, Kyle Douglas",
-                            "country": "USA"
-                        },
-                        "bronce": [
-                            {
-                                "name": "Chamizo Marquez, Frank",
-                                "country": "ITA"
-                            },
-                            {
-                                "name": "Garzon Caballero, Geandry",
-                                "country": "CUB"
-                            }
-                        ]
-                    },
-                    "positions": {
-                        "oro": {
-                            "name": null,
-                            "country": null
-                        },
-                        "plata": {
-                            "name": null,
-                            "country": null
-                        },
-                        "bronce": [
-                            {
-                                "name": null,
-                                "country": null
-                            },
-                            {
-                                "name": null,
-                                "country": null
-                            }
-                        ]
-                    },
-                    "pre_comments": null,
-                    "after_comments": null,
-                    "methodology": null,
-                    "predicted": false,
-                    "updated": false,
-                    "update_date": null
-                }
-            }
-        },
-        "luc_l86kg": {
-            "name": "86 kilogramos, libre",
-            "sport": "luc",
-            "sex": {
-                "male": {
-                    "date": "2021/08/05",
-                    "prediction": {
-                        "oro": {
-                            "name": "Naifonov, Artur",
-                            "country": "RUS"
-                        },
-                        "plata": {
-                            "name": "Taylor, David Morris",
-                            "country": "USA"
-                        },
-                        "bronce": [
-                            {
-                                "name": "Yazdani Charati, Hassan Aliazam",
-                                "country": "IRI"
-                            },
-                            {
-                                "name": "Punia, Deepak",
-                                "country": "IND"
-                            }
-                        ]
-                    },
-                    "positions": {
-                        "oro": {
-                            "name": null,
-                            "country": null
-                        },
-                        "plata": {
-                            "name": null,
-                            "country": null
-                        },
-                        "bronce": [
-                            {
-                                "name": null,
-                                "country": null
-                            },
-                            {
-                                "name": null,
-                                "country": null
-                            }
-                        ]
-                    },
-                    "pre_comments": null,
-                    "after_comments": null,
-                    "methodology": null,
-                    "predicted": false,
-                    "updated": false,
-                    "update_date": null
-                }
-            }
-        },
-        "luc_l97kg": {
-            "name": "97 kilogramos, libre",
-            "sport": "luc",
-            "sex": {
-                "male": {
-                    "date": "2021/08/05",
-                    "prediction": {
-                        "oro": {
-                            "name": "Sadulaev, Abdulrashid",
-                            "country": "RUS"
-                        },
-                        "plata": {
-                            "name": "Snyder, Kyle Frederick",
-                            "country": "USA"
-                        },
-                        "bronce": [
-                            {
-                                "name": "Yergali, Alisher",
-                                "country": "KAZ"
-                            },
-                            {
-                                "name": "Mohammadian, Mohammad Hossei Askari",
-                                "country": "IRI"
-                            }
-                        ]
-                    },
-                    "positions": {
-                        "oro": {
-                            "name": null,
-                            "country": null
-                        },
-                        "plata": {
-                            "name": null,
-                            "country": null
-                        },
-                        "bronce": [
-                            {
-                                "name": null,
-                                "country": null
-                            },
-                            {
-                                "name": null,
-                                "country": null
-                            }
-                        ]
-                    },
-                    "pre_comments": null,
-                    "after_comments": null,
-                    "methodology": null,
-                    "predicted": false,
-                    "updated": false,
-                    "update_date": null
-                }
-            }
-        },
-        "luc_l125kg": {
-            "name": "125 kilogramos, libre",
-            "sport": "luc",
-            "sex": {
-                "male": {
-                    "date": "2021/08/05",
-                    "prediction": {
-                        "oro": {
-                            "name": "Petriashvili, Geno",
-                            "country": "GEO"
-                        },
-                        "plata": {
-                            "name": "Steveson, Gable Dan",
-                            "country": "USA"
-                        },
-                        "bronce": [
-                            {
-                                "name": "Akgul, Taha",
-                                "country": "TUR"
-                            },
-                            {
-                                "name": "Kozyrev, Sergey",
-                                "country": "RUS"
-                            }
-                        ]
-                    },
-                    "positions": {
-                        "oro": {
-                            "name": null,
-                            "country": null
-                        },
-                        "plata": {
-                            "name": null,
-                            "country": null
-                        },
-                        "bronce": [
-                            {
-                                "name": null,
-                                "country": null
-                            },
-                            {
-                                "name": null,
-                                "country": null
-                            }
-                        ]
-                    },
-                    "pre_comments": null,
-                    "after_comments": null,
-                    "methodology": null,
-                    "predicted": false,
-                    "updated": false,
-                    "update_date": null
-                }
-            }
-        },
-        "luc_g60kg": {
-            "name": "60 kilogramos, grecorromana",
-            "sport": "luc",
-            "sex": {
-                "male": {
-                    "date": "2021/08/05",
-                    "prediction": {
-                        "oro": {
-                            "name": "Emelin, Sergey",
-                            "country": "RUS"
-                        },
-                        "plata": {
-                            "name": "Fumita, Kenchiro",
-                            "country": "JPN"
-                        },
-                        "bronce": [
-                            {
-                                "name": "Nejati, Alireza Ayat Ollah",
-                                "country": "IRI"
-                            },
-                            {
-                                "name": "Sharshenbekov, Zholaman",
-                                "country": "KGZ"
-                            }
-                        ]
-                    },
-                    "positions": {
-                        "oro": {
-                            "name": null,
-                            "country": null
-                        },
-                        "plata": {
-                            "name": null,
-                            "country": null
-                        },
-                        "bronce": [
-                            {
-                                "name": null,
-                                "country": null
-                            },
-                            {
-                                "name": null,
-                                "country": null
-                            }
-                        ]
-                    },
-                    "pre_comments": null,
-                    "after_comments": null,
-                    "methodology": null,
-                    "predicted": false,
-                    "updated": false,
-                    "update_date": null
-                }
-            }
-        },
-        "luc_g67kg": {
-            "name": "67 kilogramos, grecorromana",
-            "sport": "luc",
-            "sex": {
-                "male": {
-                    "date": "2021/08/05",
-                    "prediction": {
-                        "oro": {
-                            "name": "Surkov, Artem",
-                            "country": "RUS"
-                        },
-                        "plata": {
-                            "name": "Staebler, Frank",
-                            "country": "GER"
-                        },
-                        "bronce": [
-                            {
-                                "name": "Elsayed, Mohamed Ibrahim Elsayed",
-                                "country": "EGY"
-                            },
-                            {
-                                "name": "Borrero Molina, Ismael",
-                                "country": "CUB"
-                            }
-                        ]
-                    },
-                    "positions": {
-                        "oro": {
-                            "name": null,
-                            "country": null
-                        },
-                        "plata": {
-                            "name": null,
-                            "country": null
-                        },
-                        "bronce": [
-                            {
-                                "name": null,
-                                "country": null
-                            },
-                            {
-                                "name": null,
-                                "country": null
-                            }
-                        ]
-                    },
-                    "pre_comments": null,
-                    "after_comments": null,
-                    "methodology": null,
-                    "predicted": false,
-                    "updated": false,
-                    "update_date": null
-                }
-            }
-        },
-        "luc_g77kg": {
-            "name": "77 kilogramos, grecorromana",
-            "sport": "luc",
-            "sex": {
-                "male": {
-                    "date": "2021/08/05",
-                    "prediction": {
-                        "oro": {
-                            "name": "Chekhirkin, Aleksander",
-                            "country": "RUS"
-                        },
-                        "plata": {
-                            "name": "Geraei, Mohammadali Abdolhamid",
-                            "country": "IRI"
-                        },
-                        "bronce": [
-                            {
-                                "name": "Loerincz, Tamas",
-                                "country": "HUN"
-                            },
-                            {
-                                "name": "Makhmudov, Akzhol",
-                                "country": "KGZ"
-                            }
-                        ]
-                    },
-                    "positions": {
-                        "oro": {
-                            "name": null,
-                            "country": null
-                        },
-                        "plata": {
-                            "name": null,
-                            "country": null
-                        },
-                        "bronce": [
-                            {
-                                "name": null,
-                                "country": null
-                            },
-                            {
-                                "name": null,
-                                "country": null
-                            }
-                        ]
-                    },
-                    "pre_comments": null,
-                    "after_comments": null,
-                    "methodology": null,
-                    "predicted": false,
-                    "updated": false,
-                    "update_date": null
-                }
-            }
-        },
-        "luc_g87kg": {
-            "name": "87 kilogramos, grecorromana",
-            "sport": "luc",
-            "sex": {
-                "male": {
-                    "date": "2021/08/05",
-                    "prediction": {
-                        "oro": {
-                            "name": "Belenyuk, Zhan",
-                            "country": "UKR"
-                        },
-                        "plata": {
-                            "name": "Tursynov, Nursultan",
-                            "country": "KAZ"
-                        },
-                        "bronce": [
-                            {
-                                "name": "Kudla, Denis Maksymilian",
-                                "country": "GER"
-                            },
-                            {
-                                "name": "Abbasov, Islam",
-                                "country": "AZE"
-                            }
-                        ]
-                    },
-                    "positions": {
-                        "oro": {
-                            "name": null,
-                            "country": null
-                        },
-                        "plata": {
-                            "name": null,
-                            "country": null
-                        },
-                        "bronce": [
-                            {
-                                "name": null,
-                                "country": null
-                            },
-                            {
-                                "name": null,
-                                "country": null
-                            }
-                        ]
-                    },
-                    "pre_comments": null,
-                    "after_comments": null,
-                    "methodology": null,
-                    "predicted": false,
-                    "updated": false,
-                    "update_date": null
-                }
-            }
-        },
-        "luc_g97kg": {
-            "name": "97 kilogramos, grecorromana",
-            "sport": "luc",
-            "sex": {
-                "male": {
-                    "date": "2021/08/05",
-                    "prediction": {
-                        "oro": {
-                            "name": "Aleksanyan, Artur",
-                            "country": "ARM"
-                        },
-                        "plata": {
-                            "name": "Evloev, Musa",
-                            "country": "RUS"
-                        },
-                        "bronce": [
-                            {
-                                "name": "Saravi, Mohammadhadi Abdollah",
-                                "country": "IRI"
-                            },
-                            {
-                                "name": "Rosillo Kindelan, Gabriel Alejandro",
-                                "country": "CUB"
-                            }
-                        ]
-                    },
-                    "positions": {
-                        "oro": {
-                            "name": null,
-                            "country": null
-                        },
-                        "plata": {
-                            "name": null,
-                            "country": null
-                        },
-                        "bronce": [
-                            {
-                                "name": null,
-                                "country": null
-                            },
-                            {
-                                "name": null,
-                                "country": null
-                            }
-                        ]
-                    },
-                    "pre_comments": null,
-                    "after_comments": null,
-                    "methodology": null,
-                    "predicted": false,
-                    "updated": false,
-                    "update_date": null
-                }
-            }
-        },
-        "luc_g130kg": {
-            "name": "130 kilogramos, grecorromana",
-            "sport": "luc",
-            "sex": {
-                "male": {
-                    "date": "2021/08/05",
-                    "prediction": {
-                        "oro": {
-                            "name": "Lopez Nunez, Mijain",
-                            "country": "CUB"
-                        },
-                        "plata": {
-                            "name": "Kayaalp, Riza",
-                            "country": "TUR"
-                        },
-                        "bronce": [
-                            {
-                                "name": "Semenov, Sergey",
-                                "country": "RUS"
-                            },
-                            {
-                                "name": "Kajaia, Iakobi",
-                                "country": "GEO"
-                            }
-                        ]
-                    },
-                    "positions": {
-                        "oro": {
-                            "name": null,
-                            "country": null
-                        },
-                        "plata": {
-                            "name": null,
-                            "country": null
-                        },
-                        "bronce": [
-                            {
-                                "name": null,
-                                "country": null
-                            },
-                            {
-                                "name": null,
-                                "country": null
-                            }
-                        ]
-                    },
-                    "pre_comments": null,
-                    "after_comments": null,
-                    "methodology": null,
-                    "predicted": false,
-                    "updated": false,
-                    "update_date": null
-                }
-            }
-        },
         "luc_l50kg": {
             "name": "50 kg, libre",
             "sport": "luc",
@@ -8360,35 +7657,35 @@
                     "pre_comments": null,
                     "after_comments": null,
                     "methodology": null,
-                    "predicted": false,
+                    "predicted": true,
                     "updated": false,
-                    "update_date": null
+                    "update_date": "2021/07/23"
                 }
             }
         },
-        "luc_l53kg": {
-            "name": "53 kg, libre",
+        "luc_l57kg": {
+            "name": "57 kg, libre",
             "sport": "luc",
             "sex": {
                 "female": {
                     "date": "2021/08/05",
                     "prediction": {
                         "oro": {
-                            "name": "Mukaida, Mayu",
+                            "name": "Kawai, Risako",
                             "country": "JPN"
                         },
                         "plata": {
-                            "name": "Pang, Qianyu",
-                            "country": "CHN"
+                            "name": "Adekuoroye, Odunayo Folasade",
+                            "country": "NGR"
                         },
                         "bronce": [
                             {
-                                "name": "Winchester, Jaccara Gwenisha",
-                                "country": "USA"
+                                "name": "Rong, Ningning",
+                                "country": "CHN"
                             },
                             {
-                                "name": "Khoroshavtseva, Olga",
-                                "country": "RUS"
+                                "name": "Nichita, Anastasia",
+                                "country": "MDA"
                             }
                         ]
                     },
@@ -8415,9 +7712,718 @@
                     "pre_comments": null,
                     "after_comments": null,
                     "methodology": null,
-                    "predicted": false,
+                    "predicted": true,
                     "updated": false,
-                    "update_date": null
+                    "update_date": "2021/07/23"
+                },
+                "male": {
+                    "date": "2021/08/05",
+                    "prediction": {
+                        "oro": {
+                            "name": "Uguev, Zavur",
+                            "country": "ROC"
+                        },
+                        "plata": {
+                            "name": "Takahashi, Yuki",
+                            "country": "JPN"
+                        },
+                        "bronce": [
+                            {
+                                "name": "Harutyunyan, Arsen",
+                                "country": "ARM"
+                            },
+                            {
+                                "name": "Sanayev, Nurislam",
+                                "country": "KAZ"
+                            }
+                        ]
+                    },
+                    "positions": {
+                        "oro": {
+                            "name": null,
+                            "country": null
+                        },
+                        "plata": {
+                            "name": null,
+                            "country": null
+                        },
+                        "bronce": [
+                            {
+                                "name": null,
+                                "country": null
+                            },
+                            {
+                                "name": null,
+                                "country": null
+                            }
+                        ]
+                    },
+                    "pre_comments": null,
+                    "after_comments": null,
+                    "methodology": null,
+                    "predicted": true,
+                    "updated": false,
+                    "update_date": "2021/07/23"
+                }
+            }
+        },
+        "luc_l65kg": {
+            "name": "65 kg, libre",
+            "sport": "luc",
+            "sex": {
+                "male": {
+                    "date": "2021/08/05",
+                    "prediction": {
+                        "oro": {
+                            "name": "Otoguro, Takuto",
+                            "country": "JPN"
+                        },
+                        "plata": {
+                            "name": "Aliev, Haji",
+                            "country": "AZE"
+                        },
+                        "bronce": [
+                            {
+                                "name": "Tumur-Ochir, Tulga",
+                                "country": "MGL"
+                            },
+                            {
+                                "name": "Rashidov, Gadshimurad",
+                                "country": "ROC"
+                            }
+                        ]
+                    },
+                    "positions": {
+                        "oro": {
+                            "name": null,
+                            "country": null
+                        },
+                        "plata": {
+                            "name": null,
+                            "country": null
+                        },
+                        "bronce": [
+                            {
+                                "name": null,
+                                "country": null
+                            },
+                            {
+                                "name": null,
+                                "country": null
+                            }
+                        ]
+                    },
+                    "pre_comments": null,
+                    "after_comments": null,
+                    "methodology": null,
+                    "predicted": true,
+                    "updated": false,
+                    "update_date": "2021/07/23"
+                }
+            }
+        },
+        "luc_l74kg": {
+            "name": "74 kg, libre",
+            "sport": "luc",
+            "sex": {
+                "male": {
+                    "date": "2021/08/05",
+                    "prediction": {
+                        "oro": {
+                            "name": "Sidakov, Zaurbek",
+                            "country": "ROC"
+                        },
+                        "plata": {
+                            "name": "Dake, Kyle Douglas",
+                            "country": "USA"
+                        },
+                        "bronce": [
+                            {
+                                "name": "Chamizo Marquez, Frank",
+                                "country": "ITA"
+                            },
+                            {
+                                "name": "Garzon Caballero, Geandry",
+                                "country": "CUB"
+                            }
+                        ]
+                    },
+                    "positions": {
+                        "oro": {
+                            "name": null,
+                            "country": null
+                        },
+                        "plata": {
+                            "name": null,
+                            "country": null
+                        },
+                        "bronce": [
+                            {
+                                "name": null,
+                                "country": null
+                            },
+                            {
+                                "name": null,
+                                "country": null
+                            }
+                        ]
+                    },
+                    "pre_comments": null,
+                    "after_comments": null,
+                    "methodology": null,
+                    "predicted": true,
+                    "updated": false,
+                    "update_date": "2021/07/23"
+                }
+            }
+        },
+        "luc_l86kg": {
+            "name": "86 kg, libre",
+            "sport": "luc",
+            "sex": {
+                "male": {
+                    "date": "2021/08/05",
+                    "prediction": {
+                        "oro": {
+                            "name": "Naifonov, Artur",
+                            "country": "ROC"
+                        },
+                        "plata": {
+                            "name": "Taylor, David Morris",
+                            "country": "USA"
+                        },
+                        "bronce": [
+                            {
+                                "name": "Yazdani Charati, Hassan Aliazam",
+                                "country": "IRI"
+                            },
+                            {
+                                "name": "Punia, Deepak",
+                                "country": "IND"
+                            }
+                        ]
+                    },
+                    "positions": {
+                        "oro": {
+                            "name": null,
+                            "country": null
+                        },
+                        "plata": {
+                            "name": null,
+                            "country": null
+                        },
+                        "bronce": [
+                            {
+                                "name": null,
+                                "country": null
+                            },
+                            {
+                                "name": null,
+                                "country": null
+                            }
+                        ]
+                    },
+                    "pre_comments": null,
+                    "after_comments": null,
+                    "methodology": null,
+                    "predicted": true,
+                    "updated": false,
+                    "update_date": "2021/07/23"
+                }
+            }
+        },
+        "luc_l97kg": {
+            "name": "97 kg, libre",
+            "sport": "luc",
+            "sex": {
+                "male": {
+                    "date": "2021/08/05",
+                    "prediction": {
+                        "oro": {
+                            "name": "Sadulaev, Abdulrashid",
+                            "country": "ROC"
+                        },
+                        "plata": {
+                            "name": "Snyder, Kyle Frederick",
+                            "country": "USA"
+                        },
+                        "bronce": [
+                            {
+                                "name": "Yergali, Alisher",
+                                "country": "KAZ"
+                            },
+                            {
+                                "name": "Mohammadian, Mohammad Hossei Askari",
+                                "country": "IRI"
+                            }
+                        ]
+                    },
+                    "positions": {
+                        "oro": {
+                            "name": null,
+                            "country": null
+                        },
+                        "plata": {
+                            "name": null,
+                            "country": null
+                        },
+                        "bronce": [
+                            {
+                                "name": null,
+                                "country": null
+                            },
+                            {
+                                "name": null,
+                                "country": null
+                            }
+                        ]
+                    },
+                    "pre_comments": null,
+                    "after_comments": null,
+                    "methodology": null,
+                    "predicted": true,
+                    "updated": false,
+                    "update_date": "2021/07/23"
+                }
+            }
+        },
+        "luc_l125kg": {
+            "name": "125 kg, libre",
+            "sport": "luc",
+            "sex": {
+                "male": {
+                    "date": "2021/08/05",
+                    "prediction": {
+                        "oro": {
+                            "name": "Petriashvili, Geno",
+                            "country": "GEO"
+                        },
+                        "plata": {
+                            "name": "Steveson, Gable Dan",
+                            "country": "USA"
+                        },
+                        "bronce": [
+                            {
+                                "name": "Akgul, Taha",
+                                "country": "TUR"
+                            },
+                            {
+                                "name": "Kozyrev, Sergey",
+                                "country": "ROC"
+                            }
+                        ]
+                    },
+                    "positions": {
+                        "oro": {
+                            "name": null,
+                            "country": null
+                        },
+                        "plata": {
+                            "name": null,
+                            "country": null
+                        },
+                        "bronce": [
+                            {
+                                "name": null,
+                                "country": null
+                            },
+                            {
+                                "name": null,
+                                "country": null
+                            }
+                        ]
+                    },
+                    "pre_comments": null,
+                    "after_comments": null,
+                    "methodology": null,
+                    "predicted": true,
+                    "updated": false,
+                    "update_date": "2021/07/23"
+                }
+            }
+        },
+        "luc_g60kg": {
+            "name": "60 kg, grecorromana",
+            "sport": "luc",
+            "sex": {
+                "male": {
+                    "date": "2021/08/05",
+                    "prediction": {
+                        "oro": {
+                            "name": "Emelin, Sergey",
+                            "country": "ROC"
+                        },
+                        "plata": {
+                            "name": "Fumita, Kenchiro",
+                            "country": "JPN"
+                        },
+                        "bronce": [
+                            {
+                                "name": "Nejati, Alireza Ayat Ollah",
+                                "country": "IRI"
+                            },
+                            {
+                                "name": "Sharshenbekov, Zholaman",
+                                "country": "KGZ"
+                            }
+                        ]
+                    },
+                    "positions": {
+                        "oro": {
+                            "name": null,
+                            "country": null
+                        },
+                        "plata": {
+                            "name": null,
+                            "country": null
+                        },
+                        "bronce": [
+                            {
+                                "name": null,
+                                "country": null
+                            },
+                            {
+                                "name": null,
+                                "country": null
+                            }
+                        ]
+                    },
+                    "pre_comments": null,
+                    "after_comments": null,
+                    "methodology": null,
+                    "predicted": true,
+                    "updated": false,
+                    "update_date": "2021/07/23"
+                }
+            }
+        },
+        "luc_g67kg": {
+            "name": "67 kg, grecorromana",
+            "sport": "luc",
+            "sex": {
+                "male": {
+                    "date": "2021/08/05",
+                    "prediction": {
+                        "oro": {
+                            "name": "Surkov, Artem",
+                            "country": "ROC"
+                        },
+                        "plata": {
+                            "name": "Staebler, Frank",
+                            "country": "GER"
+                        },
+                        "bronce": [
+                            {
+                                "name": "Elsayed, Mohamed Ibrahim Elsayed",
+                                "country": "EGY"
+                            },
+                            {
+                                "name": "Borrero Molina, Ismael",
+                                "country": "CUB"
+                            }
+                        ]
+                    },
+                    "positions": {
+                        "oro": {
+                            "name": null,
+                            "country": null
+                        },
+                        "plata": {
+                            "name": null,
+                            "country": null
+                        },
+                        "bronce": [
+                            {
+                                "name": null,
+                                "country": null
+                            },
+                            {
+                                "name": null,
+                                "country": null
+                            }
+                        ]
+                    },
+                    "pre_comments": null,
+                    "after_comments": null,
+                    "methodology": null,
+                    "predicted": true,
+                    "updated": false,
+                    "update_date": "2021/07/23"
+                }
+            }
+        },
+        "luc_g77kg": {
+            "name": "77 kg, grecorromana",
+            "sport": "luc",
+            "sex": {
+                "male": {
+                    "date": "2021/08/05",
+                    "prediction": {
+                        "oro": {
+                            "name": "Chekhirkin, Aleksander",
+                            "country": "ROC"
+                        },
+                        "plata": {
+                            "name": "Geraei, Mohammadali Abdolhamid",
+                            "country": "IRI"
+                        },
+                        "bronce": [
+                            {
+                                "name": "Loerincz, Tamas",
+                                "country": "HUN"
+                            },
+                            {
+                                "name": "Makhmudov, Akzhol",
+                                "country": "KGZ"
+                            }
+                        ]
+                    },
+                    "positions": {
+                        "oro": {
+                            "name": null,
+                            "country": null
+                        },
+                        "plata": {
+                            "name": null,
+                            "country": null
+                        },
+                        "bronce": [
+                            {
+                                "name": null,
+                                "country": null
+                            },
+                            {
+                                "name": null,
+                                "country": null
+                            }
+                        ]
+                    },
+                    "pre_comments": null,
+                    "after_comments": null,
+                    "methodology": null,
+                    "predicted": true,
+                    "updated": false,
+                    "update_date": "2021/07/23"
+                }
+            }
+        },
+        "luc_g87kg": {
+            "name": "87 kg, grecorromana",
+            "sport": "luc",
+            "sex": {
+                "male": {
+                    "date": "2021/08/05",
+                    "prediction": {
+                        "oro": {
+                            "name": "Belenyuk, Zhan",
+                            "country": "UKR"
+                        },
+                        "plata": {
+                            "name": "Tursynov, Nursultan",
+                            "country": "KAZ"
+                        },
+                        "bronce": [
+                            {
+                                "name": "Kudla, Denis Maksymilian",
+                                "country": "GER"
+                            },
+                            {
+                                "name": "Abbasov, Islam",
+                                "country": "AZE"
+                            }
+                        ]
+                    },
+                    "positions": {
+                        "oro": {
+                            "name": null,
+                            "country": null
+                        },
+                        "plata": {
+                            "name": null,
+                            "country": null
+                        },
+                        "bronce": [
+                            {
+                                "name": null,
+                                "country": null
+                            },
+                            {
+                                "name": null,
+                                "country": null
+                            }
+                        ]
+                    },
+                    "pre_comments": null,
+                    "after_comments": null,
+                    "methodology": null,
+                    "predicted": true,
+                    "updated": false,
+                    "update_date": "2021/07/23"
+                }
+            }
+        },
+        "luc_g97kg": {
+            "name": "97 kg, grecorromana",
+            "sport": "luc",
+            "sex": {
+                "male": {
+                    "date": "2021/08/05",
+                    "prediction": {
+                        "oro": {
+                            "name": "Aleksanyan, Artur",
+                            "country": "ARM"
+                        },
+                        "plata": {
+                            "name": "Evloev, Musa",
+                            "country": "ROC"
+                        },
+                        "bronce": [
+                            {
+                                "name": "Saravi, Mohammadhadi Abdollah",
+                                "country": "IRI"
+                            },
+                            {
+                                "name": "Rosillo Kindelan, Gabriel Alejandro",
+                                "country": "CUB"
+                            }
+                        ]
+                    },
+                    "positions": {
+                        "oro": {
+                            "name": null,
+                            "country": null
+                        },
+                        "plata": {
+                            "name": null,
+                            "country": null
+                        },
+                        "bronce": [
+                            {
+                                "name": null,
+                                "country": null
+                            },
+                            {
+                                "name": null,
+                                "country": null
+                            }
+                        ]
+                    },
+                    "pre_comments": null,
+                    "after_comments": null,
+                    "methodology": null,
+                    "predicted": true,
+                    "updated": false,
+                    "update_date": "2021/07/23"
+                }
+            }
+        },
+        "luc_g130kg": {
+            "name": "130 kg, grecorromana",
+            "sport": "luc",
+            "sex": {
+                "male": {
+                    "date": "2021/08/05",
+                    "prediction": {
+                        "oro": {
+                            "name": "Lopez Nunez, Mijain",
+                            "country": "CUB"
+                        },
+                        "plata": {
+                            "name": "Kayaalp, Riza",
+                            "country": "TUR"
+                        },
+                        "bronce": [
+                            {
+                                "name": "Semenov, Sergey",
+                                "country": "ROC"
+                            },
+                            {
+                                "name": "Kajaia, Iakobi",
+                                "country": "GEO"
+                            }
+                        ]
+                    },
+                    "positions": {
+                        "oro": {
+                            "name": null,
+                            "country": null
+                        },
+                        "plata": {
+                            "name": null,
+                            "country": null
+                        },
+                        "bronce": [
+                            {
+                                "name": null,
+                                "country": null
+                            },
+                            {
+                                "name": null,
+                                "country": null
+                            }
+                        ]
+                    },
+                    "pre_comments": null,
+                    "after_comments": null,
+                    "methodology": null,
+                    "predicted": true,
+                    "updated": false,
+                    "update_date": "2021/07/23"
+                }
+            }
+        },
+        "luc_l53kg": {
+            "name": "53 kg, libre",
+            "sport": "luc",
+            "sex": {
+                "female": {
+                    "date": "2021/08/05",
+                    "prediction": {
+                        "oro": {
+                            "name": "Mukaida, Mayu",
+                            "country": "JPN"
+                        },
+                        "plata": {
+                            "name": "Pang, Qianyu",
+                            "country": "CHN"
+                        },
+                        "bronce": [
+                            {
+                                "name": "Winchester, Jaccara Gwenisha",
+                                "country": "USA"
+                            },
+                            {
+                                "name": "Khoroshavtseva, Olga",
+                                "country": "ROC"
+                            }
+                        ]
+                    },
+                    "positions": {
+                        "oro": {
+                            "name": null,
+                            "country": null
+                        },
+                        "plata": {
+                            "name": null,
+                            "country": null
+                        },
+                        "bronce": [
+                            {
+                                "name": null,
+                                "country": null
+                            },
+                            {
+                                "name": null,
+                                "country": null
+                            }
+                        ]
+                    },
+                    "pre_comments": null,
+                    "after_comments": null,
+                    "methodology": null,
+                    "predicted": true,
+                    "updated": false,
+                    "update_date": "2021/07/23"
                 }
             }
         },
@@ -8470,9 +8476,9 @@
                     "pre_comments": null,
                     "after_comments": null,
                     "methodology": null,
-                    "predicted": false,
+                    "predicted": true,
                     "updated": false,
-                    "update_date": null
+                    "update_date": "2021/07/23"
                 }
             }
         },
@@ -8525,9 +8531,9 @@
                     "pre_comments": null,
                     "after_comments": null,
                     "methodology": null,
-                    "predicted": false,
+                    "predicted": true,
                     "updated": false,
-                    "update_date": null
+                    "update_date": "2021/07/23"
                 }
             }
         },
@@ -8544,7 +8550,7 @@
                         },
                         "plata": {
                             "name": "Vorobieva, Natalya",
-                            "country": "RUS"
+                            "country": "ROC"
                         },
                         "bronce": [
                             {
@@ -8580,9 +8586,9 @@
                     "pre_comments": null,
                     "after_comments": null,
                     "methodology": null,
-                    "predicted": false,
+                    "predicted": true,
                     "updated": false,
-                    "update_date": null
+                    "update_date": "2021/07/23"
                 }
             }
         },
@@ -8721,7 +8727,7 @@
                     "prediction": {
                         "oro": {
                             "name": "KOLESNIKOV Kliment",
-                            "country": "RUS",
+                            "country": "ROC",
                             "status": 0
                         },
                         "plata": {
@@ -8766,80 +8772,80 @@
                     "date": "2021/07/28",
                     "prediction": {
                         "oro": {
-                            "name": "TITMUS Ariarne",
+                            "name": "Ariarne Titmus",
                             "country": "AUS",
-                            "status": 0
+                            "status": 2
                         },
                         "plata": {
-                            "name": "YANG Junxuan",
+                            "name": "Junxuan Yang",
                             "country": "CHN",
-                            "status": 0
+                            "status": -1
                         },
                         "bronce": {
-                            "name": "LEDECKY Katie",
+                            "name": "Katie Ledecky",
                             "country": "USA",
-                            "status": 0
+                            "status": -1
                         }
                     },
                     "positions": {
                         "oro": {
-                            "name": null,
-                            "country": null
+                            "name": "Ariarne Titmus",
+                            "country": "AUS"
                         },
                         "plata": {
-                            "name": null,
-                            "country": null
+                            "name": "Siobhan Haughey",
+                            "country": "HKG"
                         },
                         "bronce": {
-                            "name": null,
-                            "country": null
+                            "name": "Penny Oleksiak",
+                            "country": "CAN"
                         }
                     },
                     "pre_comments": null,
                     "after_comments": null,
                     "methodology": null,
                     "predicted": true,
-                    "updated": false,
-                    "update_date": "2021/07/26"
+                    "updated": true,
+                    "update_date": "2021/07/27"
                 },
                 "male": {
                     "date": "2021/07/27",
                     "prediction": {
                         "oro": {
-                            "name": "HWANG Sunwoo",
+                            "name": "Sunwoo Hwang",
                             "country": "KOR",
-                            "status": 0
+                            "status": -1
                         },
                         "plata": {
-                            "name": "DEAN Tom",
+                            "name": "Tom Dean",
                             "country": "GBR",
-                            "status": 0
+                            "status": 1
                         },
                         "bronce": {
-                            "name": "SCOTT Duncan",
+                            "name": "Duncan Scott",
                             "country": "GBR",
-                            "status": 0
+                            "status": 1
                         }
                     },
                     "positions": {
                         "oro": {
-                            "name": null,
-                            "country": null
+                            "name": "Tom Dean",
+                            "country": "GBR"
                         },
                         "plata": {
-                            "name": null,
-                            "country": null
+                            "name": "Duncan Scott",
+                            "country": "GBR"
                         },
                         "bronce": {
-                            "name": null,
-                            "country": null
+                            "name": "Fernando Scheffer",
+                            "country": "BRA"
                         }
                     },
                     "pre_comments": null,
                     "after_comments": null,
                     "methodology": null,
                     "predicted": true,
-                    "updated": false,
+                    "updated": true,
                     "update_date": "2021/07/26"
                 }
             }
@@ -8854,31 +8860,31 @@
                         "oro": {
                             "name": "Ariarne Titmus",
                             "country": "AUS",
-                            "status": 0
+                            "status": 2
                         },
                         "plata": {
                             "name": "Katie Ledecky",
                             "country": "USA",
-                            "status": 0
+                            "status": 2
                         },
                         "bronce": {
                             "name": "Bingjie Li",
                             "country": "CHN",
-                            "status": 0
+                            "status": 2
                         }
                     },
                     "positions": {
                         "oro": {
-                            "name": null,
-                            "country": null
+                            "name": "Ariarne Titmus",
+                            "country": "AUS"
                         },
                         "plata": {
-                            "name": null,
-                            "country": null
+                            "name": "Katie Ledecky",
+                            "country": "USA"
                         },
                         "bronce": {
-                            "name": null,
-                            "country": null
+                            "name": "Bingjie Li",
+                            "country": "CHN"
                         }
                     },
                     "pre_comments": null,
@@ -9024,41 +9030,41 @@
                     "date": "2021/07/28",
                     "prediction": {
                         "oro": {
-                            "name": "LEDECKY Katie",
+                            "name": "Katie Ledecky",
                             "country": "USA",
-                            "status": 0
+                            "status": 2
                         },
                         "plata": {
-                            "name": "QUADARELLA Simona",
+                            "name": "Simona Quadarella",
                             "country": "ITA",
-                            "status": 0
+                            "status": -1
                         },
                         "bronce": {
-                            "name": "WANG Jianjiahe",
+                            "name": "Jianjiahe Wang",
                             "country": "CHN",
-                            "status": 0
+                            "status": -1
                         }
                     },
                     "positions": {
                         "oro": {
-                            "name": null,
-                            "country": null
+                            "name": "Katie Ledecky",
+                            "country": "USA"
                         },
                         "plata": {
-                            "name": null,
-                            "country": null
+                            "name": "Erica Sullivan",
+                            "country": "USA"
                         },
                         "bronce": {
-                            "name": null,
-                            "country": null
+                            "name": "Sarah Kohler",
+                            "country": "GER"
                         }
                     },
                     "pre_comments": null,
                     "after_comments": null,
                     "methodology": null,
                     "predicted": true,
-                    "updated": false,
-                    "update_date": "2021/07/26"
+                    "updated": true,
+                    "update_date": "2021/07/27"
                 },
                 "male": {
                     "date": "2021/08/01",
@@ -9110,80 +9116,80 @@
                     "date": "2021/07/27",
                     "prediction": {
                         "oro": {
-                            "name": "DAWSON Kathleen",
+                            "name": "Kathleen Dawson",
                             "country": "GBR",
-                            "status": 0
+                            "status": -1
                         },
                         "plata": {
-                            "name": "MCKEOWN Kaylee",
+                            "name": "Kaylee McKeown",
                             "country": "AUS",
-                            "status": 0
+                            "status": 1
                         },
                         "bronce": {
-                            "name": "SMITH Regan",
+                            "name": "Regan Smith",
                             "country": "USA",
-                            "status": 0
+                            "status": 2
                         }
                     },
                     "positions": {
                         "oro": {
-                            "name": null,
-                            "country": null
+                            "name": "Kaylee McKeown",
+                            "country": "AUS"
                         },
                         "plata": {
-                            "name": null,
-                            "country": null
+                            "name": "Kylie Masse",
+                            "country": "CAN"
                         },
                         "bronce": {
-                            "name": null,
-                            "country": null
+                            "name": "Regan Smith",
+                            "country": "USA"
                         }
                     },
                     "pre_comments": null,
                     "after_comments": null,
                     "methodology": null,
                     "predicted": true,
-                    "updated": false,
+                    "updated": true,
                     "update_date": "2021/07/26"
                 },
                 "male": {
                     "date": "2021/07/27",
                     "prediction": {
                         "oro": {
-                            "name": "KOLESNIKOV Kliment",
-                            "country": "RUS",
-                            "status": 0
+                            "name": "Kliment Kolesnikov",
+                            "country": "ROC",
+                            "status": 1
                         },
                         "plata": {
-                            "name": "MURPHY Ryan",
+                            "name": "Ryan Murphy",
                             "country": "USA",
-                            "status": 0
+                            "status": 1
                         },
                         "bronce": {
-                            "name": "ARMSTRONG Joseph",
+                            "name": "Joseph Armstrong",
                             "country": "USA",
-                            "status": 0
+                            "status": -1
                         }
                     },
                     "positions": {
                         "oro": {
-                            "name": null,
-                            "country": null
+                            "name": "Evgeny Rylov",
+                            "country": "ROC"
                         },
                         "plata": {
-                            "name": null,
-                            "country": null
+                            "name": "Kliment Kolesnikov",
+                            "country": "ROC"
                         },
                         "bronce": {
-                            "name": null,
-                            "country": null
+                            "name": "Ryan Murphy",
+                            "country": "USA"
                         }
                     },
                     "pre_comments": null,
                     "after_comments": null,
                     "methodology": null,
                     "predicted": true,
-                    "updated": false,
+                    "updated": true,
                     "update_date": "2021/07/26"
                 }
             }
@@ -9242,7 +9248,7 @@
                         },
                         "plata": {
                             "name": "RYLOV Evgeny",
-                            "country": "RUS",
+                            "country": "ROC",
                             "status": 0
                         },
                         "bronce": {
@@ -9282,80 +9288,80 @@
                     "date": "2021/07/27",
                     "prediction": {
                         "oro": {
-                            "name": "JACOBY Lydia",
+                            "name": "Lydia Jacoby",
                             "country": "USA",
-                            "status": 0
+                            "status": 2
                         },
                         "plata": {
-                            "name": "KING Lilly",
+                            "name": "Lilly King",
                             "country": "USA",
-                            "status": 0
+                            "status": 1
                         },
                         "bronce": {
-                            "name": "EFIMOVA Yuliya",
-                            "country": "RUS",
-                            "status": 0
+                            "name": "Yuliya Efimova",
+                            "country": "ROC",
+                            "status": -1
                         }
                     },
                     "positions": {
                         "oro": {
-                            "name": null,
-                            "country": null
+                            "name": "Lydia Jacoby",
+                            "country": "USA"
                         },
                         "plata": {
-                            "name": null,
-                            "country": null
+                            "name": "Tatjana Shoenmaker",
+                            "country": "RSA"
                         },
                         "bronce": {
-                            "name": null,
-                            "country": null
+                            "name": "Lilly King",
+                            "country": "USA"
                         }
                     },
                     "pre_comments": null,
                     "after_comments": null,
                     "methodology": null,
                     "predicted": true,
-                    "updated": false,
+                    "updated": true,
                     "update_date": "2021/07/26"
                 },
                 "male": {
                     "date": "2021/07/26",
                     "prediction": {
                         "oro": {
-                            "name": "PEATY Adam",
+                            "name": "Adam Peaty",
                             "country": "GBR",
-                            "status": 0
+                            "status": 2
                         },
                         "plata": {
-                            "name": "ANDREW Michael",
+                            "name": "Michael Andrew",
                             "country": "USA",
-                            "status": 0
+                            "status": -1
                         },
                         "bronce": {
-                            "name": "SHYMANOVICH Ilya",
+                            "name": "Ilya Shymanovich",
                             "country": "BLR",
-                            "status": 0
+                            "status": -1
                         }
                     },
                     "positions": {
                         "oro": {
-                            "name": null,
-                            "country": null
+                            "name": "Adam Peaty",
+                            "country": "GBR"
                         },
                         "plata": {
-                            "name": null,
-                            "country": null
+                            "name": "Arno Kamminga",
+                            "country": "NED"
                         },
                         "bronce": {
-                            "name": null,
-                            "country": null
+                            "name": "Nicolo Martinenghi",
+                            "country": "ITA"
                         }
                     },
                     "pre_comments": null,
                     "after_comments": null,
                     "methodology": null,
                     "predicted": true,
-                    "updated": false,
+                    "updated": true,
                     "update_date": "2021/07/25"
                 }
             }
@@ -9369,7 +9375,7 @@
                     "prediction": {
                         "oro": {
                             "name": "EFIMOVA Yuliya",
-                            "country": "RUS",
+                            "country": "ROC",
                             "status": 0
                         },
                         "plata": {
@@ -9454,40 +9460,40 @@
                     "date": "2021/07/25",
                     "prediction": {
                         "oro": {
-                            "name": "ZHANG Yufei",
+                            "name": "Yufei Zhang",
                             "country": "CHN",
-                            "status": 0
+                            "status": 1
                         },
                         "plata": {
-                            "name": "HUSKE Torri",
+                            "name": "Torri Huske",
                             "country": "USA",
-                            "status": 0
+                            "status": -1
                         },
                         "bronce": {
-                            "name": "SJOESTROEM Sarah",
+                            "name": "Sarah Sjoestroem",
                             "country": "SWE",
-                            "status": 0
+                            "status": -1
                         }
                     },
                     "positions": {
                         "oro": {
-                            "name": null,
-                            "country": null
+                            "name": "Margaret MacNeil",
+                            "country": "CAN"
                         },
                         "plata": {
-                            "name": null,
-                            "country": null
+                            "name": "Yufei Zhang",
+                            "country": "CHN"
                         },
                         "bronce": {
-                            "name": null,
-                            "country": null
+                            "name": "Emma McKeon",
+                            "country": "AUS"
                         }
                     },
                     "pre_comments": null,
                     "after_comments": null,
                     "methodology": null,
                     "predicted": true,
-                    "updated": false,
+                    "updated": true,
                     "update_date": "2021/07/25"
                 },
                 "male": {
@@ -9540,17 +9546,17 @@
                     "date": "2021/07/29",
                     "prediction": {
                         "oro": {
-                            "name": "THOMAS Alys Margaret",
+                            "name": "Alys Margaret Thomas",
                             "country": "GBR",
                             "status": 0
                         },
                         "plata": {
-                            "name": "HENTKE Franziska",
+                            "name": "Franziska Hentke",
                             "country": "GER",
                             "status": 0
                         },
                         "bronce": {
-                            "name": "ZHANG Yufei",
+                            "name": "Yufei Zhang",
                             "country": "CHN",
                             "status": 0
                         }
@@ -9574,47 +9580,47 @@
                     "methodology": null,
                     "predicted": true,
                     "updated": false,
-                    "update_date": "2021/07/26"
+                    "update_date": "2021/07/27"
                 },
                 "male": {
                     "date": "2021/07/28",
                     "prediction": {
                         "oro": {
-                            "name": "MILAK Kristof",
+                            "name": "Kristof Milak",
                             "country": "HUN",
-                            "status": 0
+                            "status": 2
                         },
                         "plata": {
-                            "name": "SETO Daiya",
+                            "name": "Daiya Seto",
                             "country": "JPN",
-                            "status": 0
+                            "status": -1
                         },
                         "bronce": {
-                            "name": "LE CLOS Chad",
+                            "name": "Chad Le Clos",
                             "country": "RSA",
-                            "status": 0
+                            "status": -1
                         }
                     },
                     "positions": {
                         "oro": {
-                            "name": null,
-                            "country": null
+                            "name": "Kristof Milak",
+                            "country": "HUN"
                         },
                         "plata": {
-                            "name": null,
-                            "country": null
+                            "name": "Tomoru Honda",
+                            "country": "JPN"
                         },
                         "bronce": {
-                            "name": null,
-                            "country": null
+                            "name": "Federico Burdisso",
+                            "country": "ITA"
                         }
                     },
                     "pre_comments": null,
                     "after_comments": null,
                     "methodology": null,
                     "predicted": true,
-                    "updated": false,
-                    "update_date": "2021/07/26"
+                    "updated": true,
+                    "update_date": "2021/07/27"
                 }
             }
         },
@@ -9626,41 +9632,41 @@
                     "date": "2021/07/28",
                     "prediction": {
                         "oro": {
-                            "name": "KIM Seoyeong",
+                            "name": "Seoyeong Kim",
                             "country": "KOR",
-                            "status": 0
+                            "status": -1
                         },
                         "plata": {
-                            "name": "HOSSZU Katinka",
+                            "name": "Katinka Hosszu",
                             "country": "HUN",
-                            "status": 0
+                            "status": -1
                         },
                         "bronce": {
-                            "name": "PICKREM Sydney",
+                            "name": "Sydney Pickrem",
                             "country": "CAN",
-                            "status": 0
+                            "status": -1
                         }
                     },
                     "positions": {
                         "oro": {
-                            "name": null,
-                            "country": null
+                            "name": "Yui Ohashi",
+                            "country": "JPN"
                         },
                         "plata": {
-                            "name": null,
-                            "country": null
+                            "name": "Alex Walsh",
+                            "country": "USA"
                         },
                         "bronce": {
-                            "name": null,
-                            "country": null
+                            "name": "Kate Douglass",
+                            "country": "USA"
                         }
                     },
                     "pre_comments": null,
                     "after_comments": null,
                     "methodology": null,
                     "predicted": true,
-                    "updated": false,
-                    "update_date": "2021/07/26"
+                    "updated": true,
+                    "update_date": "2021/07/27"
                 },
                 "male": {
                     "date": "2021/07/30",
@@ -9838,34 +9844,40 @@
                     "date": "2021/07/26",
                     "prediction": {
                         "oro": {
+                            "name": "Estados Unidos",
                             "country": "USA",
-                            "status": 0
+                            "status": 2
                         },
                         "plata": {
-                            "country": "RUS",
-                            "status": 0
+                            "name": "Comité Olímpico Ruso (Rusia)",
+                            "country": "ROC",
+                            "status": -1
                         },
                         "bronce": {
+                            "name": "Brasil",
                             "country": "BRA",
-                            "status": 0
+                            "status": -1
                         }
                     },
                     "positions": {
                         "oro": {
-                            "country": null
+                            "name": "Estados Unidos",
+                            "country": "USA"
                         },
                         "plata": {
-                            "country": null
+                            "name": "Italia",
+                            "country": "ITA"
                         },
                         "bronce": {
-                            "country": null
+                            "name": "Australia",
+                            "country": "AUS"
                         }
                     },
                     "pre_comments": null,
                     "after_comments": null,
                     "methodology": null,
                     "predicted": true,
-                    "updated": false,
+                    "updated": true,
                     "update_date": "2021/07/25"
                 }
             }
@@ -9878,14 +9890,17 @@
                     "date": "2021/07/29",
                     "prediction": {
                         "oro": {
+                            "name": "Estados Unidos",
                             "country": "USA",
                             "status": 0
                         },
                         "plata": {
+                            "name": "Australia",
                             "country": "AUS",
                             "status": 0
                         },
                         "bronce": {
+                            "name": "Canadá",
                             "country": "CAN",
                             "status": 0
                         }
@@ -9906,33 +9921,39 @@
                     "methodology": null,
                     "predicted": true,
                     "updated": false,
-                    "update_date": "2021/07/26"
+                    "update_date": "2021/07/27"
                 },
                 "male": {
                     "date": "2021/07/28",
                     "prediction": {
                         "oro": {
+                            "name": "Estados Unidos",
                             "country": "USA",
-                            "status": 0
+                            "status": -1
                         },
                         "plata": {
+                            "name": "Gran Bretaña",
                             "country": "GBR",
-                            "status": 0
+                            "status": 1
                         },
                         "bronce": {
-                            "country": "RUS",
-                            "status": 0
+                            "name": "Comité Olímpico Ruso (Rusia)",
+                            "country": "ROC",
+                            "status": 1
                         }
                     },
                     "positions": {
                         "oro": {
-                            "country": null
+                            "name": "Gran Bretaña",
+                            "country": "GBR"
                         },
                         "plata": {
-                            "country": null
+                            "name": "Comité Olímpico Ruso (Rusia)",
+                            "country": "ROC"
                         },
                         "bronce": {
-                            "country": null
+                            "name": "Australia",
+                            "country": "AUS"
                         }
                     },
                     "pre_comments": null,
@@ -9960,7 +9981,7 @@
                             "status": 0
                         },
                         "bronce": {
-                            "country": "RUS",
+                            "country": "ROC",
                             "status": 0
                         }
                     },
@@ -9990,7 +10011,7 @@
                             "status": 0
                         },
                         "plata": {
-                            "country": "RUS",
+                            "country": "ROC",
                             "status": 0
                         },
                         "bronce": {
@@ -10020,14 +10041,17 @@
                     "date": "2021/07/31",
                     "prediction": {
                         "oro": {
+                            "name": "China",
                             "country": "CHN",
                             "status": 0
                         },
                         "plata": {
+                            "name": "Estados Unidos",
                             "country": "USA",
                             "status": 0
                         },
                         "bronce": {
+                            "name": "Reino Unido",
                             "country": "GBR",
                             "status": 0
                         }
@@ -10046,9 +10070,9 @@
                     "pre_comments": null,
                     "after_comments": null,
                     "methodology": null,
-                    "predicted": false,
+                    "predicted": true,
                     "updated": false,
-                    "update_date": null
+                    "update_date": "2021/07/25"
                 }
             }
         },
@@ -10255,9 +10279,9 @@
                     "pre_comments": null,
                     "after_comments": null,
                     "methodology": null,
-                    "predicted": false,
+                    "predicted": true,
                     "updated": false,
-                    "update_date": null
+                    "update_date": "2021/07/23"
                 },
                 "male": {
                     "date": "2021/08/07",
@@ -10292,9 +10316,9 @@
                     "pre_comments": null,
                     "after_comments": null,
                     "methodology": null,
-                    "predicted": false,
+                    "predicted": true,
                     "updated": false,
-                    "update_date": null
+                    "update_date": "2021/07/23"
                 }
             }
         },
@@ -12076,7 +12100,7 @@
                             },
                             {
                                 "name": "Mikhail Arthamonov",
-                                "country": "RUS"
+                                "country": "ROC"
                             }
                         ]
                     },
@@ -12539,9 +12563,9 @@
                     "pre_comments": null,
                     "after_comments": null,
                     "methodology": null,
-                    "predicted": false,
+                    "predicted": true,
                     "updated": false,
-                    "update_date": null
+                    "update_date": "2021/07/23"
                 },
                 "male": {
                     "date": "2021/08/01",
@@ -12576,9 +12600,9 @@
                     "pre_comments": null,
                     "after_comments": null,
                     "methodology": null,
-                    "predicted": false,
+                    "predicted": true,
                     "updated": false,
-                    "update_date": null
+                    "update_date": "2021/07/23"
                 }
             }
         },
@@ -12718,9 +12742,9 @@
                     "pre_comments": null,
                     "after_comments": null,
                     "methodology": null,
-                    "predicted": false,
+                    "predicted": true,
                     "updated": false,
-                    "update_date": null
+                    "update_date": "2021/07/23"
                 },
                 "male": {
                     "date": "2021/07/30",
@@ -12755,9 +12779,9 @@
                     "pre_comments": null,
                     "after_comments": null,
                     "methodology": null,
-                    "predicted": false,
+                    "predicted": true,
                     "updated": false,
-                    "update_date": null
+                    "update_date": "2021/07/23"
                 }
             }
         },
@@ -12837,12 +12861,15 @@
                     "date": "2021/07/26",
                     "prediction": {
                         "oro": {
+                            "name": "China",
                             "country": "CHN"
                         },
                         "plata": {
+                            "name": "Japón",
                             "country": "JPN"
                         },
                         "bronce": {
+                            "name": "Alemania",
                             "country": "GER"
                         }
                     },
@@ -12860,9 +12887,9 @@
                     "pre_comments": null,
                     "after_comments": null,
                     "methodology": null,
-                    "predicted": false,
+                    "predicted": true,
                     "updated": false,
-                    "update_date": null
+                    "update_date": "2021/07/23"
                 }
             }
         },
