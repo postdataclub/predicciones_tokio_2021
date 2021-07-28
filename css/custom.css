@@ -13,6 +13,7 @@ body {
 
 .wrong {
     text-decoration: line-through;
+    background-color: white;
 } 
 
 .good {
@@ -21,6 +22,10 @@ body {
 
 .excellent {
     background-color: rgba(170, 0, 255, 0.25);
+}
+
+.normal {
+    background-color: white;
 }
 
 .sport-title {
@@ -86,7 +91,7 @@ hr {
 }
 
 .pred-block, .podium-block {
-    background-color: #f7f7f7;
+    background-color: #ebebeb;
     padding-left: 2px;
     padding-right: 2px;
     padding-top: 2px;
@@ -103,9 +108,11 @@ hr {
 .sport-more, .sport-less {
     cursor: pointer;
     font-size: 40px;
+    float: right;
 }
 
 .event-more, .event-less {
     cursor: pointer;
     font-size: 24px;
+    float: right;
 }
