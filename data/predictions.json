@@ -9932,7 +9932,7 @@
                             "status": -1
                         },
                         "plata": {
-                            "name": "Gran Bretaña",
+                            "name": "Reino Unido",
                             "country": "GBR",
                             "status": 1
                         },
@@ -9944,7 +9944,7 @@
                     },
                     "positions": {
                         "oro": {
-                            "name": "Gran Bretaña",
+                            "name": "Reino Unido",
                             "country": "GBR"
                         },
                         "plata": {
@@ -9960,7 +9960,7 @@
                     "after_comments": null,
                     "methodology": null,
                     "predicted": true,
-                    "updated": false,
+                    "updated": true,
                     "update_date": "2021/07/26"
                 }
             }
