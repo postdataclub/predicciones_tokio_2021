@@ -1,0 +1,178 @@
+
+body {
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+@media screen and (max-width:992px){
+body {
+    margin-left: 5%;
+    margin-right: 5%;
+}
+}
+
+.wrong {
+    text-decoration: line-through;
+    background-color: white;
+} 
+
+.good {
+    background-color: rgba(0, 255, 255, 0.25);
+}
+
+.excellent {
+    background-color: rgba(170, 0, 255, 0.25);
+}
+
+.normal {
+    background-color: white;
+}
+
+.sport-title {
+    color: #461a57;
+    font-weight: bold;
+    font-size: 26px;
+}
+
+.sport-icon {
+    width: 40px;
+    height: 40px;
+}
+
+hr {
+    color: #461a57;
+    background-color: #461a57;
+    margin-top: -15px;
+    height: 3px;
+}
+
+.flag {
+    width: 28px;
+    height: 21px;
+    padding-left: 5px;
+    padding-right: 2px;
+}
+
+.country {
+    padding-left: 2px;
+    padding-right: 5px;
+    font-weight: bold;
+}
+
+.sport-block {
+    margin-left: 30px;
+    font-size: 18px;
+    font-weight: normal;
+}
+
+.sex-title {
+    font-size: 24px;
+    font-weight: bold;
+    color: #461a57;
+}
+
+.event-title {
+    margin-left: 15px;
+    font-size: 20px;
+    font-weight: bold;
+    color: #461a57;
+    margin-top: 5px;
+}
+
+.event-block {
+    margin-top: 5px;
+    margin-left: 30px;
+}
+
+.pred, .podium {
+    font-size: 18px;
+    font-weight: bold;
+    color: #461a57;
+}
+
+.pred-block, .podium-block {
+    background-color: #ebebeb;
+    padding-left: 2px;
+    padding-right: 2px;
+    padding-top: 2px;
+    padding-bottom: 1px;
+}
+
+.pred-item {
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: -10px;
+    margin-bottom: -10px;
+}
+
+.sport-more, .sport-less {
+    cursor: pointer;
+    font-size: 40px;
+    float: right;
+}
+
+.event-more, .event-less {
+    cursor: pointer;
+    font-size: 24px;
+    float: right;
+}
+
+.medal {
+    padding-top: 3px;
+    padding-left: 3px;
+}
+
+#banner > img {
+    width: 50%;
+}
+
+#banner > p {
+    font-weight: bold;
+    font-size: 3rem;
+    margin-bottom: -0.1em;
+    color: #461a57;
+}
+
+#banner {
+    text-align: center;
+}
+
+#footer {
+    margin-top: 30px;
+    margin-bottom:20px;
+    text-align: center;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background-color: whitesmoke;
+}
+
+#logo-pd {
+    height: 50px;
+}
+
+#logo-gia {
+    height: 50px;
+}
+
+a {
+    text-decoration: none;
+}
+
+#no, #si {
+    min-width: 30px;
+    color: white;
+    font-weight: normal;
+    padding-left: 2px;
+    padding-right: 2px;
+    margin-right:5px;
+}
+
+#si {
+    background-color: #00a64e;
+}
+
+#no {
+    background-color: #ee2a4d;
+}
