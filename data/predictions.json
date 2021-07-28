@@ -2411,13 +2411,13 @@
                     "date": "2021/08/07",
                     "prediction": {
                         "oro": {
-                            "country": "KOR"
-                        },
-                        "plata": {
                             "country": "JPN"
                         },
-                        "bronce": {
+                        "plata": {
                             "country": "USA"
+                        },
+                        "bronce": {
+                            "country": "MEX"
                         }
                     },
                     "positions": {
@@ -4559,13 +4559,13 @@
                     "date": "2021/08/06",
                     "prediction": {
                         "oro": {
-                            "country": "JPN"
+                            "country": "USA"
                         },
                         "plata": {
-                            "country": "CAN"
+                            "country": "AUS"
                         },
                         "bronce": {
-                            "country": "GBR"
+                            "country": "CHN"
                         }
                     },
                     "positions": {
@@ -4590,13 +4590,13 @@
                     "date": "2021/08/07",
                     "prediction": {
                         "oro": {
-                            "country": "BRA"
+                            "country": "KOR"
                         },
                         "plata": {
-                            "country": "GER"
+                            "country": "BRA"
                         },
                         "bronce": {
-                            "country": "KOR"
+                            "country": "MEX"
                         }
                     },
                     "positions": {
@@ -9742,7 +9742,7 @@
                             "name": "Emma Weyant",
                             "country": "USA"
                         },
-                        "bronce": { 
+                        "bronce": {
                             "name": "Hali Flickinger",
                             "country": "USA"
                         }
@@ -9760,7 +9760,7 @@
                         "oro": {
                             "name": "Leon Marchand",
                             "country": "FRA",
-                            "status": -1    
+                            "status": -1
                         },
                         "plata": {
                             "name": "Daiya Seto",
@@ -14182,10 +14182,10 @@
                     "date": "2021/08/04",
                     "prediction": {
                         "oro": {
-                            "country": "CHN"
+                            "country": "BRA"
                         },
                         "plata": {
-                            "country": "USA"
+                            "country": "CHN"
                         },
                         "bronce": {
                             "country": "DOM"
@@ -14216,10 +14216,10 @@
                             "country": "BRA"
                         },
                         "plata": {
-                            "country": "POL"
+                            "country": "ITA"
                         },
                         "bronce": {
-                            "country": "USA"
+                            "country": "POL"
                         }
                     },
                     "positions": {
