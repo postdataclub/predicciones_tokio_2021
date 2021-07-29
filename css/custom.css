@@ -4,6 +4,11 @@ body {
     margin-right: 20%;
 }
 
+.stats-item {
+    margin-top: 2px;
+    margin-bottom: 3px;
+}
+
 @media screen and (max-width:992px){
 body {
     margin-left: 5%;
@@ -175,4 +180,21 @@ a {
 
 #no {
     background-color: #ee2a4d;
+}
+
+#stats {
+    font-size: 1.75rem;
+    color: white;
+    background-color:  rgba(70,26,78,0.8);
+    padding: 15px;
+    text-align: right;
+}
+
+.stats-sport {
+    font-size: 1.5rem;
+    color: white;
+    background-color:  rgba(70,26,78,0.5);
+    padding: 15px;
+    text-align: right;
+    margin-bottom: 5px;
 }

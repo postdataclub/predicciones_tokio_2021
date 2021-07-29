@@ -14337,7 +14337,7 @@
             }
         },
         "vol_sal": {
-            "name": "Voleibol",
+            "name": "Voleibol de Sala",
             "sport": "vol",
             "sex": {
                 "female": {
