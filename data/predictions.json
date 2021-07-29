@@ -680,18 +680,18 @@
                     "date": "2021/07/24",
                     "prediction": {
                         "oro": {
-                            "name": "Rodgers Kwemoi",
-                            "country": "KEN",
+                            "name": "Joshua Cheptegei",
+                            "country": "UGA",
                             "status": 0
                         },
                         "plata": {
-                            "name": "Benard Kibet",
-                            "country": "KEN",
+                            "name": "Jacob Kiplimo",
+                            "country": "UGA",
                             "status": 0
                         },
                         "bronce": {
-                            "name": "Andrew Lorot",
-                            "country": "KEN",
+                            "name": "Mohmmed Ammed",
+                            "country": "CAN",
                             "status": 0
                         }
                     },
@@ -714,7 +714,7 @@
                     "methodology": null,
                     "predicted": true,
                     "updated": false,
-                    "update_date": "2021/07/28"
+                    "update_date": "2021/07/29"
                 }
             }
         },
