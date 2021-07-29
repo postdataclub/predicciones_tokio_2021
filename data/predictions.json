@@ -165,24 +165,15 @@
                     "prediction": {
                         "oro": {
                             "name": "trayvon bromell",
-                            "name": "Akani Simbine",
                             "country": "USA"
-                            "country": "RSA",
-                            "status": 0
                         },
                         "plata": {
                             "name": "ronnie baker",
                             "country": "USA"
-                            "name": "Yohan Blake",
-                            "country": "JAM",
-                            "status": 0
                         },
                         "bronce": {
                             "name": "noah lyles",
                             "country": "USA"
-                            "name": "Ronnie baker",
-                            "country": "USA",
-                            "status": 0
                         }
                     },
                     "positions": {
@@ -304,21 +295,14 @@
                         "oro": {
                             "name": "shaunae miller uibo",
                             "country": "BAH"
-                            "name": "salwa eid naser",
-                            "country": "BRN",
-                            "status": 0
                         },
                         "plata": {
                             "name": "athing mu",
                             "country": "USA"
-                            "name": "stephenie ann mcpherson",
-                            "country": "JAM",
-                            "status": 0
                         },
                         "bronce": {
                             "name": "quanera hayes",
-                            "country": "USA",
-                            "status": 0
+                            "country": "USA"
                         }
                     },
                     "positions": {
@@ -2138,23 +2122,14 @@
                         "oro": {
                             "name": "damian warner",
                             "country": "CAN"
-                            "name": "lindon victor",
-                            "country": "GRN",
-                            "status": 0
                         },
                         "plata": {
                             "name": "kevin mayer",
                             "country": "FRA"
-                            "name": "scott filip",
-                            "country": "USA",
-                            "status": 0
                         },
                         "bronce": {
                             "name": "garrett scantling",
                             "country": "USA"
-                            "name": "jose fernando ferreira santana",
-                            "country": "BRA",
-                            "status": 0
                         }
                     },
                     "positions": {
