@@ -12869,37 +12869,40 @@
                     "date": "2021/07/29",
                     "prediction": {
                         "oro": {
-                            "name": "CHEN Meng",
-                            "country": "CHN"
+                            "name": "Meng Chen",
+                            "country": "CHN",
+                            "status": 2
                         },
                         "plata": {
-                            "name": "LAY Jian Fang",
-                            "country": "AUS"
+                            "name": "Jian Fang Lay",
+                            "country": "AUS",
+                            "status": -1
                         },
                         "bronce": {
-                            "name": "NI Xia Lian",
-                            "country": "LUX"
+                            "name": "Xia Lian Ni",
+                            "country": "LUX",
+                            "status": -1
                         }
                     },
                     "positions": {
                         "oro": {
-                            "name": null,
-                            "country": null
+                            "name": "Meng Chen",
+                            "country": "CHN"
                         },
                         "plata": {
-                            "name": null,
-                            "country": null
+                            "name": "Yingsha Sun",
+                            "country": "CHN"
                         },
                         "bronce": {
-                            "name": null,
-                            "country": null
+                            "name": "Mima Ito",
+                            "country": "JPN"
                         }
                     },
                     "pre_comments": null,
                     "after_comments": null,
                     "methodology": null,
                     "predicted": true,
-                    "updated": false,
+                    "updated": true,
                     "update_date": "2021/07/23"
                 },
                 "male": {
