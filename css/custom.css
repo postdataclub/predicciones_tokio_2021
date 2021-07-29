@@ -183,7 +183,7 @@ a {
 }
 
 #stats {
-    font-size: 1.75rem;
+    font-size: 1.6rem;
     color: white;
     background-color:  rgba(70,26,78,0.8);
     padding: 15px;
@@ -191,7 +191,7 @@ a {
 }
 
 .stats-sport {
-    font-size: 1.5rem;
+    font-size: 1.3rem;
     color: white;
     background-color:  rgba(70,26,78,0.5);
     padding: 15px;
