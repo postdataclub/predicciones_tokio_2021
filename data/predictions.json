@@ -8686,18 +8686,18 @@
                     "date": "2021/07/30",
                     "prediction": {
                         "oro": {
-                            "name": "Cate Campbell",
-                            "country": "AUS",
-                            "status": 0
-                        },
-                        "plata": {
                             "name": "Emma Mckeon",
                             "country": "AUS",
                             "status": 0
                         },
+                        "plata": {
+                            "name": "Cate Campbell",
+                            "country": "AUS",
+                            "status": 0
+                        },
                         "bronce": {
-                            "name": "Simone Manuel",
-                            "country": "USA",
+                            "name": "Sarah Sjoestroem",
+                            "country": "SWE",
                             "status": 0
                         }
                     },
@@ -8949,13 +8949,13 @@
                             "status": 0
                         },
                         "plata": {
-                            "name": "Ariarne Titmus",
-                            "country": "AUS",
+                            "name": "Bingjie Li",
+                            "country": "CHN",
                             "status": 0
                         },
                         "bronce": {
-                            "name": "Bingjie Li",
-                            "country": "CHN",
+                            "name": "Ariarne Titmus",
+                            "country": "AUS",
                             "status": 0
                         }
                     },
@@ -9207,8 +9207,8 @@
                             "status": 0
                         },
                         "plata": {
-                            "name": "Regan Smith",
-                            "country": "USA",
+                            "name": "Margherita Panziera",
+                            "country": "ITA",
                             "status": 0
                         },
                         "bronce": {
@@ -9374,18 +9374,18 @@
                     "date": "2021/07/30",
                     "prediction": {
                         "oro": {
-                            "name": "Yuliya Efimova",
-                            "country": "ROC",
-                            "status": 0
-                        },
-                        "plata": {
                             "name": "Molly Renshaw",
                             "country": "GBR",
                             "status": 0
                         },
-                        "bronce": {
+                        "plata": {
                             "name": "Annie Lazor",
                             "country": "USA",
+                            "status": 0
+                        },
+                        "bronce": {
+                            "name": "Evgeniia Chikunova",
+                            "country": "ROC",
                             "status": 0
                         }
                     },
@@ -9742,7 +9742,7 @@
                             "name": "Emma Weyant",
                             "country": "USA"
                         },
-                        "bronce": { 
+                        "bronce": {
                             "name": "Hali Flickinger",
                             "country": "USA"
                         }
@@ -9760,7 +9760,7 @@
                         "oro": {
                             "name": "Leon Marchand",
                             "country": "FRA",
-                            "status": -1    
+                            "status": -1
                         },
                         "plata": {
                             "name": "Daiya Seto",
@@ -10011,11 +10011,11 @@
                             "status": 0
                         },
                         "plata": {
-                            "country": "ROC",
+                            "country": "GBR",
                             "status": 0
                         },
                         "bronce": {
-                            "country": "GBR",
+                            "country": "ROC",
                             "status": 0
                         }
                     },
