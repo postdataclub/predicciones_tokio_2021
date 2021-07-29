@@ -13079,16 +13079,16 @@
                     "date": "2021/08/02",
                     "prediction": {
                         "oro": {
-                            "name": null,
-                            "country": null
+                            "name": "Christian Reitz",
+                            "country": "GER"
                         },
                         "plata": {
-                            "name": null,
-                            "country": null
+                            "name": "Junmin Lin",
+                            "country": "CHN"
                         },
                         "bronce": {
-                            "name": null,
-                            "country": null
+                            "name": "Yuehong Li",
+                            "country": "CHN"
                         }
                     },
                     "positions": {
