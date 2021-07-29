@@ -8880,7 +8880,7 @@
                     "pre_comments": null,
                     "after_comments": null,
                     "methodology": null,
-                    "predicted": false,
+                    "predicted": true,
                     "updated": false,
                     "update_date": "2021/07/26"
                 },
