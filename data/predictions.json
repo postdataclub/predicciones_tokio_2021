@@ -9701,38 +9701,38 @@
                         "oro": {
                             "name": "Alys Margaret Thomas",
                             "country": "GBR",
-                            "status": 0
+                            "status": -1
                         },
                         "plata": {
                             "name": "Franziska Hentke",
                             "country": "GER",
-                            "status": 0
+                            "status": -1
                         },
                         "bronce": {
                             "name": "Yufei Zhang",
                             "country": "CHN",
-                            "status": 0
+                            "status": 1
                         }
                     },
                     "positions": {
                         "oro": {
-                            "name": null,
-                            "country": null
+                            "name": "Yufei Zhang",
+                            "country": "CHN"
                         },
                         "plata": {
-                            "name": null,
-                            "country": null
+                            "name": "Regan Smith",
+                            "country": "USA"
                         },
                         "bronce": {
-                            "name": null,
-                            "country": null
+                            "name": "Hali Flickinger",
+                            "country": "USA"
                         }
                     },
                     "pre_comments": null,
                     "after_comments": null,
                     "methodology": null,
                     "predicted": true,
-                    "updated": false,
+                    "updated": true,
                     "update_date": "2021/07/28"
                 },
                 "male": {
