@@ -161,22 +161,19 @@
                     "update_date": "2021/07/26"
                 },
                 "male": {
-                    "date": "2021/07/24",
+                    "date": "2021/07/28",
                     "prediction": {
                         "oro": {
-                            "name": "Akani Simbine",
-                            "country": "RSA",
-                            "status": 0
+                            "name": "trayvon bromell",
+                            "country": "USA"
                         },
                         "plata": {
-                            "name": "Yohan Blake",
-                            "country": "JAM",
-                            "status": 0
+                            "name": "ronnie baker",
+                            "country": "USA"
                         },
                         "bronce": {
-                            "name": "Ronnie baker",
-                            "country": "USA",
-                            "status": 0
+                            "name": "noah lyles",
+                            "country": "USA"
                         }
                     },
                     "positions": {
@@ -296,19 +293,16 @@
                     "date": "2021/07/24",
                     "prediction": {
                         "oro": {
-                            "name": "salwa eid naser",
-                            "country": "BRN",
-                            "status": 0
+                            "name": "shaunae miller uibo",
+                            "country": "BAH"
                         },
                         "plata": {
-                            "name": "stephenie ann mcpherson",
-                            "country": "JAM",
-                            "status": 0
+                            "name": "athing mu",
+                            "country": "USA"
                         },
                         "bronce": {
-                            "name": "wadeline jonathas",
-                            "country": "USA",
-                            "status": 0
+                            "name": "quanera hayes",
+                            "country": "USA"
                         }
                     },
                     "positions": {
@@ -2123,22 +2117,19 @@
             "sport": "atl",
             "sex": {
                 "male": {
-                    "date": "2021/07/24",
+                    "date": "2021/07/28",
                     "prediction": {
                         "oro": {
-                            "name": "lindon victor",
-                            "country": "GRN",
-                            "status": 0
+                            "name": "damian warner",
+                            "country": "CAN"
                         },
                         "plata": {
-                            "name": "scott filip",
-                            "country": "USA",
-                            "status": 0
+                            "name": "kevin mayer",
+                            "country": "FRA"
                         },
                         "bronce": {
-                            "name": "jose fernando ferreira santana",
-                            "country": "BRA",
-                            "status": 0
+                            "name": "garrett scantling",
+                            "country": "USA"
                         }
                     },
                     "positions": {
