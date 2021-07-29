@@ -6793,43 +6793,43 @@
                         "oro": {
                             "name": "Varlam Liparteliani",
                             "country": "GEO",
-                            "status": 0
+                            "status": -1
                         },
                         "plata": {
                             "name": "Michael Korrel",
                             "country": "NED",
-                            "status": 0
+                            "status": -1
                         },
                         "bronce": [
                             {
                                 "name": "Niiaz Iliasov",
                                 "country": "ROC",
-                                "status": 0
+                                "status": 2
                             },
                             {
                                 "name": "Aaron Wolf",
                                 "country": "JPN",
-                                "status": 0
+                                "status": 1
                             }
                         ]
                     },
                     "positions": {
                         "oro": {
-                            "name": null,
-                            "country": null
+                            "name": "Aaron Wolf",
+                            "country": "JAP"
                         },
                         "plata": {
-                            "name": null,
-                            "country": null
+                            "name": "Guham Cho",
+                            "country": "KOR"
                         },
                         "bronce": [
                             {
-                                "name": null,
-                                "country": null
+                                "name": "Niiaz Iliasov",
+                                "country": "ROC"
                             },
                             {
-                                "name": null,
-                                "country": null
+                                "name": "Jorge Fonseca",
+                                "country": "POR"
                             }
                         ]
                     },
@@ -6837,7 +6837,7 @@
                     "after_comments": null,
                     "methodology": null,
                     "predicted": true,
-                    "updated": false,
+                    "updated": true,
                     "update_date": "2021/07/23"
                 }
             }
@@ -7206,43 +7206,43 @@
                         "oro": {
                             "name": "Shori Hamada",
                             "country": "JPN",
-                            "status": 0
+                            "status": 2
                         },
                         "plata": {
                             "name": "Guusje Steenhuis",
                             "country": "NED",
-                            "status": 0
+                            "status": -1
                         },
                         "bronce": [
                             {
                                 "name": "Kaliema Antomarchi",
                                 "country": "CUB",
-                                "status": 0
+                                "status": -1
                             },
                             {
                                 "name": "Anna-Maria Wagner",
                                 "country": "GER",
-                                "status": 0
+                                "status": 2
                             }
                         ]
                     },
                     "positions": {
                         "oro": {
-                            "name": null,
-                            "country": null
+                            "name": "Shori Hamada",
+                            "country": "JPN"
                         },
                         "plata": {
-                            "name": null,
-                            "country": null
+                            "name": "Madeleine Malonga",
+                            "country": "FRA"
                         },
                         "bronce": [
                             {
-                                "name": null,
-                                "country": null
+                                "name": "Mayra Aguiar",
+                                "country": "BRA"
                             },
                             {
-                                "name": null,
-                                "country": null
+                                "name": "Anna-Maria Wagner",
+                                "country": "GER"
                             }
                         ]
                     },
@@ -7250,7 +7250,7 @@
                     "after_comments": null,
                     "methodology": null,
                     "predicted": true,
-                    "updated": false,
+                    "updated": true,
                     "update_date": "2021/07/23"
                 }
             }
