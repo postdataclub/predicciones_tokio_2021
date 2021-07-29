@@ -4,6 +4,11 @@ body {
     margin-right: 20%;
 }
 
+.stats-item {
+    margin-top: 2px;
+    margin-bottom: 3px;
+}
+
 @media screen and (max-width:992px){
 body {
     margin-left: 5%;
@@ -115,4 +120,81 @@ hr {
     cursor: pointer;
     font-size: 24px;
     float: right;
+}
+
+.medal {
+    padding-top: 3px;
+    padding-left: 3px;
+}
+
+#banner > img {
+    width: 50%;
+}
+
+#banner > p {
+    font-weight: bold;
+    font-size: 3rem;
+    margin-bottom: -0.1em;
+    color: #461a57;
+}
+
+#banner {
+    text-align: center;
+}
+
+#footer {
+    margin-top: 30px;
+    margin-bottom:20px;
+    text-align: center;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background-color: whitesmoke;
+}
+
+#logo-pd {
+    height: 50px;
+}
+
+#logo-gia {
+    height: 50px;
+}
+
+a {
+    text-decoration: none;
+}
+
+#no, #si {
+    min-width: 30px;
+    color: white;
+    font-weight: normal;
+    padding-left: 2px;
+    padding-right: 2px;
+    margin-right:5px;
+}
+
+#si {
+    background-color: #00a64e;
+}
+
+#no {
+    background-color: #ee2a4d;
+}
+
+#stats {
+    font-size: 1.75rem;
+    color: white;
+    background-color:  rgba(70,26,78,0.8);
+    padding: 15px;
+    text-align: right;
+}
+
+.stats-sport {
+    font-size: 1.5rem;
+    color: white;
+    background-color:  rgba(70,26,78,0.5);
+    padding: 15px;
+    text-align: right;
+    margin-bottom: 5px;
 }
