@@ -9108,38 +9108,38 @@
                         "oro": {
                             "name": "Katie Ledecky",
                             "country": "USA",
-                            "status": 0
+                            "status": 2
                         },
                         "plata": {
                             "name": "Bingjie Li",
                             "country": "CHN",
-                            "status": 0
+                            "status": -1
                         },
                         "bronce": {
                             "name": "Ariarne Titmus",
                             "country": "AUS",
-                            "status": 0
+                            "status": 1
                         }
                     },
                     "positions": {
                         "oro": {
-                            "name": null,
-                            "country": null
+                            "name": "Katie Ledecky",
+                            "country": "USA"
                         },
                         "plata": {
-                            "name": null,
-                            "country": null
+                            "name": "Ariarne Titmus",
+                            "country": "AUS"
                         },
                         "bronce": {
-                            "name": null,
-                            "country": null
+                            "name": "Simona Quadarella",
+                            "country": "ITA"
                         }
                     },
                     "pre_comments": null,
                     "after_comments": null,
                     "methodology": null,
                     "predicted": true,
-                    "updated": false,
+                    "updated": true,
                     "update_date": "2021/07/26"
                 },
                 "male": {
@@ -9366,38 +9366,38 @@
                         "oro": {
                             "name": "Kaylee Mckeown",
                             "country": "AUS",
-                            "status": 0
+                            "status": 2
                         },
                         "plata": {
                             "name": "Margherita Panziera",
                             "country": "ITA",
-                            "status": 0
+                            "status": -1
                         },
                         "bronce": {
                             "name": "Rhyan Elizabeth White",
                             "country": "USA",
-                            "status": 0
+                            "status": -1
                         }
                     },
                     "positions": {
                         "oro": {
-                            "name": null,
-                            "country": null
+                            "name": "Kaylee Mckeown",
+                            "country": "AUS"
                         },
                         "plata": {
-                            "name": null,
-                            "country": null
+                            "name": "Kylie Masse",
+                            "country": "CAN"
                         },
                         "bronce": {
-                            "name": null,
-                            "country": null
+                            "name": "Emily Seebohm",
+                            "country": "AUS"
                         }
                     },
                     "pre_comments": null,
                     "after_comments": null,
                     "methodology": null,
                     "predicted": true,
-                    "updated": false,
+                    "updated": true,
                     "update_date": "2021/07/26"
                 },
                 "male": {
@@ -9664,38 +9664,38 @@
                         "oro": {
                             "name": "Caeleb Dressel",
                             "country": "USA",
-                            "status": 0
+                            "status": 2
                         },
                         "plata": {
                             "name": "Matthew Temple",
                             "country": "AUS",
-                            "status": 0
+                            "status": -1
                         },
                         "bronce": {
                             "name": "Joseph Schooling",
                             "country": "SGP",
-                            "status": 0
+                            "status": -1
                         }
                     },
                     "positions": {
                         "oro": {
-                            "name": null,
-                            "country": null
+                            "name": "Caeleb Dressel",
+                            "country": "USA"
                         },
                         "plata": {
-                            "name": null,
-                            "country": null
+                            "name": "Kristof Milak",
+                            "country": "HUN"
                         },
                         "bronce": {
-                            "name": null,
-                            "country": null
+                            "name": "Noe Ponti",
+                            "country": "SUI"
                         }
                     },
                     "pre_comments": null,
                     "after_comments": null,
                     "methodology": null,
                     "predicted": true,
-                    "updated": false,
+                    "updated": true,
                     "update_date": "2021/07/26"
                 }
             }
@@ -10208,35 +10208,38 @@
                         "oro": {
                             "name": "China",
                             "country": "CHN",
-                            "status": 0
+                            "status": 1
                         },
                         "plata": {
                             "name": "Estados Unidos",
                             "country": "USA",
-                            "status": 0
+                            "status": -1
                         },
                         "bronce": {
                             "name": "Reino Unido",
                             "country": "GBR",
-                            "status": 0
+                            "status": 1
                         }
                     },
                     "positions": {
                         "oro": {
-                            "country": null
+                            "name": "Reino Unido",
+                            "country": "GBR"
                         },
                         "plata": {
-                            "country": null
+                            "name": "China",
+                            "country": "CHN"
                         },
                         "bronce": {
-                            "country": null
+                            "name": "Australia",
+                            "country": "AUS"
                         }
                     },
                     "pre_comments": null,
                     "after_comments": null,
                     "methodology": null,
                     "predicted": true,
-                    "updated": false,
+                    "updated": true,
                     "update_date": "2021/07/25"
                 }
             }
