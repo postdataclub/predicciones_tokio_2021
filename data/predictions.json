@@ -126,38 +126,38 @@
                         "oro": {
                             "name": "Shelly-Ann Fraser-Pryce",
                             "country": "JAM",
-                            "status": 0
+                            "status": 1
                         },
                         "plata": {
                             "name": "Elaine Thompson",
                             "country": "JAM",
-                            "status": 0
+                            "status": 1
                         },
                         "bronce": {
                             "name": "Marie-Josée Ta Lou",
                             "country": "CIV",
-                            "status": 0
+                            "status": -1
                         }
                     },
                     "positions": {
                         "oro": {
-                            "name": null,
-                            "country": null
+                            "name": "Elaine Thompson",
+                            "country": "JAM"
                         },
                         "plata": {
-                            "name": null,
-                            "country": null
+                            "name": "Shelly-Ann Fraser-Pryce",
+                            "country": "JAM"
                         },
                         "bronce": {
-                            "name": null,
-                            "country": null
+                            "name": "Shericka Jackson",
+                            "country": "JAM"
                         }
                     },
                     "pre_comments": null,
                     "after_comments": null,
                     "methodology": null,
                     "predicted": true,
-                    "updated": false,
+                    "updated": true,
                     "update_date": "2021/07/28"
                 },
                 "male": {
@@ -1646,38 +1646,38 @@
                         "oro": {
                             "name": "Daniel Ståhl",
                             "country": "SWE",
-                            "status": 0
+                            "status": 2
                         },
                         "plata": {
                             "name": "Andrius Gudžius",
                             "country": "LTU",
-                            "status": 0
+                            "status": -1
                         },
                         "bronce": {
-                            "name": "Lukas_Weißhaidinger",
+                            "name": "Lukas Weißhaidinger",
                             "country": "AUT",
-                            "status": 0
+                            "status": 2
                         }
                     },
                     "positions": {
                         "oro": {
-                            "name": null,
-                            "country": null
+                            "name": "Daniel Ståhl",
+                            "country": "SWE"
                         },
                         "plata": {
-                            "name": null,
-                            "country": null
+                            "name": "Simon Petterson",
+                            "country": "SWE"
                         },
                         "bronce": {
-                            "name": null,
-                            "country": null
+                            "name": "Lukas Weißhaidinger",
+                            "country": "AUT"
                         }
                     },
                     "pre_comments": null,
                     "after_comments": null,
                     "methodology": null,
                     "predicted": true,
-                    "updated": false,
+                    "updated": true,
                     "update_date": "2021/07/28"
                 }
             }
@@ -9093,7 +9093,7 @@
                     "after_comments": null,
                     "methodology": null,
                     "predicted": true,
-                    "updated": false,
+                    "updated": true,
                     "update_date": "2021/07/24"
                 }
             }
@@ -12703,36 +12703,39 @@
                     "prediction": {
                         "oro": {
                             "name": "Ashleigh Barty",
-                            "country": "AUS"
+                            "country": "AUS",
+                            "status": -1
                         },
                         "plata": {
                             "name": "Elena Rybakina",
-                            "country": "KAZ"
+                            "country": "KAZ",
+                            "status": -1
+                        },
+                        "bronce": {
+                            "name": "Elina Svitolina",
+                            "country": "UKR",
+                            "status": 2
+                        }
+                    },
+                    "positions": {
+                        "oro": {
+                            "name": "Belinda Bencic",
+                            "country": "SUI"
+                        },
+                        "plata": {
+                            "name": "Marketa Vondrousova",
+                            "country": "CZE"
                         },
                         "bronce": {
                             "name": "Elina Svitolina",
                             "country": "UKR"
                         }
                     },
-                    "positions": {
-                        "oro": {
-                            "name": null,
-                            "country": null
-                        },
-                        "plata": {
-                            "name": null,
-                            "country": null
-                        },
-                        "bronce": {
-                            "name": null,
-                            "country": null
-                        }
-                    },
                     "pre_comments": null,
                     "after_comments": null,
                     "methodology": null,
                     "predicted": true,
-                    "updated": false,
+                    "updated": true,
                     "update_date": "2021/07/23"
                 },
                 "male": {
@@ -13036,33 +13039,39 @@
                     "prediction": {
                         "oro": {
                             "name": "China",
-                            "country": "CHN"
+                            "country": "CHN",
+                            "status": 1
                         },
                         "plata": {
                             "name": "Japón",
-                            "country": "JPN"
+                            "country": "JPN",
+                            "status": 1
                         },
                         "bronce": {
                             "name": "Alemania",
-                            "country": "GER"
+                            "country": "GER",
+                            "status": -1
                         }
                     },
                     "positions": {
                         "oro": {
-                            "country": null
+                            "name": "Japón",
+                            "country": "JPN"
                         },
                         "plata": {
-                            "country": null
+                            "name": "China",
+                            "country": "CHN"
                         },
                         "bronce": {
-                            "country": null
+                            "name": "China Taipei",
+                            "country": "TPE"
                         }
                     },
                     "pre_comments": null,
                     "after_comments": null,
                     "methodology": null,
                     "predicted": true,
-                    "updated": false,
+                    "updated": true,
                     "update_date": "2021/07/23"
                 }
             }
