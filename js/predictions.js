@@ -168,10 +168,10 @@ $.getJSON("data/domains.json", function (domains) {
                 text += "<div id='stats-medalists' class='stats-item''>" + stats.exact_medals + " posiciones exactas de " + stats.medals + " posibles</div>";
             }
             let champ = "campeones pronosticados";
-            if (stats.champions==1) {champ="campeón pronosticado"}
+            if (stats.champions == 1) { champ = "campeón pronosticado" }
             let pos2 = "posibles";
-            if (stats.updated_events==1) {pos2="posible"}
-            text += "<div id='stats-medalists' class='stats-item''>" + stats.champions + " "+champ+" de " + stats.updated_events + " "+pos2+"</div>";
+            if (stats.updated_events == 1) { pos2 = "posible" }
+            text += "<div id='stats-medalists' class='stats-item''>" + stats.champions + " " + champ + " de " + stats.updated_events + " " + pos2 + "</div>";
             return text;
         }
 
@@ -271,14 +271,32 @@ $.getJSON("data/domains.json", function (domains) {
             if (pred.updated) {
                 text += "<div class='podium'>Medallistas</div>";
                 text += "<div class='podium-block'>";
-                text += renderPredictionItemSingle("gold", "normal", pred.positions.oro);
-                text += renderPredictionItemSingle("silver", "normal", pred.positions.plata);
-                if (Array.isArray(pred.prediction.bronce)) {
-                    for (var b in pred.prediction.bronce) {
-                        text += renderPredictionItemSingle("bronce", "normal", pred.positions.bronce[b]);
+                if (Array.isArray(pred.positions.oro)) {
+                    for (var b in pred.positions.oro) {
+                        text += renderPredictionItemSingle("gold", "normal", pred.positions.oro[b]);
                     }
                 } else {
-                    text += renderPredictionItemSingle("bronce", "normal", pred.positions.bronce);
+                    text += renderPredictionItemSingle("gold", "normal", pred.positions.oro);
+                }
+                //text += renderPredictionItemSingle("gold", "normal", pred.positions.oro);
+                if ("plata" in pred.positions) {
+                    if (Array.isArray(pred.positions.plata)) {
+                        for (var b in pred.positions.plata) {
+                            text += renderPredictionItemSingle("silver", "normal", pred.positions.plata[b]);
+                        }
+                    } else {
+                        text += renderPredictionItemSingle("silver", "normal", pred.positions.plata);
+                    }
+                    //text += renderPredictionItemSingle("silver", "normal", pred.positions.plata);
+                }
+                if ("bronce" in pred.positions) {
+                    if (Array.isArray(pred.prediction.bronce)) {
+                        for (var b in pred.prediction.bronce) {
+                            text += renderPredictionItemSingle("bronce", "normal", pred.positions.bronce[b]);
+                        }
+                    } else {
+                        text += renderPredictionItemSingle("bronce", "normal", pred.positions.bronce);
+                    }
                 }
                 text += "</div>";
             }
