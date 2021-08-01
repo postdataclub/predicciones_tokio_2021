@@ -1,3 +1,4 @@
+$.ajaxSetup({ cache: false});
 $.getJSON("data/domains.json", function (domains) {
     $.getJSON("data/predictions.json", function (data) {
 
