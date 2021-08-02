@@ -564,8 +564,8 @@
                             "status": 0
                         },
                         "bronce": {
-                            "name": "Margaret Chelimo Kipkemboi",
-                            "country": "KEN",
+                            "name": "Eilish McColgan",
+                            "country": "GBR",
                             "status": 0
                         }
                     },
@@ -944,18 +944,18 @@
                     "date": "2021/07/24",
                     "prediction": {
                         "oro": {
+                            "name": "Sooufiane El Bakkali",
+                            "country": "MAR",
+                            "status": 0
+                        },
+                        "plata": {
                             "name": "Benjamin Kigen",
                             "country": "KEN",
                             "status": 0
                         },
-                        "plata": {
-                            "name": "Getnet Wale",
-                            "country": "ETH",
-                            "status": 0
-                        },
                         "bronce": {
-                            "name": "Djilali Bedrani",
-                            "country": "FRA",
+                            "name": "Lamecha Girma",
+                            "country": "ETH",
                             "status": 0
                         }
                     },
@@ -1398,8 +1398,8 @@
                             "status": 0
                         },
                         "bronce": {
-                            "name": "Steffin McCarter",
-                            "country": "USA",
+                            "name": "Tajay Gayle",
+                            "country": "JAM",
                             "status": 0
                         }
                     },
