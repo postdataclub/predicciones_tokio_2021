@@ -3007,41 +3007,45 @@
                     "date": "2021/08/03",
                     "prediction": {
                         "oro": {
-                            "name": "ZAMKOVOI Andrei",
-                            "country": "ROC"
+                            "name": "Andrei Zamkovoi",
+                            "country": "ROC",
+                            "status": 1
                         },
                         "plata": {
-                            "name": "MENGUE AYISSI ALBERT",
-                            "country": "CMR"
+                            "name": "Albert Mengue",
+                            "country": "CMR",
+                            "status": -1
                         },
                         "bronce": [
                             {
-                                "name": "BATUROV Bobo-Usmon",
-                                "country": "UZB"
+                                "name": "Bobo-Usmon Baturov",
+                                "country": "UZB",
+                                "status": -1
                             },
                             {
-                                "name": "McCORMACK Pat",
-                                "country": "GBR"
+                                "name": "Pat McCormack",
+                                "country": "GBR",
+                                "status": 1
                             }
                         ]
                     },
                     "positions": {
                         "oro": {
-                            "name": null,
-                            "country": null
+                            "name": "Roniel Iglesias",
+                            "country": "CUB"
                         },
                         "plata": {
-                            "name": null,
-                            "country": null
+                            "name": "Pat McCormack",
+                            "country": "GBR"
                         },
                         "bronce": [
                             {
-                                "name": null,
-                                "country": null
+                                "name": "Andrei Zamkovoi",
+                                "country": "ROC"
                             },
                             {
-                                "name": null,
-                                "country": null
+                                "name": "Aidan Walsh",
+                                "country": "IRL"
                             }
                         ]
                     },
@@ -3049,7 +3053,7 @@
                     "after_comments": null,
                     "methodology": null,
                     "predicted": true,
-                    "updated": false,
+                    "updated": true,
                     "update_date": "2021/07/23"
                 }
             }
