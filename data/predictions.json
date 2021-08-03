@@ -2750,41 +2750,45 @@
                     "date": "2021/08/03",
                     "prediction": {
                         "oro": {
-                            "name": "PETECIO Nesthy",
-                            "country": "PHI"
+                            "name": "Nesthy Petecio",
+                            "country": "PHI",
+                            "status": 1
                         },
                         "plata": {
-                            "name": "VORONTSOVA Liudmila",
-                            "country": "ROC"
+                            "name": "Liudmila Vorontsova",
+                            "country": "ROC",
+                            "status": -1
                         },
                         "bronce": [
                             {
-                                "name": "LIN Yu-Ting",
-                                "country": "TPE"
+                                "name": "Yu-Ting Lin",
+                                "country": "TPE",
+                                "status": -1
                             },
                             {
-                                "name": "ARTINGSTALL Karriss",
-                                "country": "GBR"
+                                "name": "Karriss Artingstall",
+                                "country": "GBR",
+                                "status": 2
                             }
                         ]
                     },
                     "positions": {
                         "oro": {
-                            "name": null,
-                            "country": null
+                            "name": "Sena Irie",
+                            "country": "JAP"
                         },
                         "plata": {
-                            "name": null,
-                            "country": null
+                            "name": "Nesthy Petecio",
+                            "country": "PHI"
                         },
                         "bronce": [
                             {
-                                "name": null,
-                                "country": null
+                                "name": "Irma Testa",
+                                "country": "ITA"
                             },
                             {
-                                "name": null,
-                                "country": null
+                                "name": "Karriss Artingstall",
+                                "country": "GBR"
                             }
                         ]
                     },
@@ -2792,7 +2796,7 @@
                     "after_comments": null,
                     "methodology": null,
                     "predicted": true,
-                    "updated": false,
+                    "updated": true,
                     "update_date": "2021/07/23"
                 },
                 "male": {
