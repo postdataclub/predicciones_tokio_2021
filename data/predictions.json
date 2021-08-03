@@ -8336,41 +8336,45 @@
                     "date": "2021/08/05",
                     "prediction": {
                         "oro": {
-                            "name": "Chekhirkin, Aleksander",
-                            "country": "ROC"
+                            "name": "Aleksander Chekhirkin",
+                            "country": "ROC",
+                            "status": -1
                         },
                         "plata": {
-                            "name": "Geraei, Mohammadali Abdolhamid",
-                            "country": "IRI"
+                            "name": "Mohammadali Abdolhamid Geraei",
+                            "country": "IRI",
+                            "status": -1
                         },
                         "bronce": [
                             {
-                                "name": "Loerincz, Tamas",
-                                "country": "HUN"
+                                "name": "Tamas Lorincz",
+                                "country": "HUN",
+                                "status": 1
                             },
                             {
-                                "name": "Makhmudov, Akzhol",
-                                "country": "KGZ"
+                                "name": "Akzhol Makhmudov",
+                                "country": "KGZ",
+                                "status": 1
                             }
                         ]
                     },
                     "positions": {
                         "oro": {
-                            "name": null,
-                            "country": null
+                            "name": "Tamas Lorincz",
+                            "country": "HUN"
                         },
                         "plata": {
-                            "name": null,
-                            "country": null
+                            "name": "Akzhol Makhmudov",
+                            "country": "KGZ"
                         },
                         "bronce": [
                             {
-                                "name": null,
-                                "country": null
+                                "name": "Shogei Yabiku",
+                                "country": "JPN"
                             },
                             {
-                                "name": null,
-                                "country": null
+                                "name": "Rafig Huseynov",
+                                "country": "AZE"
                             }
                         ]
                     },
@@ -8378,7 +8382,7 @@
                     "after_comments": null,
                     "methodology": null,
                     "predicted": true,
-                    "updated": false,
+                    "updated": true,
                     "update_date": "2021/07/23"
                 }
             }
@@ -8446,41 +8450,45 @@
                     "date": "2021/08/05",
                     "prediction": {
                         "oro": {
-                            "name": "Aleksanyan, Artur",
-                            "country": "ARM"
+                            "name": "Artur Aleksanyan",
+                            "country": "ARM",
+                            "status": 1
                         },
                         "plata": {
-                            "name": "Evloev, Musa",
-                            "country": "ROC"
+                            "name": "Musa Evloev",
+                            "country": "ROC",
+                            "status": 1
                         },
                         "bronce": [
                             {
-                                "name": "Saravi, Mohammadhadi Abdollah",
-                                "country": "IRI"
+                                "name": "Abdollah Saravi",
+                                "country": "IRI",
+                                "status": 2
                             },
                             {
-                                "name": "Rosillo Kindelan, Gabriel Alejandro",
-                                "country": "CUB"
+                                "name": "Gabriel Rosillo",
+                                "country": "CUB",
+                                "status": -1
                             }
                         ]
                     },
                     "positions": {
                         "oro": {
-                            "name": null,
-                            "country": null
+                            "name": "Musa Evloev",
+                            "country": "ROC"
                         },
                         "plata": {
-                            "name": null,
-                            "country": null
+                            "name": "Artur Aleksanyan",
+                            "country": "ARM"
                         },
                         "bronce": [
                             {
-                                "name": null,
-                                "country": null
+                                "name": "Abdollah Saravi",
+                                "country": "IRI"
                             },
                             {
-                                "name": null,
-                                "country": null
+                                "name": "Tadeusz Michalik",
+                                "country": "POL"
                             }
                         ]
                     },
@@ -8488,7 +8496,7 @@
                     "after_comments": null,
                     "methodology": null,
                     "predicted": true,
-                    "updated": false,
+                    "updated": true,
                     "update_date": "2021/07/23"
                 }
             }
@@ -8670,41 +8678,45 @@
                     "date": "2021/08/05",
                     "prediction": {
                         "oro": {
-                            "name": "Dosho, Sara",
-                            "country": "JPN"
+                            "name": "Sara Dosho",
+                            "country": "JPN",
+                            "status": -1
                         },
                         "plata": {
-                            "name": "Stock, Tamyra Mariama Mensah",
-                            "country": "USA"
+                            "name": "Tamyra Mariama Mensah Stock",
+                            "country": "USA",
+                            "status": 1
                         },
                         "bronce": [
                             {
-                                "name": "Cherkasova, Alla",
-                                "country": "UKR"
+                                "name": "Alla Cherkasova",
+                                "country": "UKR",
+                                "status": 2
                             },
                             {
-                                "name": "Zhou, Feng",
-                                "country": "CHN"
+                                "name": "Feng Zhou",
+                                "country": "CHN",
+                                "status": -1
                             }
                         ]
                     },
                     "positions": {
                         "oro": {
-                            "name": null,
-                            "country": null
+                            "name": "Tamyra Mariama Mensah Stock",
+                            "country": "USA"
                         },
                         "plata": {
-                            "name": null,
-                            "country": null
+                            "name": "Blessing Oborududu",
+                            "country": "NGR"
                         },
                         "bronce": [
                             {
-                                "name": null,
-                                "country": null
+                                "name": "Alla Cherkasova",
+                                "country": "UKR"
                             },
                             {
-                                "name": null,
-                                "country": null
+                                "name": "Meerim Zhumanazarova",
+                                "country": "KGZ"
                             }
                         ]
                     },
@@ -8712,7 +8724,7 @@
                     "after_comments": null,
                     "methodology": null,
                     "predicted": true,
-                    "updated": false,
+                    "updated": true,
                     "update_date": "2021/07/23"
                 }
             }
