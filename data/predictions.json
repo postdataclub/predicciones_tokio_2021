@@ -422,18 +422,18 @@
                     "date": "2021/07/24",
                     "prediction": {
                         "oro": {
+                            "name": "Nijel Amos",
+                            "country": "BOT",
+                            "status": 0
+                        },
+                        "plata": {
                             "name": "Ferguson Cheruiyot Rotich",
                             "country": "KEN",
                             "status": 0
                         },
-                        "plata": {
-                            "name": "Cornelius Tuwei",
-                            "country": "KEN",
-                            "status": 0
-                        },
                         "bronce": {
-                            "name": "Elliot Giles",
-                            "country": "GBR",
+                            "name": "Marco Arop",
+                            "country": "CAN",
                             "status": 0
                         }
                     },
@@ -2775,7 +2775,7 @@
                     "positions": {
                         "oro": {
                             "name": "Sena Irie",
-                            "country": "JAP"
+                            "country": "JPN"
                         },
                         "plata": {
                             "name": "Nesthy Petecio",
