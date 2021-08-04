@@ -994,11 +994,11 @@
                             "status": 0
                         },
                         "plata": {
-                            "country": "GER",
+                            "country": "JAM",
                             "status": 0
                         },
                         "bronce": {
-                            "country": "JAM",
+                            "country": "GER",
                             "status": 0
                         }
                     },
