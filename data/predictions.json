@@ -8285,41 +8285,45 @@
                     "date": "2021/08/05",
                     "prediction": {
                         "oro": {
-                            "name": "Surkov, Artem",
-                            "country": "ROC"
+                            "name": "Artem Surkov",
+                            "country": "ROC",
+                            "status": -1
                         },
                         "plata": {
-                            "name": "Staebler, Frank",
-                            "country": "GER"
+                            "name": "Frank Staebler",
+                            "country": "GER",
+                            "status": 1
                         },
                         "bronce": [
                             {
-                                "name": "Elsayed, Mohamed Ibrahim Elsayed",
-                                "country": "EGY"
+                                "name": "Mohamed Ibrahim Elsayed",
+                                "country": "EGY",
+                                "status": 2
                             },
                             {
-                                "name": "Borrero Molina, Ismael",
-                                "country": "CUB"
+                                "name": "Ismael Borrero",
+                                "country": "CUB",
+                                "status": -1
                             }
                         ]
                     },
                     "positions": {
                         "oro": {
-                            "name": null,
-                            "country": null
+                            "name": "Mohammadreza Geraei",
+                            "country": "IRI"
                         },
                         "plata": {
-                            "name": null,
-                            "country": null
+                            "name": "Parviz Nasibov",
+                            "country": "UKR"
                         },
                         "bronce": [
                             {
-                                "name": null,
-                                "country": null
+                                "name": "Mohamed Ibrahim Elsayed",
+                                "country": "EGY"
                             },
                             {
-                                "name": null,
-                                "country": null
+                                "name": "Frank Staebler",
+                                "country": "GER"
                             }
                         ]
                     },
@@ -8327,7 +8331,7 @@
                     "after_comments": null,
                     "methodology": null,
                     "predicted": true,
-                    "updated": false,
+                    "updated": true,
                     "update_date": "2021/07/23"
                 }
             }
@@ -8399,41 +8403,45 @@
                     "date": "2021/08/05",
                     "prediction": {
                         "oro": {
-                            "name": "Belenyuk, Zhan",
-                            "country": "UKR"
+                            "name": "Zhan Belenyuk",
+                            "country": "UKR",
+                            "status": 2
                         },
                         "plata": {
-                            "name": "Tursynov, Nursultan",
-                            "country": "KAZ"
+                            "name": "Nursultan Tursynov",
+                            "country": "KAZ",
+                            "status": -1
                         },
                         "bronce": [
                             {
-                                "name": "Kudla, Denis Maksymilian",
-                                "country": "GER"
+                                "name": "Denis Maksymilian Kudla",
+                                "country": "GER",
+                                "status": 2
                             },
                             {
-                                "name": "Abbasov, Islam",
-                                "country": "AZE"
+                                "name": "Islam Abbasov",
+                                "country": "AZE",
+                                "status": -1
                             }
                         ]
                     },
                     "positions": {
                         "oro": {
-                            "name": null,
-                            "country": null
+                            "name": "Zhan Belenyuk",
+                            "country": "UKR"
                         },
                         "plata": {
-                            "name": null,
-                            "country": null
+                            "name": "Viktor Lorincz",
+                            "country": "HUN"
                         },
                         "bronce": [
                             {
-                                "name": null,
-                                "country": null
+                                "name": "Denis Maksymilian Kudla",
+                                "country": "GER"
                             },
                             {
-                                "name": null,
-                                "country": null
+                                "name": "Zurabi Datunashvili",
+                                "country": "SRB"
                             }
                         ]
                     },
@@ -8441,7 +8449,7 @@
                     "after_comments": null,
                     "methodology": null,
                     "predicted": true,
-                    "updated": false,
+                    "updated": true,
                     "update_date": "2021/07/23"
                 }
             }
@@ -8627,41 +8635,45 @@
                     "date": "2021/08/05",
                     "prediction": {
                         "oro": {
-                            "name": "Yusein, Taybe Mustafa",
-                            "country": "BUL"
+                            "name": "Taybe Mustafa Yusein",
+                            "country": "BUL",
+                            "status": 1
                         },
                         "plata": {
-                            "name": "Kawai, Yukako",
-                            "country": "JPN"
+                            "name": "Yukako Kawai",
+                            "country": "JPN",
+                            "status": 1
                         },
                         "bronce": [
                             {
-                                "name": "Rim, Jong-Sim",
-                                "country": "PRK"
+                                "name": "Jong-Sim Rim",
+                                "country": "PRK",
+                                "status": -1
                             },
                             {
-                                "name": "Koliadenko, Irina",
-                                "country": "UKR"
+                                "name": "Irina Koliadenko",
+                                "country": "UKR",
+                                "status": 2
                             }
                         ]
                     },
                     "positions": {
                         "oro": {
-                            "name": null,
-                            "country": null
+                            "name": "Yukako Kawai",
+                            "country": "JPN"
                         },
                         "plata": {
-                            "name": null,
-                            "country": null
+                            "name": "Aisuluu Tynybekova",
+                            "country": "KGZ"
                         },
                         "bronce": [
                             {
-                                "name": null,
-                                "country": null
+                                "name": "Taybe Mustafa Yusein",
+                                "country": "BUL"
                             },
                             {
-                                "name": null,
-                                "country": null
+                                "name": "Irina Koliadenko",
+                                "country": "UKR"
                             }
                         ]
                     },
@@ -8669,7 +8681,7 @@
                     "after_comments": null,
                     "methodology": null,
                     "predicted": true,
-                    "updated": false,
+                    "updated": true,
                     "update_date": "2021/07/23"
                 }
             }
