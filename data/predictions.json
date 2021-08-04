@@ -252,38 +252,38 @@
                         "oro": {
                             "name": "Noah Lyles",
                             "country": "USA",
-                            "status": 0
+                            "status": 1
                         },
                         "plata": {
                             "name": "Kenneth Bednarek",
                             "country": "USA",
-                            "status": 0
+                            "status": 1
                         },
                         "bronce": {
                             "name": "Aaron Brown",
                             "country": "CAN",
-                            "status": 0
+                            "status": -1
                         }
                     },
                     "positions": {
                         "oro": {
-                            "name": null,
-                            "country": null
+                            "name": "Andre de Grasse",
+                            "country": "CAN"
                         },
                         "plata": {
-                            "name": null,
-                            "country": null
+                            "name": "Kenneth Bednarek",
+                            "country": "USA"
                         },
                         "bronce": {
-                            "name": null,
-                            "country": null
+                            "name": "Noah Lyles",
+                            "country": "USA"
                         }
                     },
                     "pre_comments": null,
                     "after_comments": null,
                     "methodology": null,
                     "predicted": true,
-                    "updated": false,
+                    "updated": true,
                     "update_date": "2021/07/28"
                 }
             }
@@ -424,38 +424,38 @@
                         "oro": {
                             "name": "Nijel Amos",
                             "country": "BOT",
-                            "status": 0
+                            "status": -1
                         },
                         "plata": {
                             "name": "Ferguson Cheruiyot Rotich",
                             "country": "KEN",
-                            "status": 0
+                            "status": 2
                         },
                         "bronce": {
                             "name": "Marco Arop",
                             "country": "CAN",
-                            "status": 0
+                            "status": -1
                         }
                     },
                     "positions": {
                         "oro": {
-                            "name": null,
-                            "country": null
+                            "name": "Emmanuel Kipkurui",
+                            "country": "KEN"
                         },
                         "plata": {
-                            "name": null,
-                            "country": null
+                            "name": "Ferguson Cheruiyot Rotich",
+                            "country": "KEN"
                         },
                         "bronce": {
-                            "name": null,
-                            "country": null
+                            "name": "Patryk Dobek",
+                            "country": "POL"
                         }
                     },
                     "pre_comments": null,
                     "after_comments": null,
                     "methodology": null,
                     "predicted": true,
-                    "updated": false,
+                    "updated": true,
                     "update_date": "2021/07/28"
                 }
             }
@@ -820,38 +820,38 @@
                         "oro": {
                             "name": "Sydney McLaughlin",
                             "country": "USA",
-                            "status": 0
+                            "status": 2
                         },
                         "plata": {
                             "name": "Femke Bol",
                             "country": "NED",
-                            "status": 0
+                            "status": 1
                         },
                         "bronce": {
                             "name": "Dalilah Muhammad",
                             "country": "USA",
-                            "status": 0
+                            "status": 1
                         }
                     },
                     "positions": {
                         "oro": {
-                            "name": null,
-                            "country": null
+                            "name": "Sydney McLaughlin",
+                            "country": "USA"
                         },
                         "plata": {
-                            "name": null,
-                            "country": null
+                            "name": "Dalilah Muhammad",
+                            "country": "USA"
                         },
                         "bronce": {
-                            "name": null,
-                            "country": null
+                            "name": "Femke Bol",
+                            "country": "NED"
                         }
                     },
                     "pre_comments": null,
                     "after_comments": null,
                     "methodology": null,
                     "predicted": true,
-                    "updated": false,
+                    "updated": true,
                     "update_date": "2021/07/28"
                 },
                 "male": {
@@ -906,38 +906,38 @@
                         "oro": {
                             "name": "Beatrice Chepkoech",
                             "country": "KEN",
-                            "status": 0
+                            "status": -1
                         },
                         "plata": {
                             "name": "Hyvin Kiyeng",
                             "country": "KEN",
-                            "status": 0
+                            "status": 1
                         },
                         "bronce": {
                             "name": "Emma Coburn",
                             "country": "USA",
-                            "status": 0
+                            "status": -1
                         }
                     },
                     "positions": {
                         "oro": {
-                            "name": null,
-                            "country": null
+                            "name": "Peruth Chemutai",
+                            "country": "UGA"
                         },
                         "plata": {
-                            "name": null,
-                            "country": null
+                            "name": "Courtney Frerichs",
+                            "country": "USA"
                         },
                         "bronce": {
-                            "name": null,
-                            "country": null
+                            "name": "Hyvin Kiyeng",
+                            "country": "KEN"
                         }
                     },
                     "pre_comments": null,
                     "after_comments": null,
                     "methodology": null,
                     "predicted": true,
-                    "updated": false,
+                    "updated": true,
                     "update_date": "2021/07/28"
                 },
                 "male": {
@@ -1734,38 +1734,38 @@
                         "oro": {
                             "name": "Paweł Fajdek",
                             "country": "POL",
-                            "status": 0
+                            "status": 1
                         },
                         "plata": {
                             "name": "Wojciech Nowicki",
                             "country": "POL",
-                            "status": 0
+                            "status": 1
                         },
                         "bronce": {
                             "name": "Rudy Winkler",
                             "country": "USA",
-                            "status": 0
+                            "status": -1
                         }
                     },
                     "positions": {
                         "oro": {
-                            "name": null,
-                            "country": null
+                            "name": "Wojciech Nowicki",
+                            "country": "POL"
                         },
                         "plata": {
-                            "name": null,
-                            "country": null
+                            "name": "Eivind Henriksen",
+                            "country": "NOR"
                         },
                         "bronce": {
-                            "name": null,
-                            "country": null
+                            "name": "Paweł Fajdek",
+                            "country": "POL"
                         }
                     },
                     "pre_comments": null,
                     "after_comments": null,
                     "methodology": null,
                     "predicted": true,
-                    "updated": false,
+                    "updated": true,
                     "update_date": "2021/07/28"
                 }
             }
