@@ -3174,41 +3174,45 @@
                     "date": "2021/08/04",
                     "prediction": {
                         "oro": {
-                            "name": "NURDAULETOV Bekzad",
-                            "country": "KAZ"
+                            "name": "Bekzad Murdautelov",
+                            "country": "KAZ",
+                            "status": -1
                         },
                         "plata": {
-                            "name": "RUZMETOV Dilshodbek",
-                            "country": "UZB"
+                            "name": "Dilshodbek Ruzmetov",
+                            "country": "UZB",
+                            "status": -1
                         },
                         "bronce": [
                             {
-                                "name": "WHITTAKER Benjamin",
-                                "country": "GBR"
+                                "name": "Benjamin Whitakker",
+                                "country": "GBR",
+                                "status": 1
                             },
                             {
-                                "name": "LOPEZ CARDONA Arlen",
-                                "country": "CUB"
+                                "name": "Arlen López",
+                                "country": "CUB",
+                                "status": 1
                             }
                         ]
                     },
                     "positions": {
                         "oro": {
-                            "name": null,
-                            "country": null
+                            "name": "Arlen López",
+                            "country": "CUB"
                         },
                         "plata": {
-                            "name": null,
-                            "country": null
+                            "name": "Benjamin Whitakker",
+                            "country": "GBR"
                         },
                         "bronce": [
                             {
-                                "name": null,
-                                "country": null
+                                "name": "Loren Alfonso",
+                                "country": "AZE"
                             },
                             {
-                                "name": null,
-                                "country": null
+                                "name": "Imam Khataev",
+                                "country": "ROC"
                             }
                         ]
                     },
@@ -3216,7 +3220,7 @@
                     "after_comments": null,
                     "methodology": null,
                     "predicted": true,
-                    "updated": false,
+                    "updated": true,
                     "update_date": "2021/07/23"
                 }
             }
