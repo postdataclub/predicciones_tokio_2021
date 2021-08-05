@@ -594,18 +594,18 @@
                     "date": "2021/07/24",
                     "prediction": {
                         "oro": {
-                            "name": "Birhanu Balew",
-                            "country": "BRN",
+                            "name": "Joshua Cheptegei",
+                            "country": "UGA",
                             "status": 0
                         },
                         "plata": {
-                            "name": "Selemon Barega",
-                            "country": "ETH",
+                            "name": "Jacob Kiplimo",
+                            "country": "UGA",
                             "status": 0
                         },
                         "bronce": {
-                            "name": "Nicholas Kipkorir Kimeli",
-                            "country": "KEN",
+                            "name": "Mohammed Ammed",
+                            "country": "CAN",
                             "status": 0
                         }
                     },
@@ -690,7 +690,7 @@
                             "status": 1
                         },
                         "bronce": {
-                            "name": "Mohmmed Ammed",
+                            "name": "Mohammed Ammed",
                             "country": "CAN",
                             "status": -1
                         }
