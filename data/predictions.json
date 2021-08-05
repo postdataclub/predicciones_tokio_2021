@@ -2803,41 +2803,45 @@
                     "date": "2021/08/05",
                     "prediction": {
                         "oro": {
-                            "name": "MIRZAKHALILOV Mirazizbek",
-                            "country": "UZB"
+                            "name": "Mirazizbek Mirkzakhalilov",
+                            "country": "UZB",
+                            "status": -1
                         },
                         "plata": {
-                            "name": "ALVAREZ ESTRADA Lazaro Jorge",
-                            "country": "CUB"
+                            "name": "Lazaro Álvarez",
+                            "country": "CUB",
+                            "status": 1
                         },
                         "bronce": [
                             {
-                                "name": "RAGAN Duke",
-                                "country": "USA"
+                                "name": "Duke Ragan",
+                                "country": "USA",
+                                "status": 1
                             },
                             {
-                                "name": "McGRAIL Peter",
-                                "country": "GBR"
+                                "name": "Peter McGrail",
+                                "country": "GBR",
+                                "status": -1
                             }
                         ]
                     },
                     "positions": {
                         "oro": {
-                            "name": null,
-                            "country": null
+                            "name": "Albert Batyrgaziev",
+                            "country": "ROC"
                         },
                         "plata": {
-                            "name": null,
-                            "country": null
+                            "name": "Duke Ragan",
+                            "country": "USA"
                         },
                         "bronce": [
                             {
-                                "name": null,
-                                "country": null
+                                "name": "Lazaro Álvarez",
+                                "country": "CUB"
                             },
                             {
-                                "name": null,
-                                "country": null
+                                "name": "Samuel Takyi",
+                                "country": "GHA"
                             }
                         ]
                     },
@@ -2845,7 +2849,7 @@
                     "after_comments": null,
                     "methodology": null,
                     "predicted": true,
-                    "updated": false,
+                    "updated": true,
                     "update_date": "2021/07/23"
                 }
             }
