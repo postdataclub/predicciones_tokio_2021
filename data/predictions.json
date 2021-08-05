@@ -7851,41 +7851,45 @@
                     "date": "2021/08/05",
                     "prediction": {
                         "oro": {
-                            "name": "Kawai, Risako",
-                            "country": "JPN"
+                            "name": "Risako Kawai",
+                            "country": "JPN",
+                            "status": 2
                         },
                         "plata": {
-                            "name": "Adekuoroye, Odunayo Folasade",
-                            "country": "NGR"
+                            "name": "Odunayo Adekuoroye",
+                            "country": "NGR",
+                            "status": -1
                         },
                         "bronce": [
                             {
-                                "name": "Rong, Ningning",
-                                "country": "CHN"
+                                "name": "Ningning Rong",
+                                "country": "CHN",
+                                "status": -1
                             },
                             {
-                                "name": "Nichita, Anastasia",
-                                "country": "MDA"
+                                "name": "Anastasia Nichita",
+                                "country": "MDA",
+                                "status": -1
                             }
                         ]
                     },
                     "positions": {
                         "oro": {
-                            "name": null,
-                            "country": null
+                            "name": "Risako Kawai",
+                            "country": "JPN"
                         },
                         "plata": {
-                            "name": null,
-                            "country": null
+                            "name": "Iryna Burachkina",
+                            "country": "BLR"
                         },
                         "bronce": [
                             {
-                                "name": null,
-                                "country": null
+                                "name": "Helen Louis Maroulis",
+                                "country": "USA"
                             },
                             {
-                                "name": null,
-                                "country": null
+                                "name": "Evelina Nikolova",
+                                "country": "BUL"
                             }
                         ]
                     },
@@ -7893,48 +7897,52 @@
                     "after_comments": null,
                     "methodology": null,
                     "predicted": true,
-                    "updated": false,
+                    "updated": true,
                     "update_date": "2021/07/23"
                 },
                 "male": {
                     "date": "2021/08/05",
                     "prediction": {
                         "oro": {
-                            "name": "Uguev, Zavur",
-                            "country": "ROC"
+                            "name": "Zavur Uguev",
+                            "country": "ROC",
+                            "status": 2
                         },
                         "plata": {
-                            "name": "Takahashi, Yuki",
-                            "country": "JPN"
+                            "name": "Yuki Takahashi",
+                            "country": "JPN",
+                            "status": -1
                         },
                         "bronce": [
                             {
-                                "name": "Harutyunyan, Arsen",
-                                "country": "ARM"
+                                "name": "Arsen Harutyunyan",
+                                "country": "ARM",
+                                "status": -1
                             },
                             {
-                                "name": "Sanayev, Nurislam",
-                                "country": "KAZ"
+                                "name": "Nurislam Sanayev",
+                                "country": "KAZ",
+                                "status": 2
                             }
                         ]
                     },
                     "positions": {
                         "oro": {
-                            "name": null,
-                            "country": null
+                            "name": "Zavur Uguev",
+                            "country": "ROC"
                         },
                         "plata": {
-                            "name": null,
-                            "country": null
+                            "name": "Kumar Ravi",
+                            "country": "IND"
                         },
                         "bronce": [
                             {
-                                "name": null,
-                                "country": null
+                                "name": "Thomas Patrick Gilman",
+                                "country": "USA"
                             },
                             {
-                                "name": null,
-                                "country": null
+                                "name": "Nurislam Sanayev",
+                                "country": "KAZ"
                             }
                         ]
                     },
@@ -7942,7 +7950,7 @@
                     "after_comments": null,
                     "methodology": null,
                     "predicted": true,
-                    "updated": false,
+                    "updated": true,
                     "update_date": "2021/07/23"
                 }
             }
@@ -8065,41 +8073,45 @@
                     "date": "2021/08/05",
                     "prediction": {
                         "oro": {
-                            "name": "Naifonov, Artur",
-                            "country": "ROC"
+                            "name": "Artur Naifonov",
+                            "country": "ROC",
+                            "status": 1
                         },
                         "plata": {
-                            "name": "Taylor, David Morris",
-                            "country": "USA"
+                            "name": "David Morris Taylor",
+                            "country": "USA",
+                            "status": 1
                         },
                         "bronce": [
                             {
-                                "name": "Yazdani Charati, Hassan Aliazam",
-                                "country": "IRI"
+                                "name": "Hassan Aliazam Yazdani",
+                                "country": "IRI",
+                                "status": -1
                             },
                             {
-                                "name": "Punia, Deepak",
-                                "country": "IND"
+                                "name": "Deepak Punia",
+                                "country": "IND",
+                                "status": -1
                             }
                         ]
                     },
                     "positions": {
                         "oro": {
-                            "name": null,
-                            "country": null
+                            "name": "David Morris Taylor",
+                            "country": "USA"
                         },
                         "plata": {
-                            "name": null,
-                            "country": null
+                            "name": "Hassan Yazdanicharati",
+                            "country": "IRI"
                         },
                         "bronce": [
                             {
-                                "name": null,
-                                "country": null
+                                "name": "Artur Naifonov",
+                                "country": "ROC"
                             },
                             {
-                                "name": null,
-                                "country": null
+                                "name": "Myle Nazem Amine",
+                                "country": "SMR"
                             }
                         ]
                     },
@@ -8107,7 +8119,7 @@
                     "after_comments": null,
                     "methodology": null,
                     "predicted": true,
-                    "updated": false,
+                    "updated": true,
                     "update_date": "2021/07/23"
                 }
             }
