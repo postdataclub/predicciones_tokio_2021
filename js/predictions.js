@@ -135,7 +135,7 @@ $.getJSON("data/domains.json", function (domains) {
                         switch (even.prediction.bronce.status) {
                             case 2:
                                 stats[sport].pred_medals += 1;
-                                stats.all.exact_medals += 1;
+                                stats[sport].exact_medals += 1;
                                 break;
                             case 1:
                                 stats[sport].pred_medals += 1;
