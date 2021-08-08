@@ -9,11 +9,31 @@ body {
     margin-bottom: 3px;
 }
 
+.team {
+    margin-left: 2.5%;
+    margin-right: 2.5%;
+}
+
 @media screen and (max-width:992px){
 body {
     margin-left: 5%;
     margin-right: 5%;
 }
+
+.team {
+    margin-left: 1%;
+    margin-right: 1%;
+}
+
+}
+
+a {
+    color:rgba(70,26,78,1);
+    font-weight: bold;
+}
+
+a:hover {
+    color:rgba(70,26,78,0.5);
 }
 
 .wrong {
@@ -197,4 +217,61 @@ a {
     padding: 15px;
     text-align: right;
     margin-bottom: 5px;
+}
+
+#navbar {
+    background-color: rgba(70,26,78,1);
+    color: white;
+    margin-bottom: 15px;   
+    padding-top: 3px;  
+    padding-bottom: 3px;
+}
+
+.menu-item {
+    background-color: rgba(70,26,78,1);
+    font-size: 20px;
+    margin: 0px;
+    padding-left: 5px; 
+    padding-top: 3px;  
+    padding-bottom: 3px;
+    padding-right: 5px;
+}
+
+.menu-item > a{
+    color: white;
+    
+    
+}
+
+.selected-item {
+    background-color: #6b4771;      
+}
+
+.menu-item:hover {
+    background-color: #6b4771;      
+}
+
+.label {
+    font-weight: bold;
+}
+
+.member {
+    margin-left: 10px;
+    margin-top: -5px;
+}
+
+.team {
+    font-size: 1.5rem;
+}
+
+.game-selector {
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size: 1.3rem;
+}
+
+.graph-text {
+    font-size: 1.5rem;
+    font-weight: bold;
 }

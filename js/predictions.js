@@ -151,7 +151,7 @@ $.getJSON("data/domains.json", function (domains) {
             if (stats.events == 1) { event1 = "evento pronosticado"; }
             let pos1 = "posibles"
             if (stats.total == 1) { pos1 = "posible" }
-            let text = "<div id='stats-total' class='stats-item''>" + stats.events + " " + event1 + " de " + stats.total + " " + pos1 + "</div>";
+            let text = "<div id='stats-total' class='stats-item''>" + stats.events + " " + event1 + " de " + stats.total + " " + pos1 + " ("+(stats.events*100/stats.total).toFixed(2)+"%)</div>";
             if (stats.updated_events == 1) {
                 text += "<div id='stats-pred' class='stats-item''>" + stats.updated_events + " evento pronosticado ha concluido</div>";
             } else {
@@ -159,20 +159,20 @@ $.getJSON("data/domains.json", function (domains) {
             }
             text += "<div id='stats-medals' class='stats-item''>" + stats.medals + " medallas repartidas en estos eventos</div>";
             if (stats.pred_medals == 1) {
-                text += "<div id='stats-medalists' class='stats-item''>" + stats.pred_medals + " medallista acertado de " + stats.medals + " posibles</div>";
+                text += "<div id='stats-medalists' class='stats-item''>" + stats.pred_medals + " medallista acertado de " + stats.medals + " posibles ("+(stats.pred_medals*100/stats.medals).toFixed(2)+"%)</div>";
             } else {
-                text += "<div id='stats-medalists' class='stats-item''>" + stats.pred_medals + " medallistas acertados de " + stats.medals + " posibles</div>";
+                text += "<div id='stats-medalists' class='stats-item''>" + stats.pred_medals + " medallistas acertados de " + stats.medals + " posibles ("+(stats.pred_medals*100/stats.medals).toFixed(2)+"%)</div>";
             }
             if (stats.exact_medals == 1) {
-                text += "<div id='stats-medalists' class='stats-item''>" + stats.exact_medals + " posición exacta de " + stats.medals + " posibles</div>";
+                text += "<div id='stats-medalists' class='stats-item''>" + stats.exact_medals + " posición exacta de " + stats.medals + " posibles ("+(stats.exact_medals*100/stats.medals).toFixed(2)+"%)</div>";
             } else {
-                text += "<div id='stats-medalists' class='stats-item''>" + stats.exact_medals + " posiciones exactas de " + stats.medals + " posibles</div>";
+                text += "<div id='stats-medalists' class='stats-item''>" + stats.exact_medals + " posiciones exactas de " + stats.medals + " posibles ("+(stats.exact_medals*100/stats.medals).toFixed(2)+"%)</div>";
             }
             let champ = "campeones pronosticados";
             if (stats.champions == 1) { champ = "campeón pronosticado" }
             let pos2 = "posibles";
             if (stats.updated_events == 1) { pos2 = "posible" }
-            text += "<div id='stats-medalists' class='stats-item''>" + stats.champions + " " + champ + " de " + stats.updated_events + " " + pos2 + "</div>";
+            text += "<div id='stats-medalists' class='stats-item''>" + stats.champions + " " + champ + " de " + stats.updated_events + " " + pos2 + " ("+(stats.champions*100/stats.updated_events).toFixed(2)+"%)</div>";
             return text;
         }
 

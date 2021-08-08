@@ -1,0 +1,618 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <link rel="icon" href="icon.png">
+    <title>Pronosticando Tokio</title>
+    <link href="css/custom.css" rel="stylesheet">
+
+    <meta name="keywords" content="tokio, postdataclub, matcom, uh, gia, predicciones">
+    <meta name="description" content="Una predicción compleja">
+
+    <meta property="og:title" content="Pronosticando Tokio - Metodología">
+    <meta property="og:url" content="http://www.postdata.club/predicciones_tokio_2021">
+    <meta property="og:description" content="Pronosticando varios deportes">
+    <meta property="og:image" content="images/tokio-banner.png">
+
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="https://twitter.com/postdataclub">
+    <meta name="twitter:creator" content="https://twitter.com/postdataclub">
+    <meta name="twitter:title" content="Pronosticando Tokio">
+    <meta name="twitter:description" content="Pronosticando varios deportes">
+    <meta name="twitter:image" content="images/tokio-banner.png">
+    <meta name="twitter:image:alt" content="Pronosticando Tokio">
+</head>
+
+<body>
+    <div id="banner">
+        <p>Pronósticos</p>
+        <img src="images/tokio-banner.png">
+    </div>
+    <div id="navbar">
+        <span class="menu-item"><a href="index.html">Pronósticos por Deportes</a></span>
+        <span class="menu-item"><a href="medallero.html">Pronósticos de Medallero</a></span>
+        <span class="menu-item selected-item"><a href="#">Metodología</a></span>
+        <span class="menu-item"><a href="equipo.html">Equipo</a></span>
+    </div>
+    <div id="filters"></div>
+    <div id="info" class=" team">
+        <p>Pronosticar el resultado de los distintos deportes implica una gran complejidad pues todos tienen
+            características diferentes. Aunque
+            algunos tienen elementos similares como pueden
+            ser, por ejemplo, los deportes de combate o los de marcas y tiempos, para todos no existen los mismos datos
+            o no funcionan por igual los mismos modelos
+            predictivos. Por estas razones, para cada deporte que se pronosticó se definió su propio modelo de
+            pronóstico. Asimismo, para el medallero general se debía
+            tener en cuenta todos los deportes y, por tanto, se trabajó en varias alternativas de modelos.
+        </p>
+        <p>
+            Estas son las ideas generales que se tuvieron en cuenta para, por cada deporte que vaticinamos, crear un
+            modelo de pronóstico.
+        </p>
+
+
+        <p class="label">Modelos de Pronóstico para el Atletismo</p>
+        <p>
+            Las predicciones del atletismo se realizaron basadas en simulaciones que logran obtener el resultado de cada
+            uno de los eventos que se pronosticaron.
+        </p>
+        <p>
+            Los datos relativos a cada uno de los atletas fueron extraídos del sitio de <a
+                href="http://www.worldathletics.org">World Athletics</a>.
+            De allí se obtuvo la
+            información de las marcas o tiempos de los atletas en las competencias reportadas desde el año 2018 hasta el
+            2021.
+            Se tuvieron en cuenta las competencias bajo techo para eventos en los que existe unra relativa igualdad de
+            condiciones (los eventos de saltos
+            y la impulsión de la bala).
+        </p>
+        <p>
+            Posteriormente, se
+            realizó un trabajo de preprocesamiento con el vector de resultados para cada atleta, en el cual se ponderan
+            las
+            marcas más recientes. Se eligió una ponderación lineal definida como [4,3,2,1], lo que significa que las
+            marcas realizadas en el 2021 aparecerán cuatro veces, las del 2020 se repetirán tres veces en el vector y
+            así sucesivamente. En determinados eventos, debido a las pocas marcas o competiciones, motivadas por la
+            Pandemia que afecta al mundo se variaron los años tenidos en cuenta así como la pondración.
+            Se agrego, además, un parámetro alpha a la ponderación que altera las marcas de la siguiente manera:
+        </p>
+        <ul>
+            <li>pond_val = (1 + alpha/cant_marcas) </li>
+            <li>marca_i = marca_i * pond_val</li>
+        </ul>
+        <p>
+            De esta forma, mientras menos marcas tiene un atleta mayor será el valor resultante de cada marca (para
+            eventos donde se busca maximizar el valor de la marca se toma alpha negativo). Consecuentemente, esto hace
+            que los atletas con mayor cantidad de marcas tengan mejores resultados (se puede interpretar como un factor
+            de experiencia).
+        </p>
+        <p>
+            Para estimar las marcas que harán los atletas en cada evento se utiliza un modelo Kernel Distribution
+            Estimation (KDE)
+            para estimar la función de densidad de probabilidad de las marcas o tiempos.
+        </p>
+        <p>
+            Posteriormente, se realizaron como mínimo 5000 simulaciones para cada uno de los eventos y se obtiene un
+            pronóstico atendiendo a los valores que más se repiten. Es decir, para seleccionar el orden los
+            participantes en la competencia, se calcula la moda de los lugares en los que quedó cada atleta. Es
+            seleccionado el atleta que más se repite el primer lugar, luego el que más repite el segundo lugar sin ser
+            el primero y así sucesivamente.
+        </p>
+
+
+
+
+        <p class="label">Modelos de Pronóstico para la Natación</p>
+        <p>
+            Los modelos de pronóstico de la Natación utilizaron un enfoque basado en simulaciones. El proceso de
+            simulación se dividió en tres procesos o componentes fundamentales:
+        </p>
+        <ol>
+            <li>La obtención de los datos: listado de nadadores inscritos y restricciones como nadadores eliminados de
+                cierto evento o el rango de tiempo del cual tomar los datos
+            </li>
+            <li>
+                La simulación de un torneo específico
+            </li>
+            <li>
+                La tabla de resultados: los podios resultantes por cada evento en cada simulación
+            </li>
+        </ol>
+        <p>
+            En el proceso de obteneción de los datos se intenta garantizar que estos cumplan las restricciones de rango
+            de
+            tiempo, nadadores eliminados y nadadores inscritos en las olimpiadas.
+        </p>
+        <p>
+            El proceso de simular el torneo es el encargado de producir una instancia de torneo para cada simulación. En
+            caso de que no haya un listado de nadadores preestablecido, el torneo no devolverá nada al iniciarlo. Los
+            torneos se ejecutan por niveles(eliminatorias , semifinales y la final), enfrentando en cada nivel a los
+            nadadores con mejor tiempo del nivel anterior. Un torneo termina una vez se hayan enfrentado los deportistas
+            que
+            forman el último nivel: el nivel compuesto solo por 8 nadadores.
+        </p>
+        <p>
+            Para decir quién entre los nadadores
+            resultará con mejor tiempo se tiene el nombre del
+            nadador, su mejor tiempo del ranking de la FINA, el nombre de su equipo, su media y la
+            varianza del conjunto de sus marcas. Este método calcula una variable aleatoria de distribución normal a
+            partir de la media y la varianza de cada nadador, además de utilizar la varianza de los jugadores con los
+            que nada en cada Serie para aumentar o disminuir la varianza propia a la hora de devolver el resultado. Cada
+            torneo se organiza en el modo en que se organizan los torneos olímpicos
+        </p>
+        <p>
+            Para obtener un pronóstico, se ejecutan múltiples simulaciones, resultando en distintos podios por cada
+            evento, cada uno con
+            una probabilidad de 1/N (N es el número de simulaciones).
+            Los N podios son mezclados posteriormente por lugar (Primer,
+            Segundo y Tercer Lugar)y sumadas las probabilidades para así determinar la probabilidad de cada nadador de
+            coger ese lugar. Luego se uno los valores para los 3 lugares en uno solo para materializar la probabilidad
+            de cada uno de
+            estos finalistas de coger podio solamente, sumándose sus respectivas probabilidades para cada lugar. Es este
+            último valor el que se usa para devolver las predicciones.
+        </p>
+        <p>
+            Los datos de los nadadores y sus resultados fueron extraidos desde el sitio de la Federación Internacional
+            de Natación (<a href="http://www.fina.org">FINA</a>).
+        </p>
+
+
+        <p class="label">Modelos de Pronóstico para la Lucha, el Taekwondo, el Boxeo y el Judo</p>
+        <p>
+            En el caso de los deportes de combate como la Lucha, el Taekwondo, el Boxeo y el Judo, fue utilizado un
+            enfoque basado en simulaciones para obtener los pronósticos.
+        </p>
+        <p>
+            La simulación tiene cuatro componentes fundamentales:
+        </p>
+        <ol>
+            <li>
+                El organigrama
+            </li>
+            <li>
+                La tabla de probabilidades P
+            </li>
+            <li>
+                La tabla de probabilidades R
+            </li>
+            <li>
+                La tabla de probabilidades I
+            </li>
+        </ol>
+        <p>
+            La tabla de probabilidades P(X,Y) estima la probabilidad de que el deportista X gane al deportista Y según
+            información de combates directos entre ambos.
+        </p>
+        <p>
+            La tabla de probabilidades R(X,Y) estima la probabilidad de que el deportista X quede en una posición mejor
+            a la del deportista Y en un torneo en el que ambos participaron, o sea, estima la probabilidad de que X gane
+            a Y según información de torneos en los que participaron ambos pero no combatieron directamente
+            necesariamente..
+        </p>
+        <p>
+            La tabla de probabilidades I(X,Y) estima la probabilidad de que el deportista X gane al deportista Y según
+            información global inherente de cada deportista, o sea, estima la probabilidad de victoria según el número
+            de combates ganados o perdidos a nivel global.
+        </p>
+        <p>
+            En los tres casos, la información de combates o torneos se pondera según el año en que se realizaron,
+            priorizando la información de los torneos más recientes. Se usa la siguiente función de peso: 1 /
+            raiz_cuadrada(2022
+            - año).
+        </p>
+        <p>
+            El organigrama es el encargado de producir un instancia específica de torneo para cada simulación; en caso
+            de que no haya un organigrama oficial preestablecido, cada instancia de torneo se forma a partir de un
+            ordenamiento arbitrario de los deportistas a combatir. Los torneos se ejecutan por niveles, enfrentando en
+            cada nivel a los ganadores del nivel anterior. Un torneo termina una vez hayan combatido los deportistas que
+            forman el penúltimo nivel: el nivel compuesto solo por dos deportistas.
+        </p>
+        <p>
+            Para decidir quién entre una par de deportistas X y Y resultará ganador de un combate, se calcula C(X,Y) en
+            el intervalo [0,1],
+            valor que estima la probabilidad de que el deportista X gane al deportista Y en un combate. Para toda pareja
+            de deportistas, se garantiza que C(X,Y) = 1 - C(Y, X). El ganador se decide bajo una de las siguientes
+            estrategias configuradas a priori:
+        </p>
+        <ul>
+            <li>
+                Max: seleccionar de forma determinista entre X y Y aquel más probable
+                según C(X,Y) y C(Y,X) respectivamente
+            </li>
+            <li>
+                Bernoulli: seleccionar estocásticamente X con probabilidad C(X,Y) o Y en caso contrario.
+            </li>
+        </ul>
+        <p>
+            Las tablas de probabilidades P,R e I se utilizan para calcular C(X,Y). En caso de existir registro para
+            (X,Y)
+            en P, se toma C(X,Y) = P(X,Y); de no ser así, se procede análogamente primero con la tabla R y luego con la
+            tabla I. En caso de no existir un registro en las tablas P, R e I, se utiliza el valor C(X,Y) = 0.5
+            por defecto.
+        </p>
+        <p>
+            Para obtener un pronóstico, se ejecutan múltiples simulaciones, resultando en distintos rankings de los
+            deportistas. Los distintos
+            rankings son mezclados posteriormente en uno solo a partir de ordenar los deportistas según la media y
+            varianza de las posiciones que obtuvieron entre los distintos rankings individuales. Las medallas de oro,
+            plata y
+            bronces se asignan a las primeras cuatro posiciones en el ranking final respectivamente.
+        </p>
+        <p>
+            En el caso de la Lucha los datos de los deportistas fueron extraidos desde la <a
+                href=" www.iat.uni-leipzig.de/datenbanken/dbwrestling">base de datos</a> de la Universidad de Leipzig.
+            Con
+            estos datos,
+            para computar P(X,Y), se calculó la fracción de combates ganados por el deportista X sobre el total de
+            combates entre los deportistas X y Y.
+        </p>
+        <p>
+            Para computar R(X,Y), se calculó la función rank_inherente(X, Y) como el promedio (ponderado por fechas) de
+            las
+            posiciones (normalizadas según el total de participantes) alcanzadas por el deportista X en torneos en los
+            que también participó el deportista Y. Análogamente se calculó rank_inherente(Y, X). Siendo A el deportista
+            que obtuvo el menor rank_inherente y B el que obtuvo el mayor rank_inherente, se computa finalmente R(A,B) =
+            rank_inherente(A,B) / rank_inherente(B,A) / 2, y R(B,A) = 1 - R(A,B).
+        </p>
+        <p>
+            Para computar I(X,Y), se calculó rank_inherente(X) con la fracción de combates ganados por el deportista X
+            sobre el total de combates en los que participó. Análogamente se calculó rank_inherente(Y). Siendo A el
+            deportista que obtuvo el mejor rank_inherente y B el que obtuvo el mayor rank_inherente, se computa
+            finalmente I(A,B) = rank_inherente(A) / rank_inherente(B) / 2, e I(B,A) = 1 - I(A,B).
+        </p>
+        <p>
+            En el calculo de las tablas P, R e I se ponderó el peso de los combates según el año en que se realizaron.
+        </p>
+        <p>
+            En el caso del Taekwondo los datos fueron extraídos desde <a href="http://www.taekwondodata.com/">Taekwondo
+                Data</a>.
+            El procedimiento que se siguió fue similar al de la Lucha excepto que en este caso no fue posible calcular
+            la table R.
+        </p>
+        <p>
+            En el Boxeo los datos fueron obtenidos desde el sitio de la Asociación Internacional de Boxeo (<a
+                href="http://www.aiba.org/">AIBA</a>). Se siguió el mismo
+            modelo de la Lucha. En los tres casos (de la Lucha, el Taekwondo y el Boxeo) la estrategia para determinar
+            el ganador fue Bernoulli.
+        </p>
+        <p>
+            Los datos del Judo fueron obtenidos desde el sitio de la Federación Internacional de Judo (<a
+                href="http://www.ijf.org/">IJF</a>). Se siguó el
+            mismo esquema de la Lucha en cuanto al cómputo de las tablas P, R e I.
+        </p>
+        <p>
+            En el caso particular del Judo, se implementó un torneo con repechaje y se utilizó en todas las simulaciones
+            una instancia que reflejara exactamente el organigrama oficial para Tokio 2020. En las simulaciones, para
+            determinar el ganador de cada combate se siguió la estrategia Max.
+        </p>
+
+
+        <p class="label">Modelos de Pronóstico para el Tenis y el Tenis de Mesa</p>
+        <p>
+            En el caso de los deportes de raqueta: Tenis y Tenis de Mesa, fue utilizado un enfoque basado en modelos de
+            aprendizaje supervisado para obtener las predicciones.
+        </p>
+        <p>
+            Para el desarrollo de los modelos se trabajó en tres fases:
+        </p>
+        <ol>
+            <li>La creación del organigrama</li>
+            <li>La simulación del torneo</li>
+            <li>La predicción del ganador entre dos jugadores/equipos</li>
+        </ol>
+        <p>
+            El organigrama o listado de jugadores, determina una instancia específica de torneo. En caso de que no haya
+            un organigrama oficial preestablecido, cada instancia de torneo se forma a partir de un ordenamiento
+            arbitrario de los deportistas a combatir. Los torneos se ejecutan por niveles, enfrentando en cada nivel a
+            los ganadores del nivel anterior. En caso de que un nivel intermedio contenga un número impar de jugadores,
+            el último jugador pasa automaticamente al siguiente nivel.
+        </p>
+        <p>
+            Un torneo termina una vez hayan combatido los
+            deportistas que forman el penúltimo nivel: el nivel compuesto solo por dos deportistas. Para determinar el
+            ganador de un combate entre dos deportistas X y Y se utiliza un modelo de aprendizaje supervisado, el cual
+            asigna una probabilidad a cada jugador, aquel con mayor probabilidad, se considera ganador.
+        </p>
+        <p>
+            Para obtener un pronóstico, se ejecutan múltiples simulaciones, resultando en distintos medalleros (oro,
+            plata y bronce).
+            Para cada deportista se lleva el acumulado de medallas obtenidas y el medallero final es
+            conformado por los deportistas que obtivieron mayor acumulado en cada categoría (oro, plata y bronce).
+        </p>
+        <p>
+            Esta idea fue la misma tanto para el Tenis como para el Tenis de Mesa. En el caso del Tenis, Los datos de
+            los deportistas fueron extraidos desde los <a href="https://github.com/JeffSackmann">respositorios</a>
+            creados por Jeff Sackmann. Para la implementación del modelo se utilizaron los resultados publicados
+            en <a
+                href="https://nycdatascience.com/blog/student-works/predicting-winners-of-professional-tennis-matches/">Predicting
+                Winners of Professional Tennis Matches</a>. El algoritmo de aprendizaje de máquina utilizado fue
+            Logistic Regression
+            en su implementación de <a href="https://scikit-learn.org/stable/">scikit-learn</a>.
+
+        </p>
+        <p>
+            La ingeniería de features contempló los siguientes componentes:
+        </p>
+        <ol>
+            <li>
+                Surface: superficie de la cancha del partido
+            </li>
+            <li>
+                Level: nivel o tipo de torneo al que pertenece el partido
+            </li>
+            <li>
+                Win percent: el porcentaje de victorias de un jugador antes del partido
+            </li>
+            <li>
+                Surface win percent: el porcentaje de victorias de un jugador en la superficie de la cancha del partido
+                actual antes del partido
+            </li>
+            <li>
+                Level win percent: el porcentaje de victorias de un jugador en el nivel de torneo de una partida actual
+                antes de la partida
+            </li>
+            <li>
+                Head-to-head: la cantidad de partidos ganados por el jugador contra su oponente actual antes del partido
+            </li>
+            <li>
+                Recent Form: el porcentaje de victorias totales de un jugador antes del partido actual, más una
+                "penalización" de log10 (1- (% de victorias totales) + (% de victorias de los últimos 6 meses)).
+            </li>
+            <li>
+                Player Age: edad de los deportistas
+            </li>
+        </ol>
+        <p>
+            Para el caso del Tenis de Mesa, los datos de los deportistas fueron extraidos del <a
+                href="https://ranking.ittf.com/">ITTF World Ranking</a>.
+            Se utilizó el mismo modelo de pronóstico y algoritmo utilizado para el Tenis.
+        </p>
+        <p>
+            La ingeniería de features contempló los siguientes componentes que ya fueron comentados:
+        </p>
+        <ul>
+            <li>Win percent</li>
+            <li>Head-to-head</li>
+            <li>Player Age</li>
+        </ul>
+        Y se incorporaron los siguientes:
+        <ul>
+            <li>
+                Player Country: país del jugador
+            </li>
+            <li>
+                Head-to-head Difference: diferencia entre los valores *head-to-head* obtenidos para cada jugador
+            </li>
+        </ul>
+
+
+        <p class="label">Modelos de Pronóstico para el Tiro</p>
+        <p>
+            En el Tiro se pronosticó solamente la Pistola de Tiro Rápido a 25 metros. En este caso también se siguió
+            un enfoque basado en simulaciones para obtener los predicciones.
+        </p>
+        <p>
+            La simulación se dividió en tres proceso o componentes fundamentales:
+        </p>
+        <ol>
+            <li>
+                La obtención de los datos: el listado de competidores inscritos, sus puntuaciones en las clasificacones,
+                sus
+                puntuaciones en las finales y lugar obtenido, así como la estimación de los parámetros de cada atleta
+            </li>
+            <li>
+                La simulación de un torneo
+            </li>
+            <li>
+                La tabla de resultados: los podios resultantes de cada simulación
+            </li>
+        </ol>
+        <p>
+            Como datos, se tomaron las puntuaciones de clasificación desde 2012 en adelante de todos los eventos en los
+            que participó cada atleta clasificado. Para las finales se tomaron los las puntuaciones y el lugar en que
+            quedó en la final en cada final
+            en la que participó desde 2012.
+        </p>
+        <p>
+            Para estimar la puntuación que obtendrá un atleta en la clasificación se utilizaó un modelo de Kernel
+            Density
+            Estimation (KDE) para aproximar la distribución de la puntuación.
+        </p>
+        <p>
+            En la final de este evento se puntuá cada disparos con un punto
+            o cero (aciero o fallo) en dependencia del área donde impacte el disparo. Cada disparo en la final se puede
+            tratar como una distribución Bernulli cuyo parámetro se deb estimar, por tanto, en lugar de aproximar
+            la distribución de los puntos, se aproximará la distribución del parámetro de cada disparo.
+        </p>
+        <p>
+            Según el lugar obtenido por un tirador en la final
+            se sabe cuantos disparos realizó y por la puntuación que se obtuvo se sabe cuantos acertó. El cociente de
+            aciertos sobre total de disparos da la probabilida de acierto en esa final. Se utilizó KDE para
+            aproximar la probabilidad de acertar un disparo en la final. Para los atletas q nunca han participado en
+            alguna final se asume 0.5 como probabilidad.
+        </p>
+        <p>
+            El proceso de simular el torneo es el encargado de producir una instancia de torneo para cada simulación.
+            Los torneos se ejecutan en 2 faces: clasificación y final. En la fase de clasificación, para cada atleta, se
+            muestrea de la distribución aproximada de puntos y se ordenan los atletas en orden decreciente repecto a
+            estos puntos. Para la fase final, se toman los 6 primeros atletas, para cada uno se muestrea la probabilidad
+            de acertar un disparo en la final y se genera una ditribución Binomial(b,40) donde b es la probabilidad de
+            acertar,
+            luego se ordenan por disparos acertados. Cada torneo se organiza en el modo en que se organizan en las
+            olimpiadas.
+        </p>
+        <p>
+            Para obtener un pronóstico, se ejecutaron múltiples simulaciones, resultando en distintos podios por cada
+            evento.
+            Por cada
+            tirador se calculó la media de todos los lugares en que quedó a lo largo de las simulaciones, además del
+            intervalo de confianza del 95%. Los atletas son ordenados por el lugar medio. Este orden muestra los lugares
+            de cada atleta y con el intervalo se observa cuanta varianza hay respecto al lugar que se predice.
+        </p>
+        <p>
+            Los datos de los tiradores fueron extraidos desde el sitio de la Federación Internacional de Tido (<a
+                href="http://www.issf-sports.org">issf-sports</a>)
+        </p>
+
+        <p class="label">Modelos de Pronóstico para el Pentatlón Moderno</p>
+        <p>
+            En el Pentatlón Moderno también se siguión un enfoque basado en simulaciones para poder obtener las
+            distintas predicciones.
+        </p>
+        <p>
+            La simulación se basa en tres procesos o componentes fundamentales:
+        </p>
+        <ol>
+            <li>
+                La obtención de los datos: el listado de competidores inscritos, los tiempos y puntuaciones en cada
+                modalidad y
+                la estimación de los parámetros de cada atleta
+            </li>
+            <li>
+                La simulación de un torneo
+            </li>
+            <li>
+                La tabla de resultados: los podios resultantes de cada simulación
+            </li>
+        </ol>
+        <p>
+            Los datos se obtuvieron de varios eventos desde 2019 hasta la fecha. De estos, se extrajeron para natación
+            los
+            tiempos, para la combinada de carrera a pie y el tiro con pistola se extrajeron los tiempos sin
+            contar el hándicap, para la esgrima se extrajeron las victorias y el total de combates y para el salto
+            ecuestre se
+            extrajeron las puntuaciones. Para las fases de natación y carrera con disparo se aproximaron los tiempos
+            utilizando Kernel Density Estimation (KDE). Para el salto ecuestre se estimó la puntuacion directamente con
+            KDE. Para ;a esgrima utilizando las victorias sobre el total de encuentros se tiene la probabilidad de que
+            gane un encuentro, utilizando KDE se aproximó la distribución de la probabilidad de ganar un encuentro.
+        </p>
+        <p>
+            El proceso de simular el torneo se encargó de de producir una instancia de torneo para cada simulación.
+            Los torneos se ejecutan en 4 faces: esgrima, natación, salto ecuestre y combinada de carrera a pie campo a
+            través y tiro con pistola. En la esgrima, por cada atleta se muestrea la probabilida de ganar un encuentro,
+            luego se simulan las peleas, uno contra uno, de cada atleta con los demás de la siguente manera:
+        </p>
+        <ul>
+            <li>
+                Se genera una distribución Uniforme(0,1), para el atleta 1, si el numero generado es menor que la
+                probabilidad muestreada de ganar entonces se dice que es probable ganador
+            </li>
+            <li>
+                Se hace el proceso anterior para el atleta 2
+            </li>
+            <li>
+                Si el atleta 1 es posible ganador y el atleta 2 no, o viceversa, entonces al pentatleta ganador se le
+                suma una
+                victoria. Si ambos atletas son probables gananadores entonces se comparan sus probabilidades de victoria
+                y gana el que tenga mayor. Si ambos atletas no son probables ganadore entonces ambos pierden.
+            </li>
+        </ul>
+        <p>
+            En función de las victorias y derrotas se puntúa a cada atleta al finalizar esta fase.
+        </p>
+        <p>
+            Para la fase de natación se muestrean los tiempos de cada atleta y se puntúan según estos tiempos.
+        </p>
+        <p>
+            El el caso del salto ecuestre se muestrea la puntuación directamente.
+        </p>
+        <p>
+            Para la combinada de carrera a pie y el tiro con pistola se ordenan los atletas por la suma de los
+            puntos de las tres fases anteriores y se le aplica el handicap a cada uno. Luego se muestrea el tiempo y se
+            le suma el handicac calculado, esto representa el tiempo total en esta prueba. Los atletas son ordenado por
+            el tiempo total (tiempo de carrera + handicap) en esta última fase y esas son las posiciones que obtienen.
+        </p>
+        <p>
+            Para obtener un pronóstico, se ejecutaron múltiples simulaciones, resultando en distintos podios por cada
+            evento.
+            Por cada
+            pentatleta se calculó la media de todos los lugares en que quedó a lo largo de las simulaciones, además del
+            intervalo de confianza del 95%. Los atletas son ordenados por el lugar medio. Este orden muestra los lugares
+            de cada atleta y con el intervalo se observa cuanta varianza hay respecto al lugar que se predice.
+        </p>
+        <p>
+            Los datos de los pentatletas fueron obtenido desde el sitio de la Unión Internacional de Pentatlón Moderno
+            (<a href="http://uipmworld.org">uipmworld</a>).
+        </p>
+
+        <p class="label">Modelos de Pronóstico para el Béisbol, el Sófbol y el Voleibol</p>
+        <p>
+            El enfoque tomado para realizar las predicciones de los deportes por equipos fue utilizar modelos de
+            aprendizaje supervisado entrenados a partir de los resultados obtenidos en olimpiadas anteriores de cada
+            dispiplina, además de otro
+            torneo que se pudiera considerar como su equivalente a torneo mundial (por ejemplo: En el beisbol se
+            utilizaron lso resultados de
+            los Clasicos Mundiales, en el Volleyboll los resultado del Campeonato Mundial, etc.)
+        </p>
+        <p>
+            La estrategía utilizada para seleccionar el modelo de aprendizaje fue escogerlo mediante técnicas de
+            aprendizaje de máquinas automático (AutoML).
+            En este caso específo se utilizó el proyecto <a href="https://autogoal.github.io/">AutoGOAL</a> que es la
+            propuesta para hacer AutoML del Grupo de IA de la
+            Facultad de Matemática y Computación de la Universidad de La Habana.
+        </p>
+        <p>
+            Para poder realizar un predicción con un modelo de aprendizaje supervisado es necesario conformar vectores
+            de entrenamiento.
+            En estos casos, los véctores de entrenamiento se compusieron de los resultados normalizados de los 6 torneos
+            de un determinado
+            país anteriores al torneo que se deseaba predecir de ese país ordenados temporalmente. En estos torneos se
+            encontraban tanto los Juegos Olimpicos como la otra competición referente a los mundiales, quedando ambas
+            competiciones intercaladas. Como valor de predicción se toma el resultado normalizado de ese país del torneo
+            que se
+            desea predecir.
+        </p>
+        <p>
+            Luego, con el modelo entrenado para cada disciplina, utilizando los 6 resultado previos normalizados,
+            intercalando las olimpiadas y la otra competición referente a los mundiales de cada país para esa
+            disciplina, se
+            predijo la posición normalizada que ocuparía. Posteriormente, realizando una ordenación de estos resultados
+            se obtuvo
+            la predicción de la tabla de lugares de cada disciplina. Los medallistas corresponden a los tres primeros
+            lugares de dicha tabla.
+        </p>
+        <p>
+            En los torneos en los que un determinado país no asistió, este se penalizó con un valor de 2 (mientras que
+            el peor lugar del país asistía al torneo obtenía el valor 1 por la normalización).
+        </p>
+        <p>
+            Los datos fueron obtenidos manualmente a partir de la consulta de mútiples sitios web. Estos se pueden consultar
+            en este <a href="https://drive.google.com/drive/folders/1AmdY4OhGjPAxnXJSfLIp3YfgesRyBFXR?usp=sharing">documento</a> en Google Drive.
+        </p>
+        <p>
+            El procedimiento seguido puede ser consultado  en <a href="https://colab.research.google.com/drive/158oWD0J883hsxPG_34rUyl3jMyFckfZD?usp=sharing">Colab</a>.
+        </p>
+
+        <p class="label">Modelos de Pronóstico para el Medallero General</p>
+        <p>
+            Para poder estimar el Medallero General de la Olimpiada se siguió un enfoque basado en aprendizaje de máquina supervisado. Se realizaron tres 
+            predicciones siguiendo tres modelos diferentes de regresión: Ridge, Lasso y Elastic Net. Para poder realizar la predicción se conformaron vectores
+            de entrenamiento que tenían los datos, por país, de las medallas de oro, plata y bronce que obtuvieron en cada olimpiada desde el año 2000. 
+            Además, el vector tiene en cuenta los resultados en los eventos mundiales o equivalentes de cada país, por cada deporte, en el período entre olimpiadas.
+        </p>
+        <p>
+            Estos resultados, por deporte, se normalizaron en función de la cantidad de medallas que cada deporte aporta en cada cita olímpica. La suma de estos
+            valores normalizados promediada por la cantidad de eventos por deporte, así como la suma de los resultados normalizados del último evento de cada deporte
+            fue lo que conformó el vector de entrenamiento final junto a los resultados a predecir. 
+        </p>
+        <p>
+            De esta manera, con los resultado de la olimpiada previa, los resultados normalizados entre olimpiadas y los resultados normalizados de los últimos eventos, 
+            se predecía los resultados de la próxima olimpiada. Para esto se construyeron un modelo por cada tipo de medalla: uno para el oro, uno para la plata y otro 
+            para el bronce.
+        </p>
+        <p>
+            Una explicación más detallada del proceso se puede consultar en el artículo <a href="https://www.postdata.club/issues/202107/el-medallero-en-tokio-2020.html">El medallero en Tokio 2020</a>
+        </p>
+    </div>
+    <div id="footer">
+        <p id="footer-note">Este proyecto es una colaboración entre <a
+                href="https://www.postdata.club">Postdata.club</a> y el Grupo de Inteligencia Articial de la Universidad
+            de La Habana.</p>
+        <p id="logos"><img id="logo-pd" class="logo" src="images/logo-pd.png"> <img id="logo-gia" class="logo"
+                src="images/logo-gia.png"></p>
+        <p id="copytright">Copyright &copy; 2021</p>
+    </div>
+</body>
+
+</html>
