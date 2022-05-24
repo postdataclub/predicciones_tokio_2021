@@ -1704,7 +1704,7 @@
                         "bronce": {
                             "name": "Anita Włodarczyk",
                             "country": "POL",
-                            "status": 2
+                            "status": 1
                         }
                     },
                     "positions": {
@@ -6935,7 +6935,7 @@
                             {
                                 "name": "Tamerlan Bashaev",
                                 "country": "ROC",
-                                "status": 1
+                                "status": 2
                             },
                             {
                                 "name": "Yakiv Khammo",
